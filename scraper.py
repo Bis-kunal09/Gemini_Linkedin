@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 # Target Job Title and Location
 KEYWORDS = "Data Engineer"
-LOCATION = "Remote"  # e.g., "United States", "India", "Remote"
+LOCATION = "Noida"  # e.g., "United States", "India", "Remote"
 DATA_FILE = "jobs.json"
 
 # LinkedIn public job search endpoint
