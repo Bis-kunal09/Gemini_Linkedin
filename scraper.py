@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 # Target Job Title and Location
 KEYWORDS = "Data Engineer"
-LOCATION = "Noida"  # e.g., "United States", "India", "Remote"
+LOCATION = "Noida","Gurugram"  # e.g., "United States", "India", "Remote"
 DATA_FILE = "jobs.json"
 
 # LinkedIn public job search endpoint
@@ -30,7 +30,21 @@ def load_existing_jobs():
         except json.JSONDecodeError:
             logging.warning(f"Could not parse {DATA_FILE}, starting fresh.")
     return []
+# Tech keywords to detect
+TECH_KEYWORDS = [
+    "Python", "SQL", "Spark", "PySpark", "Snowflake", "Databricks", 
+    "AWS", "GCP", "Azure", "dbt", "Airflow", "Kafka", "BigQuery", 
+    "Redshift", "PostgreSQL", "Docker", "Kubernetes", "Scala"
+]
 
+def extract_skills(title):
+    """Extract skills mentioned in the job title/metadata."""
+    found_skills = []
+    for skill in TECH_KEYWORDS:
+        # Match whole words ignoring case
+        if re.search(r'\b' + re.escape(skill) + r'\b', title, re.IGNORECASE):
+            found_skills.append(skill)
+    return found_skills
 def save_jobs(jobs):
     """Save updated job list back to JSON file."""
     with open(DATA_FILE, "w", encoding="utf-8") as f:
@@ -85,7 +99,8 @@ def fetch_jobs():
                 "location": location,
                 "link": link,
                 "posted_date": posted_date,
-                "scraped_at": datetime.utcnow().isoformat()
+                "scraped_at": datetime.utcnow().isoformat(),
+                "skills": extract_skills(title)
             })
         except Exception as e:
             logging.debug(f"Error parsing job card: {e}")
