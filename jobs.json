@@ -1,5 +1,95 @@
 [
   {
+    "job_id": "4452988463",
+    "title": "Azure Databricks Engineer",
+    "company": "Durapid Technologies Private Limited",
+    "location": "Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/azure-databricks-engineer-at-durapid-technologies-private-limited-4452988463",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571411"
+  },
+  {
+    "job_id": "4450491629",
+    "title": "Senior-Data Engineer",
+    "company": "WPP Media",
+    "location": "Gurgaon, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-data-engineer-at-wpp-media-4450491629",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571346"
+  },
+  {
+    "job_id": "4450483707",
+    "title": "Senior Data Engineer",
+    "company": "WPP Media",
+    "location": "Gurgaon, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-data-engineer-at-wpp-media-4450483707",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571284"
+  },
+  {
+    "job_id": "4453646327",
+    "title": "Azure Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Noida, Uttar Pradesh, India",
+    "link": "https://in.linkedin.com/jobs/view/azure-data-engineer-at-tata-consultancy-services-4453646327",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571221"
+  },
+  {
+    "job_id": "4452928555",
+    "title": "Data Engineer - Python Developer",
+    "company": "SAP",
+    "location": "Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/data-engineer-python-developer-at-sap-4452928555",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571153"
+  },
+  {
+    "job_id": "4450480276",
+    "title": "Data Engineer",
+    "company": "EXL",
+    "location": "Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-exl-4450480276",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571069"
+  },
+  {
+    "job_id": "4453658414",
+    "title": "AWS Data Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Noida, Uttar Pradesh, India",
+    "link": "https://in.linkedin.com/jobs/view/aws-data-engineer-at-tata-consultancy-services-4453658414",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.571002"
+  },
+  {
+    "job_id": "4450451910",
+    "title": "Data Engineer",
+    "company": "Wishlink",
+    "location": "Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-wishlink-4450451910",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.570923"
+  },
+  {
+    "job_id": "4425836631",
+    "title": "Data Engineer with Bigdata, Spark, Hive and Airflow | Basic knowledge working with Kubernetes IRC274090",
+    "company": "GlobalLogic",
+    "location": "Noida, Uttar Pradesh, India",
+    "link": "https://in.linkedin.com/jobs/view/data-engineer-with-bigdata-spark-hive-and-airflow-basic-knowledge-working-with-kubernetes-irc274090-at-globallogic-4425836631",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.570816"
+  },
+  {
+    "job_id": "4452954102",
+    "title": "Data Engineer",
+    "company": "Nutrabay",
+    "location": "Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-nutrabay-4452954102",
+    "posted_date": "2026-08-13",
+    "scraped_at": "2026-08-13T18:07:20.570700"
+  },
+  {
     "job_id": "4443955652",
     "title": "Data Engineer",
     "company": "Speria",
