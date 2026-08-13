@@ -1,182 +1,520 @@
 [
   {
-    "job_id": "4452988463",
-    "title": "Azure Databricks Engineer",
-    "company": "Durapid Technologies Private Limited",
-    "location": "Gurugram, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/azure-databricks-engineer-at-durapid-technologies-private-limited-4452988463",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571411"
+    "id": "18e215ee21",
+    "title": "Software Engineer",
+    "company": "Nuvo",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nuvo-4378357766",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Nuvo (New York, NY)."
   },
   {
-    "job_id": "4450491629",
-    "title": "Senior-Data Engineer",
-    "company": "WPP Media",
-    "location": "Gurgaon, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/senior-data-engineer-at-wpp-media-4450491629",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571346"
+    "id": "c128470a4d",
+    "title": "Software Engineer, Cash & Close",
+    "company": "Numeric",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-cash-close-at-numeric-4446125803",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer, Cash & Close opportunity at Numeric (New York, NY)."
   },
   {
-    "job_id": "4450483707",
-    "title": "Senior Data Engineer",
-    "company": "WPP Media",
-    "location": "Gurgaon, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/senior-data-engineer-at-wpp-media-4450483707",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571284"
+    "id": "244119c9a9",
+    "title": "Software Engineer",
+    "company": "Aroghia Group, LLC",
+    "location": "Beaverton, OR",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-aroghia-group-llc-4446240091",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Aroghia Group, LLC (Beaverton, OR)."
   },
   {
-    "job_id": "4453646327",
-    "title": "Azure Data Engineer",
-    "company": "Tata Consultancy Services",
-    "location": "Noida, Uttar Pradesh, India",
-    "link": "https://in.linkedin.com/jobs/view/azure-data-engineer-at-tata-consultancy-services-4453646327",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571221"
+    "id": "c18818ebd7",
+    "title": "Full Stack Engineer",
+    "company": "HoundDog",
+    "location": "Columbia, MO",
+    "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-hounddog-4445525553",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Full Stack Engineer opportunity at HoundDog (Columbia, MO)."
   },
   {
-    "job_id": "4452928555",
-    "title": "Data Engineer - Python Developer",
-    "company": "SAP",
-    "location": "Gurugram, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/data-engineer-python-developer-at-sap-4452928555",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571153"
+    "id": "f92f1d2441",
+    "title": "Software Engineer",
+    "company": "Candid Health",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-candid-health-4339199299",
+    "date_posted": "8 months ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Candid Health (New York, NY)."
   },
   {
-    "job_id": "4450480276",
-    "title": "Data Engineer",
-    "company": "EXL",
-    "location": "Gurugram, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-exl-4450480276",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571069"
+    "id": "5e69af2b09",
+    "title": "Software Engineer, Product",
+    "company": "Numeric",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-product-at-numeric-4442182232",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Software Engineer, Product opportunity at Numeric (New York, NY)."
   },
   {
-    "job_id": "4453658414",
-    "title": "AWS Data Engineer",
-    "company": "Tata Consultancy Services",
-    "location": "Noida, Uttar Pradesh, India",
-    "link": "https://in.linkedin.com/jobs/view/aws-data-engineer-at-tata-consultancy-services-4453658414",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.571002"
+    "id": "9f893cd20f",
+    "title": "Software Engineer - Developer Productivity",
+    "company": "Palantir Technologies",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-developer-productivity-at-palantir-technologies-3645491923",
+    "date_posted": "3 years ago",
+    "skills": [],
+    "description": "Software Engineer - Developer Productivity opportunity at Palantir Technologies (New York, NY)."
   },
   {
-    "job_id": "4450451910",
-    "title": "Data Engineer",
-    "company": "Wishlink",
-    "location": "Gurugram, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-wishlink-4450451910",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.570923"
+    "id": "a04c7fb8d3",
+    "title": "Software Engineer",
+    "company": "Amentum",
+    "location": "Adelaide, South Australia, Australia",
+    "link": "https://au.linkedin.com/jobs/view/software-engineer-at-amentum-4444973647",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Amentum (Adelaide, South Australia, Australia)."
   },
   {
-    "job_id": "4425836631",
-    "title": "Data Engineer with Bigdata, Spark, Hive and Airflow | Basic knowledge working with Kubernetes IRC274090",
-    "company": "GlobalLogic",
-    "location": "Noida, Uttar Pradesh, India",
-    "link": "https://in.linkedin.com/jobs/view/data-engineer-with-bigdata-spark-hive-and-airflow-basic-knowledge-working-with-kubernetes-irc274090-at-globallogic-4425836631",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.570816"
+    "id": "fd70158090",
+    "title": "Software Engineer",
+    "company": "QinetiQ",
+    "location": "Manchester, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-qinetiq-4344103547",
+    "date_posted": "4 months ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at QinetiQ (Manchester, England, United Kingdom)."
   },
   {
-    "job_id": "4452954102",
-    "title": "Data Engineer",
-    "company": "Nutrabay",
-    "location": "Gurugram, Haryana, India",
-    "link": "https://in.linkedin.com/jobs/view/data-engineer-at-nutrabay-4452954102",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:07:20.570700"
+    "id": "f663a1984f",
+    "title": "Software Engineer",
+    "company": "QCP",
+    "location": "Greater London, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-qcp-4443888400",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at QCP (Greater London, England, United Kingdom)."
   },
   {
-    "job_id": "4443955652",
-    "title": "Data Engineer",
-    "company": "Speria",
-    "location": "Atlanta, GA",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-speria-4443955652",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461959"
+    "id": "19956ea3e7",
+    "title": "Python Developer",
+    "company": "Open Systems Technologies",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
+    "date_posted": "1 week ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Open Systems Technologies (New York, NY)."
   },
   {
-    "job_id": "4453213045",
-    "title": "Data Engineer / Data Platform Engineer (w/m/d)",
-    "company": "KPMG IT Service GmbH",
-    "location": "Berlin, Berlin, Germany",
-    "link": "https://de.linkedin.com/jobs/view/data-engineer-data-platform-engineer-w-m-d-at-kpmg-it-service-gmbh-4453213045",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461868"
+    "id": "9db8b44279",
+    "title": "Middle Backend Developer",
+    "company": "AML Crypto",
+    "location": "Marion County, IN",
+    "link": "https://www.linkedin.com/jobs/view/middle-backend-developer-at-aml-crypto-4441930264",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Middle Backend Developer opportunity at AML Crypto (Marion County, IN)."
   },
   {
-    "job_id": "4450455775",
-    "title": "Data Engineer",
-    "company": "IBM",
-    "location": "Austin, TX",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ibm-4450455775",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461770"
+    "id": "31ed297ce5",
+    "title": "Python Developer",
+    "company": "ACI INFOTECH",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-aci-infotech-4408261449",
+    "date_posted": "3 months ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at ACI INFOTECH (New York, NY)."
   },
   {
-    "job_id": "4443430992",
-    "title": "Data Engineer, Payments",
-    "company": "Whatnot",
-    "location": "Los Angeles, CA",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-payments-at-whatnot-4443430992",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461666"
+    "id": "4c3281df7e",
+    "title": "Python Developer",
+    "company": "VLink Inc",
+    "location": "Lafayette, Louisiana Metropolitan Area",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454054704",
+    "date_posted": "3 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at VLink Inc (Lafayette, Louisiana Metropolitan Area)."
   },
   {
-    "job_id": "4453686594",
-    "title": "Data Engineer (w/m/d)",
-    "company": "taod Consulting GmbH",
-    "location": "Stuttgart, Baden-Württemberg, Germany",
-    "link": "https://de.linkedin.com/jobs/view/data-engineer-w-m-d-at-taod-consulting-gmbh-4453686594",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461566"
+    "id": "d4b6ead1f8",
+    "title": "Python Developer",
+    "company": "Leidos",
+    "location": "Columbus, OH",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-leidos-4441089217",
+    "date_posted": "3 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Leidos (Columbus, OH)."
   },
   {
-    "job_id": "4452718643",
-    "title": "Data Engineer",
-    "company": "Sofina",
-    "location": "Singapore, Singapore",
-    "link": "https://sg.linkedin.com/jobs/view/data-engineer-at-sofina-4452718643",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461425"
+    "id": "08d56d573d",
+    "title": "Backend Software Engineer",
+    "company": "General Sleep Corporation",
+    "location": "Cleveland, OH",
+    "link": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-general-sleep-corporation-4447652604",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Backend Software Engineer opportunity at General Sleep Corporation (Cleveland, OH)."
   },
   {
-    "job_id": "4453347053",
-    "title": "Data Engineer",
-    "company": "DLA Piper",
-    "location": "Palo Alto, CA",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-dla-piper-4453347053",
-    "posted_date": "2026-08-12",
-    "scraped_at": "2026-08-13T18:04:54.461234"
+    "id": "4cf4af6c70",
+    "title": "W2 Only :: Python Developer :: Local to NY",
+    "company": "KPG99 INC",
+    "location": "New York, United States",
+    "link": "https://www.linkedin.com/jobs/view/w2-only-python-developer-local-to-ny-at-kpg99-inc-4452458853",
+    "date_posted": "2 days ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "W2 Only :: Python Developer :: Local to NY opportunity at KPG99 INC (New York, United States)."
   },
   {
-    "job_id": "4443972400",
-    "title": "Data Engineer - MarTech",
-    "company": "7-Eleven",
-    "location": "Irving, TX",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-martech-at-7-eleven-4443972400",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.461007"
+    "id": "888ae5721f",
+    "title": "Mathematical Programmer",
+    "company": "AML Crypto",
+    "location": "Marion County, IN",
+    "link": "https://www.linkedin.com/jobs/view/mathematical-programmer-at-aml-crypto-4441918877",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Mathematical Programmer opportunity at AML Crypto (Marion County, IN)."
   },
   {
-    "job_id": "4450496819",
-    "title": "Medior Data Engineer",
-    "company": "Xomnia",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "link": "https://nl.linkedin.com/jobs/view/medior-data-engineer-at-xomnia-4450496819",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.460794"
+    "id": "d752eecc01",
+    "title": "Python Developer",
+    "company": "Leidos",
+    "location": "San Antonio, TX",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-leidos-4441090127",
+    "date_posted": "3 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Leidos (San Antonio, TX)."
   },
   {
-    "job_id": "4442258688",
-    "title": "Data Engineer II",
-    "company": "MetLife",
-    "location": "Bridgewater, NJ",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-metlife-4442258688",
-    "posted_date": "2026-08-13",
-    "scraped_at": "2026-08-13T18:04:54.460618"
+    "id": "4e0d16ab90",
+    "title": "Python Engineer",
+    "company": "OVA.Work",
+    "location": "Alpharetta, GA",
+    "link": "https://www.linkedin.com/jobs/view/python-engineer-at-ova-work-4445996797",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Engineer opportunity at OVA.Work (Alpharetta, GA)."
+  },
+  {
+    "id": "2807d1004a",
+    "title": "Data Scientist - Mid-Level",
+    "company": "Bluehawk LLC, Intelligence Services",
+    "location": "Hawaii, United States",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-mid-level-at-bluehawk-llc-intelligence-services-4327096496",
+    "date_posted": "8 months ago",
+    "skills": [],
+    "description": "Data Scientist - Mid-Level opportunity at Bluehawk LLC, Intelligence Services (Hawaii, United States)."
+  },
+  {
+    "id": "8468c3a402",
+    "title": "Data Scientist",
+    "company": "Air",
+    "location": "Pittsburgh, PA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-air-4447999140",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Air (Pittsburgh, PA)."
+  },
+  {
+    "id": "84fe1ea312",
+    "title": "Data Scientist",
+    "company": "Primark",
+    "location": "Reading, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-primark-4448869391",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Primark (Reading, England, United Kingdom)."
+  },
+  {
+    "id": "5d5f388d73",
+    "title": "Data Scientist",
+    "company": "Rocket",
+    "location": "Detroit, MI",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-rocket-4410180969",
+    "date_posted": "6 days ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Rocket (Detroit, MI)."
+  },
+  {
+    "id": "25ffff6cf5",
+    "title": "Data Scientist",
+    "company": "Kochava",
+    "location": "Sandpoint, ID",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-kochava-4426139526",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Kochava (Sandpoint, ID)."
+  },
+  {
+    "id": "657783f79a",
+    "title": "Machine Learning Specialist",
+    "company": "ThoughtStorm",
+    "location": "Edmonton, Alberta, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/machine-learning-specialist-at-thoughtstorm-4452378707",
+    "date_posted": "1 day ago",
+    "skills": [
+      "Machine Learning"
+    ],
+    "description": "Machine Learning Specialist opportunity at ThoughtStorm (Edmonton, Alberta, Canada)."
+  },
+  {
+    "id": "e613a43bd7",
+    "title": "Data Scientist - AI Solutions",
+    "company": "CGI",
+    "location": "Halifax, Nova Scotia, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/data-scientist-ai-solutions-at-cgi-4453043606",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Data Scientist - AI Solutions opportunity at CGI (Halifax, Nova Scotia, Canada)."
+  },
+  {
+    "id": "4b2e05e872",
+    "title": "Data Scientist",
+    "company": "VySystems",
+    "location": "New York, United States",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-vysystems-4454040244",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at VySystems (New York, United States)."
+  },
+  {
+    "id": "161846a91c",
+    "title": "DATA SCIENTIST",
+    "company": "Klever Ai",
+    "location": "Houston, TX",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-klever-ai-4447891960",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "DATA SCIENTIST opportunity at Klever Ai (Houston, TX)."
+  },
+  {
+    "id": "a47873cb36",
+    "title": "Data Scientist",
+    "company": "Signific",
+    "location": "S\u00f6dermalm, Stockholm County, Sweden",
+    "link": "https://se.linkedin.com/jobs/view/data-scientist-at-signific-4288531790",
+    "date_posted": "11 months ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Signific (S\u00f6dermalm, Stockholm County, Sweden)."
+  },
+  {
+    "id": "ccdafaa2f8",
+    "title": "Frontend Engineer",
+    "company": "SafetyKit",
+    "location": "San Francisco, CA",
+    "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-safetykit-4318505438",
+    "date_posted": "9 months ago",
+    "skills": [],
+    "description": "Frontend Engineer opportunity at SafetyKit (San Francisco, CA)."
+  },
+  {
+    "id": "30367b4bad",
+    "title": "Front end Engineer",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
+  },
+  {
+    "id": "5089edf1cc",
+    "title": "UI Engineer",
+    "company": "Taxbit",
+    "location": "Seattle, WA",
+    "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
+  },
+  {
+    "id": "ed79fe3443",
+    "title": "Frontend Software Engineer",
+    "company": "Chalk",
+    "location": "San Francisco, CA",
+    "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
+  },
+  {
+    "id": "1b6eb586e4",
+    "title": "Software Engineer, Frontend",
+    "company": "Ramp",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4387483962",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Ramp (New York, NY)."
+  },
+  {
+    "id": "db3146bf76",
+    "title": "Front End Software Engineer",
+    "company": "Candid Health",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-candid-health-4429106316",
+    "date_posted": "4 weeks ago",
+    "skills": [],
+    "description": "Front End Software Engineer opportunity at Candid Health (New York, NY)."
+  },
+  {
+    "id": "b1e6373fac",
+    "title": "Software Engineer, Frontend",
+    "company": "Ramp",
+    "location": "Miami, FL",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4048167981",
+    "date_posted": "5 days ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Ramp (Miami, FL)."
+  },
+  {
+    "id": "4b19286d4a",
+    "title": "Software Engineer - Front End (New York)",
+    "company": "Edra",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-front-end-new-york-at-edra-4443628391",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Software Engineer - Front End (New York) opportunity at Edra (New York, NY)."
+  },
+  {
+    "id": "f4a2fe3c25",
+    "title": "Frontend Engineer - Luxury Travel",
+    "company": "Luxury Escapes",
+    "location": "Sydney, New South Wales, Australia",
+    "link": "https://au.linkedin.com/jobs/view/frontend-engineer-luxury-travel-at-luxury-escapes-4450469705",
+    "date_posted": "11 hours ago",
+    "skills": [],
+    "description": "Frontend Engineer - Luxury Travel opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
+  },
+  {
+    "id": "f012283c7f",
+    "title": "Software Engineer, Frontend",
+    "company": "Justworks",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-justworks-4442771500",
+    "date_posted": "2 days ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Justworks (New York, NY)."
+  },
+  {
+    "id": "df906a36d5",
+    "title": "DevOps Engineer",
+    "company": "Indica Labs",
+    "location": "Albuquerque, NM",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-indica-labs-4438426469",
+    "date_posted": "4 weeks ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Indica Labs (Albuquerque, NM)."
+  },
+  {
+    "id": "ddf7185b70",
+    "title": "DevOps Engineer",
+    "company": "WalkMe",
+    "location": "Detroit, MI",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4427575841",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
+  },
+  {
+    "id": "438d2fde9c",
+    "title": "AWS DevOps Engineer",
+    "company": "Harmony Healthcare IT",
+    "location": "South Bend, IN",
+    "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4451865056",
+    "date_posted": "2 days ago",
+    "skills": [
+      "AWS"
+    ],
+    "description": "AWS DevOps Engineer opportunity at Harmony Healthcare IT (South Bend, IN)."
+  },
+  {
+    "id": "b403c87bef",
+    "title": "DevOps Engineer II",
+    "company": "Knife River Corporation",
+    "location": "Bismarck, ND",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-ii-at-knife-river-corporation-4452607551",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "DevOps Engineer II opportunity at Knife River Corporation (Bismarck, ND)."
+  },
+  {
+    "id": "83a7f6917d",
+    "title": "DevOps Engineer",
+    "company": "Lorum",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-lorum-4416280287",
+    "date_posted": "20 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Lorum (New York, NY)."
+  },
+  {
+    "id": "773e562fa9",
+    "title": "DevOps Engineer",
+    "company": "Crash Champions",
+    "location": "Richardson, TX",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-crash-champions-4428066669",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Crash Champions (Richardson, TX)."
+  },
+  {
+    "id": "503f1bc3b2",
+    "title": "DevOps Engineer",
+    "company": "Mach Industries",
+    "location": "Huntington Beach, CA",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mach-industries-4405048987",
+    "date_posted": "4 days ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Mach Industries (Huntington Beach, CA)."
+  },
+  {
+    "id": "0ccabdc9a5",
+    "title": "DevOps Engineer",
+    "company": "The Swift Group, LLC",
+    "location": "San Antonio, TX",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-the-swift-group-llc-4330627822",
+    "date_posted": "5 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at The Swift Group, LLC (San Antonio, TX)."
+  },
+  {
+    "id": "937b82fbbe",
+    "title": "DevOps Engineer - Boston",
+    "company": "Perk",
+    "location": "Boston, MA",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-boston-at-perk-4442373157",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "DevOps Engineer - Boston opportunity at Perk (Boston, MA)."
+  },
+  {
+    "id": "fb84e0459c",
+    "title": "DevOps Engineer",
+    "company": "BD",
+    "location": "Ashland, OR",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-bd-4441629016",
+    "date_posted": "4 weeks ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at BD (Ashland, OR)."
   }
 ]
