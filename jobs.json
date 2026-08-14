@@ -249,7 +249,7 @@
     "company": "Rocket",
     "location": "Detroit, MI",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-rocket-4410180969",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist opportunity at Rocket (Detroit, MI)."
   },
@@ -269,7 +269,7 @@
     "company": "ThoughtStorm",
     "location": "Edmonton, Alberta, Canada",
     "link": "https://ca.linkedin.com/jobs/view/machine-learning-specialist-at-thoughtstorm-4452378707",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Machine Learning"
     ],
@@ -281,7 +281,7 @@
     "company": "CGI",
     "location": "Halifax, Nova Scotia, Canada",
     "link": "https://ca.linkedin.com/jobs/view/data-scientist-ai-solutions-at-cgi-4453043606",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist - AI Solutions opportunity at CGI (Halifax, Nova Scotia, Canada)."
   },
@@ -331,7 +331,7 @@
     "company": "Adobe",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
   },
@@ -401,7 +401,7 @@
     "company": "Luxury Escapes",
     "location": "Sydney, New South Wales, Australia",
     "link": "https://au.linkedin.com/jobs/view/frontend-engineer-luxury-travel-at-luxury-escapes-4450469705",
-    "date_posted": "23 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Frontend Engineer - Luxury Travel opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   },
@@ -411,7 +411,7 @@
     "company": "Justworks",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-justworks-4442771500",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Justworks (New York, NY)."
   },
@@ -483,7 +483,7 @@
     "company": "Mach Industries",
     "location": "Huntington Beach, CA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mach-industries-4405048987",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Mach Industries (Huntington Beach, CA)."
   },
@@ -652,7 +652,7 @@
     "company": "Accenture Australia",
     "location": "Melbourne, Victoria, Australia",
     "link": "https://au.linkedin.com/jobs/view/data-scientist-at-accenture-australia-4453246936",
-    "date_posted": "9 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Data Scientist opportunity at Accenture Australia (Melbourne, Victoria, Australia)."
   },
@@ -682,7 +682,7 @@
     "company": "Hilti North America",
     "location": "Tulsa, OK",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hilti-north-america-4450842996",
-    "date_posted": "6 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Hilti North America (Tulsa, OK)."
   },
@@ -702,7 +702,7 @@
     "company": "SATYA SOFT SOLUTIONS",
     "location": "Greater Jefferson City Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at SATYA SOFT SOLUTIONS (Greater Jefferson City Area)."
   },
@@ -715,5 +715,59 @@
     "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Requirements & skills opportunity at Han Solutions (Austin, TX)."
+  },
+  {
+    "id": "63fc74e733",
+    "title": "Python Developer",
+    "company": "CACI International Inc",
+    "location": "Chantilly, VA",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-caci-international-inc-4450834451",
+    "date_posted": "15 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at CACI International Inc (Chantilly, VA)."
+  },
+  {
+    "id": "b08435e75c",
+    "title": "Senior Python Developer",
+    "company": "Deloitte",
+    "location": "Morristown, NJ",
+    "link": "https://www.linkedin.com/jobs/view/senior-python-developer-at-deloitte-4438544337",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior Python Developer opportunity at Deloitte (Morristown, NJ)."
+  },
+  {
+    "id": "d84c837be7",
+    "title": "Frontend Engineer (Boston)",
+    "company": "General Medicine",
+    "location": "Boston, MA",
+    "link": "https://www.linkedin.com/jobs/view/frontend-engineer-boston-at-general-medicine-4429120758",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "Frontend Engineer (Boston) opportunity at General Medicine (Boston, MA)."
+  },
+  {
+    "id": "d8f807b602",
+    "title": "Front End Software Engineer",
+    "company": "Candid Health",
+    "location": "Denver, CO",
+    "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-candid-health-4429122044",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Front End Software Engineer opportunity at Candid Health (Denver, CO)."
+  },
+  {
+    "id": "ffddd6dc38",
+    "title": "Frontend Software Engineer",
+    "company": "CORTO",
+    "location": "Sydney, New South Wales, Australia",
+    "link": "https://au.linkedin.com/jobs/view/frontend-software-engineer-at-corto-4452094516",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Frontend Software Engineer opportunity at CORTO (Sydney, New South Wales, Australia)."
   }
 ]
