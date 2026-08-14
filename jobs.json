@@ -35,7 +35,7 @@
     "company": "HoundDog",
     "location": "Columbia, MO",
     "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-hounddog-4445525553",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Full Stack Engineer opportunity at HoundDog (Columbia, MO)."
   },
@@ -75,7 +75,7 @@
     "company": "Amentum",
     "location": "Adelaide, South Australia, Australia",
     "link": "https://au.linkedin.com/jobs/view/software-engineer-at-amentum-4444973647",
-    "date_posted": "2 weeks ago",
+    "date_posted": "48 minutes ago",
     "skills": [],
     "description": "Software Engineer opportunity at Amentum (Adelaide, South Australia, Australia)."
   },
@@ -138,8 +138,8 @@
     "title": "Python Developer",
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454054704",
-    "date_posted": "15 hours ago",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454541033",
+    "date_posted": "5 hours ago",
     "skills": [
       "Python"
     ],
@@ -173,7 +173,7 @@
     "company": "KPG99 INC",
     "location": "New York, United States",
     "link": "https://www.linkedin.com/jobs/view/w2-only-python-developer-local-to-ny-at-kpg99-inc-4452458853",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -361,7 +361,7 @@
     "company": "Ramp",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4387483962",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Ramp (New York, NY)."
   },
@@ -381,7 +381,7 @@
     "company": "Ramp",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4048167981",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Ramp (Miami, FL)."
   },
@@ -391,7 +391,7 @@
     "company": "Edra",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-front-end-new-york-at-edra-4443628391",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer - Front End (New York) opportunity at Edra (New York, NY)."
   },
@@ -493,7 +493,7 @@
     "company": "The Swift Group, LLC",
     "location": "San Antonio, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-the-swift-group-llc-4330627822",
-    "date_posted": "12 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at The Swift Group, LLC (San Antonio, TX)."
   },
@@ -682,7 +682,7 @@
     "company": "Hilti North America",
     "location": "Tulsa, OK",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hilti-north-america-4450842996",
-    "date_posted": "11 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Hilti North America (Tulsa, OK)."
   },
@@ -769,5 +769,125 @@
     "date_posted": "3 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at CORTO (Sydney, New South Wales, Australia)."
+  },
+  {
+    "id": "93f6381b40",
+    "title": "Software Engineer",
+    "company": "QCP",
+    "location": "Belfast, Northern Ireland, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-qcp-4443888400",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at QCP (Belfast, Northern Ireland, United Kingdom)."
+  },
+  {
+    "id": "1e579aad6d",
+    "title": "Software Developer",
+    "company": "Pioneer Software Solutions",
+    "location": "Edison, NJ",
+    "link": "https://www.linkedin.com/jobs/view/software-developer-at-pioneer-software-solutions-4449057383",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Software Developer opportunity at Pioneer Software Solutions (Edison, NJ)."
+  },
+  {
+    "id": "70a526a74a",
+    "title": "Core Data Scientist",
+    "company": "Optima Partners",
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/core-data-scientist-at-optima-partners-4436120078",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Core Data Scientist opportunity at Optima Partners (Edinburgh, Scotland, United Kingdom)."
+  },
+  {
+    "id": "c27dd0d65f",
+    "title": "Scientifique principal.e en donn\u00e9es // Senior Data Scientist",
+    "company": "SSENSE",
+    "location": "Montreal, Quebec, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Scientifique principal.e en donn\u00e9es // Senior Data Scientist opportunity at SSENSE (Montreal, Quebec, Canada)."
+  },
+  {
+    "id": "909dfd485e",
+    "title": "Senior Data Scientist",
+    "company": "Habber Tec Portugal",
+    "location": "Lisbon, Lisbon, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4450240989",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
+  },
+  {
+    "id": "b727bbf252",
+    "title": "Cientista de dados III - Home",
+    "company": "Serasa Experian",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-iii-home-at-serasa-experian-4443074662",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Cientista de dados III - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
+  },
+  {
+    "id": "08fbf13867",
+    "title": "Cientista de Dados II - Home",
+    "company": "Serasa Experian",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-ii-home-at-serasa-experian-4443071814",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Cientista de Dados II - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
+  },
+  {
+    "id": "1f5f9449fc",
+    "title": "Data Scientist - QuantumBlack, AI by McKinsey",
+    "company": "QuantumBlack, AI by McKinsey",
+    "location": "Seoul, Seoul, South Korea",
+    "link": "https://kr.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4398044103",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Data Scientist - QuantumBlack, AI by McKinsey opportunity at QuantumBlack, AI by McKinsey (Seoul, Seoul, South Korea)."
+  },
+  {
+    "id": "7df40ac163",
+    "title": "Senior Data Scientist",
+    "company": "Komodo Consulting",
+    "location": "Oeiras, Lisbon, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4452396971",
+    "date_posted": "2 days ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Komodo Consulting (Oeiras, Lisbon, Portugal)."
+  },
+  {
+    "id": "12a4149318",
+    "title": "Senior Data Scientist",
+    "company": "Miniclip",
+    "location": "Lisbon, Lisbon, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-miniclip-4369942470",
+    "date_posted": "5 months ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Miniclip (Lisbon, Lisbon, Portugal)."
+  },
+  {
+    "id": "5d5062fd19",
+    "title": "Senior Data Scientist",
+    "company": "Imaginary Cloud",
+    "location": "Lisboa, Lisbon, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-imaginary-cloud-4366515357",
+    "date_posted": "6 months ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Imaginary Cloud (Lisboa, Lisbon, Portugal)."
+  },
+  {
+    "id": "753471482c",
+    "title": "Senior Data Scientist",
+    "company": "1st Central",
+    "location": "Manchester, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/senior-data-scientist-at-1st-central-4450898775",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at 1st Central (Manchester, England, United Kingdom)."
   }
 ]
