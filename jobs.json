@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -139,7 +139,7 @@
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454054704",
-    "date_posted": "3 hours ago",
+    "date_posted": "10 hours ago",
     "skills": [
       "Python"
     ],
@@ -331,7 +331,7 @@
     "company": "Adobe",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
   },
@@ -401,7 +401,7 @@
     "company": "Luxury Escapes",
     "location": "Sydney, New South Wales, Australia",
     "link": "https://au.linkedin.com/jobs/view/frontend-engineer-luxury-travel-at-luxury-escapes-4450469705",
-    "date_posted": "11 hours ago",
+    "date_posted": "18 hours ago",
     "skills": [],
     "description": "Frontend Engineer - Luxury Travel opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   },
@@ -441,7 +441,7 @@
     "company": "Harmony Healthcare IT",
     "location": "South Bend, IN",
     "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4451865056",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "AWS"
     ],
@@ -453,7 +453,7 @@
     "company": "Knife River Corporation",
     "location": "Bismarck, ND",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-ii-at-knife-river-corporation-4452607551",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer II opportunity at Knife River Corporation (Bismarck, ND)."
   },
@@ -463,7 +463,7 @@
     "company": "Lorum",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-lorum-4416280287",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Lorum (New York, NY)."
   },
@@ -493,7 +493,7 @@
     "company": "The Swift Group, LLC",
     "location": "San Antonio, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-the-swift-group-llc-4330627822",
-    "date_posted": "5 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at The Swift Group, LLC (San Antonio, TX)."
   },
@@ -625,5 +625,65 @@
       "Python"
     ],
     "description": "Senior Python Engineer opportunity at Callibrity (Cincinnati, OH)."
+  },
+  {
+    "id": "f2bb4e36ad",
+    "title": "Software Engineer",
+    "company": "Voltai",
+    "location": "Palo Alto, CA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-voltai-4318514364",
+    "date_posted": "9 months ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Voltai (Palo Alto, CA)."
+  },
+  {
+    "id": "ea546ee3b8",
+    "title": "Data Scientist",
+    "company": "Agile Defense",
+    "location": "Mahinahina Camp, HI",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-agile-defense-4421971439",
+    "date_posted": "2 months ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Agile Defense (Mahinahina Camp, HI)."
+  },
+  {
+    "id": "4fec69e3d4",
+    "title": "Data Scientist",
+    "company": "Accenture Australia",
+    "location": "Melbourne, Victoria, Australia",
+    "link": "https://au.linkedin.com/jobs/view/data-scientist-at-accenture-australia-4453246936",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Accenture Australia (Melbourne, Victoria, Australia)."
+  },
+  {
+    "id": "77a908d92f",
+    "title": "data scientist",
+    "company": "Randstad Digital New Zealand",
+    "location": "Auckland, Auckland, New Zealand",
+    "link": "https://nz.linkedin.com/jobs/view/data-scientist-at-randstad-digital-new-zealand-4430221014",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "data scientist opportunity at Randstad Digital New Zealand (Auckland, Auckland, New Zealand)."
+  },
+  {
+    "id": "58e740dbcf",
+    "title": "Software Engineer (Web Platform)",
+    "company": "Hinoki",
+    "location": "San Francisco, CA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-web-platform-at-hinoki-4415282157",
+    "date_posted": "2 months ago",
+    "skills": [],
+    "description": "Software Engineer (Web Platform) opportunity at Hinoki (San Francisco, CA)."
+  },
+  {
+    "id": "368bfd47a0",
+    "title": "DevOps Engineer",
+    "company": "Hilti North America",
+    "location": "Tulsa, OK",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hilti-north-america-4450842996",
+    "date_posted": "1 hour ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Hilti North America (Tulsa, OK)."
   }
 ]
