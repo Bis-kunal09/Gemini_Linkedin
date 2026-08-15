@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -139,7 +139,7 @@
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454599863",
-    "date_posted": "15 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [
       "Python"
     ],
@@ -173,7 +173,7 @@
     "company": "KPG99 INC",
     "location": "New York, United States",
     "link": "https://www.linkedin.com/jobs/view/w2-only-python-developer-local-to-ny-at-kpg99-inc-4452458853",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python"
     ],
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -381,7 +381,7 @@
     "company": "Ramp",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4048167981",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Ramp (Miami, FL)."
   },
@@ -896,7 +896,7 @@
     "company": "Oso",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-oso-4363726700",
-    "date_posted": "6 months ago",
+    "date_posted": "7 months ago",
     "skills": [],
     "description": "Software Engineer opportunity at Oso (New York, NY)."
   },
@@ -1033,7 +1033,7 @@
     "company": "Wealthfront",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453710799",
-    "date_posted": "15 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (Seattle, WA)."
   },
@@ -1043,7 +1043,7 @@
     "company": "Wealthfront",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453713767",
-    "date_posted": "15 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (New York, NY)."
   },
@@ -1164,5 +1164,15 @@
       "Python"
     ],
     "description": "Python/ Pearl Developer opportunity at Matlen Silver (Chandler, AZ)."
+  },
+  {
+    "id": "e1fe9477d5",
+    "title": "DevOps Engineer",
+    "company": "Caesars Entertainment",
+    "location": "Reno, NV",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-caesars-entertainment-4409111101",
+    "date_posted": "3 months ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Caesars Entertainment (Reno, NV)."
   }
 ]
