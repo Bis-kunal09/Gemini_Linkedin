@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -139,7 +139,7 @@
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454599863",
-    "date_posted": "4 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [
       "Python"
     ],
@@ -331,7 +331,7 @@
     "company": "Adobe",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
   },
@@ -431,7 +431,7 @@
     "company": "WalkMe",
     "location": "Detroit, MI",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4427575841",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
   },
@@ -702,7 +702,7 @@
     "company": "SATYA SOFT SOLUTIONS",
     "location": "Greater Jefferson City Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at SATYA SOFT SOLUTIONS (Greater Jefferson City Area)."
   },
@@ -1033,7 +1033,7 @@
     "company": "Wealthfront",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453710799",
-    "date_posted": "9 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (Seattle, WA)."
   },
@@ -1043,7 +1043,7 @@
     "company": "Wealthfront",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453713767",
-    "date_posted": "9 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (New York, NY)."
   },
@@ -1113,7 +1113,7 @@
     "company": "Twenty",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-twenty-4413656303",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Twenty (New York, NY)."
   },
@@ -1140,5 +1140,29 @@
       "Python"
     ],
     "description": "Senior Python Software Engineer opportunity at Kommerce Hub (Tampa, FL)."
+  },
+  {
+    "id": "d08cb0e01e",
+    "title": "Python Developer",
+    "company": "Templeton & Partners - Innovative & Inclusive Hiring Solutions",
+    "location": "Houston, TX",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-templeton-partners-innovative-inclusive-hiring-solutions-4454014264",
+    "date_posted": "2 days ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Templeton & Partners - Innovative & Inclusive Hiring Solutions (Houston, TX)."
+  },
+  {
+    "id": "3c09f5b4e9",
+    "title": "Python/ Pearl Developer",
+    "company": "Matlen Silver",
+    "location": "Chandler, AZ",
+    "link": "https://www.linkedin.com/jobs/view/python-pearl-developer-at-matlen-silver-4453104701",
+    "date_posted": "1 day ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python/ Pearl Developer opportunity at Matlen Silver (Chandler, AZ)."
   }
 ]
