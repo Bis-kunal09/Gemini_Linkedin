@@ -55,7 +55,7 @@
     "company": "Numeric",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-product-at-numeric-4442182232",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Software Engineer, Product opportunity at Numeric (New York, NY)."
   },
@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -138,8 +138,8 @@
     "title": "Python Developer",
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454541033",
-    "date_posted": "5 hours ago",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454599863",
+    "date_posted": "4 hours ago",
     "skills": [
       "Python"
     ],
@@ -421,7 +421,7 @@
     "company": "Indica Labs",
     "location": "Albuquerque, NM",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-indica-labs-4438426469",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Indica Labs (Albuquerque, NM)."
   },
@@ -441,7 +441,7 @@
     "company": "Harmony Healthcare IT",
     "location": "South Bend, IN",
     "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4451865056",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -682,7 +682,7 @@
     "company": "Hilti North America",
     "location": "Tulsa, OK",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hilti-north-america-4450842996",
-    "date_posted": "17 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Hilti North America (Tulsa, OK)."
   },
@@ -889,5 +889,232 @@
     "date_posted": "8 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at 1st Central (Manchester, England, United Kingdom)."
+  },
+  {
+    "id": "26bcb78aa0",
+    "title": "Software Engineer",
+    "company": "Oso",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-oso-4363726700",
+    "date_posted": "6 months ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Oso (New York, NY)."
+  },
+  {
+    "id": "09407d784f",
+    "title": "Software Engineer (All Levels)",
+    "company": "Blossom",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-blossom-4447220072",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer (All Levels) opportunity at Blossom (New York, NY)."
+  },
+  {
+    "id": "42f639b5e6",
+    "title": "Software Engineer",
+    "company": "Moab",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-moab-4318517031",
+    "date_posted": "9 months ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Moab (New York, NY)."
+  },
+  {
+    "id": "76df63a868",
+    "title": "Software Engineer",
+    "company": "Wealth.com",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-wealth-com-4432318507",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Wealth.com (New York, NY)."
+  },
+  {
+    "id": "8bbd58bd4c",
+    "title": "Software Development Engineer \u2013 Python",
+    "company": "Cyient",
+    "location": "Peoria, IL",
+    "link": "https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-python-at-cyient-4442886343",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Software Development Engineer \u2013 Python opportunity at Cyient (Peoria, IL)."
+  },
+  {
+    "id": "2cfc16d293",
+    "title": "Python AWS Developer",
+    "company": "CGI",
+    "location": "Lafayette, LA",
+    "link": "https://www.linkedin.com/jobs/view/python-aws-developer-at-cgi-4441416495",
+    "date_posted": "1 week ago",
+    "skills": [
+      "Python",
+      "AWS"
+    ],
+    "description": "Python AWS Developer opportunity at CGI (Lafayette, LA)."
+  },
+  {
+    "id": "abe7d517d4",
+    "title": "Python Developer",
+    "company": "Matlen Silver",
+    "location": "Jersey City, NJ",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-matlen-silver-4447543489",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Matlen Silver (Jersey City, NJ)."
+  },
+  {
+    "id": "993712ed2a",
+    "title": "Data Scientist",
+    "company": "malomatia",
+    "location": "Doha, Qatar",
+    "link": "https://qa.linkedin.com/jobs/view/data-scientist-at-malomatia-4431381395",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at malomatia (Doha, Qatar)."
+  },
+  {
+    "id": "8b704a0af1",
+    "title": "Data Scientist",
+    "company": "mthree",
+    "location": "Sheffield, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-mthree-4448080067",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at mthree (Sheffield, England, United Kingdom)."
+  },
+  {
+    "id": "fb40b98950",
+    "title": "Data Scientist",
+    "company": "Qatar Insurance Group",
+    "location": "Doha, Qatar",
+    "link": "https://qa.linkedin.com/jobs/view/data-scientist-at-qatar-insurance-group-4442369115",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Qatar Insurance Group (Doha, Qatar)."
+  },
+  {
+    "id": "2ce699fc18",
+    "title": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms)",
+    "company": "Yum! Brands",
+    "location": "Louisville, KY",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-modeling-forecasting-and-algorithms-at-yum%21-brands-4406742420",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms) opportunity at Yum! Brands (Louisville, KY)."
+  },
+  {
+    "id": "6ac23e948b",
+    "title": "Data Scientist",
+    "company": "Proton DataLabs",
+    "location": "Time, Rogaland, Norway",
+    "link": "https://no.linkedin.com/jobs/view/data-scientist-at-proton-datalabs-4431637347",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Proton DataLabs (Time, Rogaland, Norway)."
+  },
+  {
+    "id": "6367025ef9",
+    "title": "Data Scientist",
+    "company": "Murphy AI",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "link": "https://ae.linkedin.com/jobs/view/data-scientist-at-murphy-ai-4446901799",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Murphy AI (Dubai, Dubai, United Arab Emirates)."
+  },
+  {
+    "id": "d1d32b9b7e",
+    "title": "Software Engineer, Frontend",
+    "company": "Wealthfront",
+    "location": "Seattle, WA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453710799",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Wealthfront (Seattle, WA)."
+  },
+  {
+    "id": "75c7eef5e0",
+    "title": "Software Engineer, Frontend",
+    "company": "Wealthfront",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453713767",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Wealthfront (New York, NY)."
+  },
+  {
+    "id": "e0b0762345",
+    "title": "UI Engineer",
+    "company": "Taxbit",
+    "location": "Salt Lake City, UT",
+    "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
+  },
+  {
+    "id": "f7f428757f",
+    "title": "Software Engineer, Frontend",
+    "company": "Sift",
+    "location": "Marina del Rey, CA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-sift-4447335209",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Sift (Marina del Rey, CA)."
+  },
+  {
+    "id": "d00a455cb3",
+    "title": "DevOps Engineer",
+    "company": "Buyers Edge Platform",
+    "location": "Lake Worth, FL",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-buyers-edge-platform-4449754353",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Buyers Edge Platform (Lake Worth, FL)."
+  },
+  {
+    "id": "27302df0f1",
+    "title": "DevOps Engineer",
+    "company": "Aperia",
+    "location": "Omaha, NE",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-aperia-4441209886",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Aperia (Omaha, NE)."
+  },
+  {
+    "id": "3bfba5095f",
+    "title": "DevOps Engineer",
+    "company": "Valuetainment",
+    "location": "Fort Lauderdale, FL",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
+  },
+  {
+    "id": "b20779579f",
+    "title": "DevOps Engineer",
+    "company": "Pioneer Software Solutions",
+    "location": "Edison, NJ",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-pioneer-software-solutions-4449060355",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Pioneer Software Solutions (Edison, NJ)."
+  },
+  {
+    "id": "dc50d0e07b",
+    "title": "DevOps Engineer",
+    "company": "Twenty",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-twenty-4413656303",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Twenty (New York, NY)."
   }
 ]
