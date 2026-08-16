@@ -75,7 +75,7 @@
     "company": "Amentum",
     "location": "Adelaide, South Australia, Australia",
     "link": "https://au.linkedin.com/jobs/view/software-engineer-at-amentum-4444973647",
-    "date_posted": "48 minutes ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Engineer opportunity at Amentum (Adelaide, South Australia, Australia)."
   },
@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -139,7 +139,7 @@
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454599863",
-    "date_posted": "21 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -441,7 +441,7 @@
     "company": "Harmony Healthcare IT",
     "location": "South Bend, IN",
     "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4451865056",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "AWS"
     ],
@@ -682,7 +682,7 @@
     "company": "Hilti North America",
     "location": "Tulsa, OK",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hilti-north-america-4450842996",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Hilti North America (Tulsa, OK)."
   },
@@ -1174,5 +1174,139 @@
     "date_posted": "3 months ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Caesars Entertainment (Reno, NV)."
+  },
+  {
+    "id": "ce25bdd40b",
+    "title": "Software Engineer - Datacenter",
+    "company": "SpaceXAI",
+    "location": "Memphis, TN",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-datacenter-at-spacexai-4452693262",
+    "date_posted": "4 days ago",
+    "skills": [],
+    "description": "Software Engineer - Datacenter opportunity at SpaceXAI (Memphis, TN)."
+  },
+  {
+    "id": "3aa8bd4a3f",
+    "title": "Software Engineer",
+    "company": "Garage",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-garage-4438247839",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Garage (New York, NY)."
+  },
+  {
+    "id": "00800a1e2b",
+    "title": "Front-End Developer - Remote Work | REF#284091",
+    "company": "BairesDev",
+    "location": "Duque de Caxias, Bahia, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/front-end-developer-remote-work-ref%23284091-at-bairesdev-4258058976",
+    "date_posted": "1 year ago",
+    "skills": [],
+    "description": "Front-End Developer - Remote Work | REF#284091 opportunity at BairesDev (Duque de Caxias, Bahia, Brazil)."
+  },
+  {
+    "id": "9fe71bc972",
+    "title": "D\u00e9veloppeur Front-End - ReactJS (F/H)",
+    "company": "Groupe SII",
+    "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
+    "date_posted": "2 days ago",
+    "skills": [],
+    "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
+  },
+  {
+    "id": "7e0de9c5b9",
+    "title": "Desenvolvedor React Frontend - Trabalho Remoto",
+    "company": "BairesDev",
+    "location": "Florian\u00f3polis, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-react-frontend-trabalho-remoto-at-bairesdev-4453227259",
+    "date_posted": "2 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "Desenvolvedor React Frontend - Trabalho Remoto opportunity at BairesDev (Florian\u00f3polis, Santa Catarina, Brazil)."
+  },
+  {
+    "id": "615a44876c",
+    "title": "\u4e0a\u6d77-\u8d44\u6df1\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08/Web Engineer",
+    "company": "Traveloka",
+    "location": "Shanghai, Shanghai, China",
+    "link": "https://cn.linkedin.com/jobs/view/%E4%B8%8A%E6%B5%B7-%E8%B5%84%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-web-engineer-at-traveloka-4430196274",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "\u4e0a\u6d77-\u8d44\u6df1\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08/Web Engineer opportunity at Traveloka (Shanghai, Shanghai, China)."
+  },
+  {
+    "id": "e291db1579",
+    "title": "Frontend Engineer (React.js)",
+    "company": "CODE LEAP",
+    "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+    "link": "https://vn.linkedin.com/jobs/view/frontend-engineer-react-js-at-code-leap-4433104932",
+    "date_posted": "1 month ago",
+    "skills": [
+      "React"
+    ],
+    "description": "Frontend Engineer (React.js) opportunity at CODE LEAP (Ho Chi Minh City, Ho Chi Minh City, Vietnam)."
+  },
+  {
+    "id": "69b28db1e9",
+    "title": "D\u00e9veloppeur front-end React H/F",
+    "company": "Cegedim Sant\u00e9",
+    "location": "Boulogne-Billancourt, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4387854966",
+    "date_posted": "4 months ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur front-end React H/F opportunity at Cegedim Sant\u00e9 (Boulogne-Billancourt, \u00cele-de-France, France)."
+  },
+  {
+    "id": "f5f78079f9",
+    "title": "Frontend Engineer",
+    "company": "Playtag",
+    "location": "Seoul, Seoul, South Korea",
+    "link": "https://kr.linkedin.com/jobs/view/frontend-engineer-at-playtag-4445624811",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Frontend Engineer opportunity at Playtag (Seoul, Seoul, South Korea)."
+  },
+  {
+    "id": "e1747dc774",
+    "title": "Frontend Software Engineer (JavaScript / TypeScript & React)",
+    "company": "Darktrace",
+    "location": "Greater Cambridge Area",
+    "link": "https://uk.linkedin.com/jobs/view/frontend-software-engineer-javascript-typescript-react-at-darktrace-4414680699",
+    "date_posted": "1 week ago",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React"
+    ],
+    "description": "Frontend Software Engineer (JavaScript / TypeScript & React) opportunity at Darktrace (Greater Cambridge Area)."
+  },
+  {
+    "id": "951add626d",
+    "title": "Front-End Engineer (React)",
+    "company": "Blockchain.com",
+    "location": "Paris, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
+    "date_posted": "4 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "Front-End Engineer (React) opportunity at Blockchain.com (Paris, \u00cele-de-France, France)."
+  },
+  {
+    "id": "9c8882fecd",
+    "title": "D\u00e9veloppeur Frontend React / Next.js Senior H/F",
+    "company": "NEXTON",
+    "location": "Paris, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-frontend-react-next-js-senior-h-f-at-nexton-4451696653",
+    "date_posted": "4 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur Frontend React / Next.js Senior H/F opportunity at NEXTON (Paris, \u00cele-de-France, France)."
   }
 ]
