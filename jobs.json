@@ -75,7 +75,7 @@
     "company": "Amentum",
     "location": "Adelaide, South Australia, Australia",
     "link": "https://au.linkedin.com/jobs/view/software-engineer-at-amentum-4444973647",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Amentum (Adelaide, South Australia, Australia)."
   },
@@ -173,7 +173,7 @@
     "company": "KPG99 INC",
     "location": "New York, United States",
     "link": "https://www.linkedin.com/jobs/view/w2-only-python-developer-local-to-ny-at-kpg99-inc-4452458853",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python"
     ],
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -371,7 +371,7 @@
     "company": "Candid Health",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-candid-health-4429106316",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Front End Software Engineer opportunity at Candid Health (New York, NY)."
   },
@@ -431,7 +431,7 @@
     "company": "WalkMe",
     "location": "Detroit, MI",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4427575841",
-    "date_posted": "2 hours ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
   },
@@ -796,7 +796,7 @@
     "company": "Optima Partners",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/core-data-scientist-at-optima-partners-4436120078",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Core Data Scientist opportunity at Optima Partners (Edinburgh, Scotland, United Kingdom)."
   },
@@ -806,7 +806,7 @@
     "company": "SSENSE",
     "location": "Montreal, Quebec, Canada",
     "link": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Scientifique principal.e en donn\u00e9es // Senior Data Scientist opportunity at SSENSE (Montreal, Quebec, Canada)."
   },
@@ -826,7 +826,7 @@
     "company": "Serasa Experian",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-iii-home-at-serasa-experian-4443074662",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Cientista de dados III - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -836,7 +836,7 @@
     "company": "Serasa Experian",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-ii-home-at-serasa-experian-4443071814",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Cientista de Dados II - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -846,7 +846,7 @@
     "company": "QuantumBlack, AI by McKinsey",
     "location": "Seoul, Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4398044103",
-    "date_posted": "1 day ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist - QuantumBlack, AI by McKinsey opportunity at QuantumBlack, AI by McKinsey (Seoul, Seoul, South Korea)."
   },
@@ -856,7 +856,7 @@
     "company": "Komodo Consulting",
     "location": "Oeiras, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4452396971",
-    "date_posted": "2 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Komodo Consulting (Oeiras, Lisbon, Portugal)."
   },
@@ -1441,5 +1441,35 @@
     "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Development Engineer II, WW Prime Tech opportunity at Amazon (Vancouver, British Columbia, Canada)."
+  },
+  {
+    "id": "b13634de3c",
+    "title": "Cient\u00edfico de datos",
+    "company": "E-Frontiers",
+    "location": "Las Rozas de Madrid, Community of Madrid, Spain",
+    "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-e-frontiers-4443121306",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Cient\u00edfico de datos opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
+  },
+  {
+    "id": "0e20046cd3",
+    "title": "Data Scientist II",
+    "company": "Jabil",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/data-scientist-ii-at-jabil-4409780166",
+    "date_posted": "3 months ago",
+    "skills": [],
+    "description": "Data Scientist II opportunity at Jabil (Singapore, Singapore)."
+  },
+  {
+    "id": "d8078041dc",
+    "title": "Data Scientist Senior",
+    "company": "Stancer",
+    "location": "Paris, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/data-scientist-senior-at-stancer-4442809413",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Data Scientist Senior opportunity at Stancer (Paris, \u00cele-de-France, France)."
   }
 ]
