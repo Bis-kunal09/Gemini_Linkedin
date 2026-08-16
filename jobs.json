@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
     "date_posted": "1 week ago",
     "skills": [
       "Python"
@@ -117,7 +117,7 @@
     "company": "AML Crypto",
     "location": "Marion County, IN",
     "link": "https://www.linkedin.com/jobs/view/middle-backend-developer-at-aml-crypto-4441930264",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Middle Backend Developer opportunity at AML Crypto (Marion County, IN)."
   },
@@ -185,7 +185,7 @@
     "company": "AML Crypto",
     "location": "Marion County, IN",
     "link": "https://www.linkedin.com/jobs/view/mathematical-programmer-at-aml-crypto-4441918877",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Mathematical Programmer opportunity at AML Crypto (Marion County, IN)."
   },
@@ -1251,15 +1251,15 @@
   },
   {
     "id": "69b28db1e9",
-    "title": "D\u00e9veloppeur front-end React H/F",
+    "title": "D\u00e9veloppeur front-end react H/F",
     "company": "Cegedim Sant\u00e9",
     "location": "Boulogne-Billancourt, \u00cele-de-France, France",
-    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4387854966",
-    "date_posted": "4 months ago",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4436310649",
+    "date_posted": "1 month ago",
     "skills": [
       "React"
     ],
-    "description": "D\u00e9veloppeur front-end React H/F opportunity at Cegedim Sant\u00e9 (Boulogne-Billancourt, \u00cele-de-France, France)."
+    "description": "D\u00e9veloppeur front-end react H/F opportunity at Cegedim Sant\u00e9 (Boulogne-Billancourt, \u00cele-de-France, France)."
   },
   {
     "id": "f5f78079f9",
@@ -1308,5 +1308,27 @@
       "React"
     ],
     "description": "D\u00e9veloppeur Frontend React / Next.js Senior H/F opportunity at NEXTON (Paris, \u00cele-de-France, France)."
+  },
+  {
+    "id": "0d118667e2",
+    "title": "D\u00e9veloppeur front-end react H/F",
+    "company": "Cegedim",
+    "location": "Boulogne-Billancourt, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4435054548",
+    "date_posted": "1 month ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur front-end react H/F opportunity at Cegedim (Boulogne-Billancourt, \u00cele-de-France, France)."
+  },
+  {
+    "id": "f3498b1e06",
+    "title": "Front-End Developer - Remote Work | REF#170687",
+    "company": "BairesDev",
+    "location": "Natal, Rio Grande do Norte, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/front-end-developer-remote-work-ref%23170687-at-bairesdev-4140300179",
+    "date_posted": "1 year ago",
+    "skills": [],
+    "description": "Front-End Developer - Remote Work | REF#170687 opportunity at BairesDev (Natal, Rio Grande do Norte, Brazil)."
   }
 ]
