@@ -5,7 +5,7 @@
     "company": "Nuvo",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nuvo-4378357766",
-    "date_posted": "1 hour ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Software Engineer opportunity at Nuvo (New York, NY)."
   },
@@ -75,7 +75,7 @@
     "company": "Amentum",
     "location": "Adelaide, South Australia, Australia",
     "link": "https://au.linkedin.com/jobs/view/software-engineer-at-amentum-4444973647",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Amentum (Adelaide, South Australia, Australia)."
   },
@@ -138,8 +138,8 @@
     "title": "Python Developer",
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454599863",
-    "date_posted": "2 days ago",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4455312517",
+    "date_posted": "3 hours ago",
     "skills": [
       "Python"
     ],
@@ -229,7 +229,7 @@
     "company": "Air",
     "location": "Pittsburgh, PA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-air-4447999140",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Data Scientist opportunity at Air (Pittsburgh, PA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "6 days ago",
+    "date_posted": "4 hours ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -1003,7 +1003,7 @@
     "company": "Yum! Brands",
     "location": "Louisville, KY",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-modeling-forecasting-and-algorithms-at-yum%21-brands-4406742420",
-    "date_posted": "3 weeks ago",
+    "date_posted": "9 hours ago",
     "skills": [],
     "description": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms) opportunity at Yum! Brands (Louisville, KY)."
   },
@@ -1471,5 +1471,25 @@
     "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Data Scientist Senior opportunity at Stancer (Paris, \u00cele-de-France, France)."
+  },
+  {
+    "id": "2bbec295ff",
+    "title": "Software Developer",
+    "company": "Freezing Point",
+    "location": "Salt Lake City, UT",
+    "link": "https://www.linkedin.com/jobs/view/software-developer-at-freezing-point-4444713672",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Software Developer opportunity at Freezing Point (Salt Lake City, UT)."
+  },
+  {
+    "id": "b8930a430c",
+    "title": "Frontend Engineer",
+    "company": "Luxury Escapes",
+    "location": "Sydney, New South Wales, Australia",
+    "link": "https://au.linkedin.com/jobs/view/frontend-engineer-at-luxury-escapes-4452229371",
+    "date_posted": "10 hours ago",
+    "skills": [],
+    "description": "Frontend Engineer opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   }
 ]
