@@ -104,8 +104,8 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
-    "date_posted": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python"
     ],
@@ -321,7 +321,7 @@
     "company": "SafetyKit",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-safetykit-4318505438",
-    "date_posted": "9 months ago",
+    "date_posted": "10 months ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at SafetyKit (San Francisco, CA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -391,7 +391,7 @@
     "company": "Edra",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-front-end-new-york-at-edra-4443628391",
-    "date_posted": "4 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Engineer - Front End (New York) opportunity at Edra (New York, NY)."
   },
@@ -411,7 +411,7 @@
     "company": "Justworks",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-justworks-4442771500",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Justworks (New York, NY)."
   },
@@ -702,7 +702,7 @@
     "company": "SATYA SOFT SOLUTIONS",
     "location": "Greater Jefferson City Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at SATYA SOFT SOLUTIONS (Greater Jefferson City Area)."
   },
@@ -916,7 +916,7 @@
     "company": "Moab",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-moab-4318517031",
-    "date_posted": "9 months ago",
+    "date_posted": "10 months ago",
     "skills": [],
     "description": "Software Engineer opportunity at Moab (New York, NY)."
   },
@@ -1159,7 +1159,7 @@
     "company": "Matlen Silver",
     "location": "Chandler, AZ",
     "link": "https://www.linkedin.com/jobs/view/python-pearl-developer-at-matlen-silver-4453104701",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -1498,7 +1498,7 @@
     "company": "HMSA",
     "location": "Honolulu, HI",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-hmsa-4455535410",
-    "date_posted": "12 hours ago",
+    "date_posted": "18 hours ago",
     "skills": [],
     "description": "Software Engineer opportunity at HMSA (Honolulu, HI)."
   },
@@ -1538,8 +1538,66 @@
     "company": "E-Solutions",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-e-solutions-4455310042",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Engineer opportunity at E-Solutions (Glasgow, Scotland, United Kingdom)."
+  },
+  {
+    "id": "b197c1a9f7",
+    "title": "Python Software Engineer",
+    "company": "Old Mission",
+    "location": "Chicago, IL",
+    "link": "https://www.linkedin.com/jobs/view/python-software-engineer-at-old-mission-3761765202",
+    "date_posted": "9 months ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Software Engineer opportunity at Old Mission (Chicago, IL)."
+  },
+  {
+    "id": "bbdc7ef571",
+    "title": "Python Engineer",
+    "company": "Allspring Global Investments",
+    "location": "Milwaukee, WI",
+    "link": "https://www.linkedin.com/jobs/view/python-engineer-at-allspring-global-investments-4442163127",
+    "date_posted": "1 week ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Engineer opportunity at Allspring Global Investments (Milwaukee, WI)."
+  },
+  {
+    "id": "331b183d41",
+    "title": "Python Developer",
+    "company": "Hallmark Global Solutions Ltd",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-hallmark-global-solutions-ltd-4453152096",
+    "date_posted": "6 days ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Hallmark Global Solutions Ltd (New York, NY)."
+  },
+  {
+    "id": "3073af1513",
+    "title": "Machine Learning / MLOps Engineer",
+    "company": "HMLOGICS",
+    "location": "Time, Rogaland, Norway",
+    "link": "https://no.linkedin.com/jobs/view/machine-learning-mlops-engineer-at-hmlogics-4447690640",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Machine Learning"
+    ],
+    "description": "Machine Learning / MLOps Engineer opportunity at HMLOGICS (Time, Rogaland, Norway)."
+  },
+  {
+    "id": "46bdd5e592",
+    "title": "Software Engineer, Frontend",
+    "company": "Ramp",
+    "location": "San Francisco, CA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-ramp-4276814807",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer, Frontend opportunity at Ramp (San Francisco, CA)."
   }
 ]
