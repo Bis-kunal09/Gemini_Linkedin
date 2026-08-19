@@ -104,7 +104,7 @@
     "title": "Python Developer",
     "company": "Open Systems Technologies",
     "location": "New York, NY",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952275643",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
     "date_posted": "2 weeks ago",
     "skills": [
       "Python"
@@ -138,8 +138,8 @@
     "title": "Python Developer",
     "company": "VLink Inc",
     "location": "Lafayette, Louisiana Metropolitan Area",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4455312517",
-    "date_posted": "15 hours ago",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4455795098",
+    "date_posted": "7 hours ago",
     "skills": [
       "Python"
     ],
@@ -1033,7 +1033,7 @@
     "company": "Wealthfront",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453710799",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (Seattle, WA)."
   },
@@ -1043,7 +1043,7 @@
     "company": "Wealthfront",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453713767",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (New York, NY)."
   },
@@ -1103,7 +1103,7 @@
     "company": "Pioneer Software Solutions",
     "location": "Edison, NJ",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-pioneer-software-solutions-4449060355",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Pioneer Software Solutions (Edison, NJ)."
   },
@@ -1498,7 +1498,7 @@
     "company": "HMSA",
     "location": "Honolulu, HI",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-hmsa-4455535410",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Engineer opportunity at HMSA (Honolulu, HI)."
   },
@@ -1599,5 +1599,25 @@
     "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Ramp (San Francisco, CA)."
+  },
+  {
+    "id": "e2062e415a",
+    "title": "Data Scientist",
+    "company": "Aiken House",
+    "location": "Pittsburgh, PA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-aiken-house-4441831005",
+    "date_posted": "3 weeks ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Aiken House (Pittsburgh, PA)."
+  },
+  {
+    "id": "7e74a4e805",
+    "title": "DevOps Engineer",
+    "company": "eHub Global Inc",
+    "location": "Kissimmee, FL",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-ehub-global-inc-4455962448",
+    "date_posted": "5 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at eHub Global Inc (Kissimmee, FL)."
   }
 ]
