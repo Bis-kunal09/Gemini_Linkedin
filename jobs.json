@@ -341,7 +341,7 @@
     "company": "Taxbit",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
-    "date_posted": "3 weeks ago",
+    "date_posted": "5 hours ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -453,7 +453,7 @@
     "company": "Knife River Corporation",
     "location": "Bismarck, ND",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-ii-at-knife-river-corporation-4452607551",
-    "date_posted": "5 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer II opportunity at Knife River Corporation (Bismarck, ND)."
   },
@@ -1053,7 +1053,7 @@
     "company": "Taxbit",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
   },
@@ -1093,7 +1093,7 @@
     "company": "Valuetainment",
     "location": "Fort Lauderdale, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
   },
@@ -1159,7 +1159,7 @@
     "company": "Matlen Silver",
     "location": "Chandler, AZ",
     "link": "https://www.linkedin.com/jobs/view/python-pearl-developer-at-matlen-silver-4453104701",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -1538,7 +1538,7 @@
     "company": "E-Solutions",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-e-solutions-4455310042",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at E-Solutions (Glasgow, Scotland, United Kingdom)."
   },
@@ -1616,7 +1616,7 @@
     "company": "eHub Global Inc",
     "location": "Kissimmee, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-ehub-global-inc-4455962448",
-    "date_posted": "16 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at eHub Global Inc (Kissimmee, FL)."
   },
@@ -1636,8 +1636,18 @@
     "company": "Netcraft",
     "location": "Lehi, UT",
     "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-netcraft-4456179307",
-    "date_posted": "4 hours ago",
+    "date_posted": "10 hours ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Netcraft (Lehi, UT)."
+  },
+  {
+    "id": "67aed6d142",
+    "title": "Data Scientist",
+    "company": "Alterman, Inc.",
+    "location": "Live Oak, TX",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-alterman-inc-4453467013",
+    "date_posted": "3 hours ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Alterman, Inc. (Live Oak, TX)."
   }
 ]
