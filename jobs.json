@@ -5,7 +5,7 @@
     "company": "Nuvo",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nuvo-4378357766",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Nuvo (New York, NY)."
   },
@@ -331,7 +331,7 @@
     "company": "Adobe",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
   },
@@ -341,7 +341,7 @@
     "company": "Taxbit",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
   },
@@ -431,7 +431,7 @@
     "company": "WalkMe",
     "location": "Detroit, MI",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4427575841",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
   },
@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python",
       "Django"
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "4 weeks ago",
+    "date_posted": "23 hours ago",
     "skills": [
       "Python"
     ],
@@ -702,7 +702,7 @@
     "company": "SATYA SOFT SOLUTIONS",
     "location": "Greater Jefferson City Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at SATYA SOFT SOLUTIONS (Greater Jefferson City Area)."
   },
@@ -1003,7 +1003,7 @@
     "company": "Yum! Brands",
     "location": "Louisville, KY",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-modeling-forecasting-and-algorithms-at-yum%21-brands-4406742420",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms) opportunity at Yum! Brands (Louisville, KY)."
   },
@@ -1488,7 +1488,7 @@
     "company": "Luxury Escapes",
     "location": "Sydney, New South Wales, Australia",
     "link": "https://au.linkedin.com/jobs/view/frontend-engineer-at-luxury-escapes-4452229371",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   },
@@ -1616,8 +1616,28 @@
     "company": "eHub Global Inc",
     "location": "Kissimmee, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-ehub-global-inc-4455962448",
-    "date_posted": "10 hours ago",
+    "date_posted": "16 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at eHub Global Inc (Kissimmee, FL)."
+  },
+  {
+    "id": "af959b6cbb",
+    "title": "Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D",
+    "company": "Cadence",
+    "location": "Cambridge, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-ii-clock-tree-synthesis-cts-innovus-r-d-at-cadence-4436080809",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D opportunity at Cadence (Cambridge, England, United Kingdom)."
+  },
+  {
+    "id": "29afb40862",
+    "title": "Frontend Engineer",
+    "company": "Netcraft",
+    "location": "Lehi, UT",
+    "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-netcraft-4456179307",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Frontend Engineer opportunity at Netcraft (Lehi, UT)."
   }
 ]
