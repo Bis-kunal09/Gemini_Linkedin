@@ -341,7 +341,7 @@
     "company": "Taxbit",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
-    "date_posted": "23 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -572,7 +572,7 @@
     "company": "Deloitte",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/senior-python-developer-at-deloitte-4438552087",
-    "date_posted": "3 hours ago",
+    "date_posted": "8 hours ago",
     "skills": [
       "Python"
     ],
@@ -776,7 +776,7 @@
     "company": "QCP",
     "location": "Belfast, Northern Ireland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-at-qcp-4443888400",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Software Engineer opportunity at QCP (Belfast, Northern Ireland, United Kingdom)."
   },
@@ -1053,7 +1053,7 @@
     "company": "Taxbit",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 hours ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
   },
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -1797,5 +1797,15 @@
       "Python"
     ],
     "description": "Python Application Developer opportunity at Data Capital Incorporation (Bentonville, AR)."
+  },
+  {
+    "id": "86db55b3c8",
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "Detroit, MI",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4455191300",
+    "date_posted": "4 days ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Haystack (Detroit, MI)."
   }
 ]
