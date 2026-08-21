@@ -35,7 +35,7 @@
     "company": "HoundDog",
     "location": "Columbia, MO",
     "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-hounddog-4445525553",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Full Stack Engineer opportunity at HoundDog (Columbia, MO)."
   },
@@ -341,7 +341,7 @@
     "company": "Taxbit",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -961,7 +961,7 @@
     "company": "Matlen Silver",
     "location": "Jersey City, NJ",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-matlen-silver-4447543489",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -1053,7 +1053,7 @@
     "company": "Taxbit",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
-    "date_posted": "11 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
   },
@@ -1488,7 +1488,7 @@
     "company": "Luxury Escapes",
     "location": "Sydney, New South Wales, Australia",
     "link": "https://au.linkedin.com/jobs/view/frontend-engineer-at-luxury-escapes-4452229371",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   },
@@ -1626,7 +1626,7 @@
     "company": "Cadence",
     "location": "Cambridge, England, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-ii-clock-tree-synthesis-cts-innovus-r-d-at-cadence-4436080809",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer II - Clock Tree Synthesis (CTS), Innovus R&D opportunity at Cadence (Cambridge, England, United Kingdom)."
   },
@@ -1636,7 +1636,7 @@
     "company": "Netcraft",
     "location": "Lehi, UT",
     "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-netcraft-4456179307",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Netcraft (Lehi, UT)."
   },
@@ -1646,7 +1646,7 @@
     "company": "Alterman, Inc.",
     "location": "Live Oak, TX",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-alterman-inc-4453467013",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at Alterman, Inc. (Live Oak, TX)."
   },
@@ -1720,7 +1720,7 @@
     "company": "FullStack",
     "location": "Baton Rouge, LA",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430484776",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "AWS"
     ],
@@ -1829,5 +1829,25 @@
       "Python"
     ],
     "description": "Python Developer opportunity at Marlabs (Plano, TX)."
+  },
+  {
+    "id": "cb5c3e84d8",
+    "title": "Software Engineer",
+    "company": "Blossom",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-blossom-4447220072",
+    "date_posted": "6 hours ago",
+    "skills": [],
+    "description": "Software Engineer opportunity at Blossom (New York, NY)."
+  },
+  {
+    "id": "96d2a9e798",
+    "title": "Data Scientist",
+    "company": "Winnipeg Police Service",
+    "location": "Winnipeg, Manitoba, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/data-scientist-at-winnipeg-police-service-4456260483",
+    "date_posted": "1 hour ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Winnipeg Police Service (Winnipeg, Manitoba, Canada)."
   }
 ]
