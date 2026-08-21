@@ -572,7 +572,7 @@
     "company": "Deloitte",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/senior-python-developer-at-deloitte-4438552087",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [
       "Python"
     ],
@@ -796,7 +796,7 @@
     "company": "Optima Partners",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/core-data-scientist-at-optima-partners-4436120078",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Core Data Scientist opportunity at Optima Partners (Edinburgh, Scotland, United Kingdom)."
   },
@@ -1033,7 +1033,7 @@
     "company": "Wealthfront",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453710799",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (Seattle, WA)."
   },
@@ -1043,7 +1043,7 @@
     "company": "Wealthfront",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wealthfront-4453713767",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Engineer, Frontend opportunity at Wealthfront (New York, NY)."
   },
@@ -1053,7 +1053,7 @@
     "company": "Taxbit",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
-    "date_posted": "4 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
   },
@@ -1073,7 +1073,7 @@
     "company": "Buyers Edge Platform",
     "location": "Lake Worth, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-buyers-edge-platform-4449754353",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Buyers Edge Platform (Lake Worth, FL)."
   },
@@ -1093,7 +1093,7 @@
     "company": "Valuetainment",
     "location": "Fort Lauderdale, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
-    "date_posted": "4 weeks ago",
+    "date_posted": "6 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
   },
@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4454930804",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -1666,7 +1666,7 @@
     "company": "JPMorganChase",
     "location": "Dublin, County Dublin, Ireland",
     "link": "https://ie.linkedin.com/jobs/view/software-engineer-iii-python-at-jpmorganchase-4445314635",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python"
     ],
@@ -1807,5 +1807,15 @@
     "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Haystack (Detroit, MI)."
+  },
+  {
+    "id": "ecf25eaaa1",
+    "title": "Application Software Engineer 2",
+    "company": "Oracle",
+    "location": "Trivandrum, Kerala, India",
+    "link": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4445037375",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "Application Software Engineer 2 opportunity at Oracle (Trivandrum, Kerala, India)."
   }
 ]
