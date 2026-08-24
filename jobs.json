@@ -816,7 +816,7 @@
     "company": "Habber Tec Portugal",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4455738460",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
   },
@@ -855,8 +855,8 @@
     "title": "Senior Data Scientist",
     "company": "Komodo Consulting",
     "location": "Oeiras, Lisbon, Portugal",
-    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4452396971",
-    "date_posted": "4 days ago",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4456890499",
+    "date_posted": "4 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Komodo Consulting (Oeiras, Lisbon, Portugal)."
   },
@@ -1448,7 +1448,7 @@
     "company": "E-Frontiers",
     "location": "Las Rozas de Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-e-frontiers-4452573389",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Cient\u00edfico de datos opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
   },
@@ -1468,7 +1468,7 @@
     "company": "Stancer",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-senior-at-stancer-4442809413",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Data Scientist Senior opportunity at Stancer (Paris, \u00cele-de-France, France)."
   },
@@ -1678,7 +1678,7 @@
     "company": "DataXight",
     "location": "Ho Chi Minh City Metropolitan Area",
     "link": "https://vn.linkedin.com/jobs/view/senior-frontend-engineer-ui-engineer-at-dataxight-4454971451",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior Frontend Engineer (UI Engineer) opportunity at DataXight (Ho Chi Minh City Metropolitan Area)."
   },
@@ -1868,7 +1868,7 @@
     "company": "VySystems",
     "location": "Scottsdale, AZ",
     "link": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-vysystems-4457386056",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Site Reliability Engineer opportunity at VySystems (Scottsdale, AZ)."
   },
@@ -1878,7 +1878,7 @@
     "company": "PhonePe",
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-3-5-years-backend-at-phonepe-4458163338",
-    "date_posted": "6 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "Software Engineer(3-5 years) Backend opportunity at PhonePe (Bengaluru, Karnataka, India)."
   },
@@ -1901,5 +1901,37 @@
     "date_posted": "2 minutes ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at SII Group Romania (Azur, Nouvelle-Aquitaine, France)."
+  },
+  {
+    "id": "3ab91a95cc",
+    "title": "Python Developer",
+    "company": "C2R Ventures",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-c2r-ventures-4458264390",
+    "date_posted": "57 minutes ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at C2R Ventures (New York, NY)."
+  },
+  {
+    "id": "9908d5700d",
+    "title": "Data scientist H/F",
+    "company": "Kicklox",
+    "location": "Paris, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4458187466",
+    "date_posted": "7 hours ago",
+    "skills": [],
+    "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
+  },
+  {
+    "id": "d395d5a079",
+    "title": "D\u00e9veloppeur Front ReactJS",
+    "company": "Spiritek",
+    "location": "Paris, \u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-reactjs-at-spiritek-4442663640",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "D\u00e9veloppeur Front ReactJS opportunity at Spiritek (Paris, \u00cele-de-France, France)."
   }
 ]
