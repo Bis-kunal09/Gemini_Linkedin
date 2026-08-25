@@ -105,7 +105,7 @@
     "company": "Open Systems Technologies",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -441,7 +441,7 @@
     "company": "Harmony Healthcare IT",
     "location": "South Bend, IN",
     "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4457077965",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -816,7 +816,7 @@
     "company": "Habber Tec Portugal",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4455738460",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
   },
@@ -826,7 +826,7 @@
     "company": "Serasa Experian",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-iii-home-at-serasa-experian-4443074662",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Cientista de dados III - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -836,7 +836,7 @@
     "company": "Serasa Experian",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-ii-home-at-serasa-experian-4443071814",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Cientista de Dados II - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -856,7 +856,7 @@
     "company": "Komodo Consulting",
     "location": "Oeiras, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4456890499",
-    "date_posted": "11 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Komodo Consulting (Oeiras, Lisbon, Portugal)."
   },
@@ -1093,7 +1093,7 @@
     "company": "Valuetainment",
     "location": "Fort Lauderdale, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
   },
@@ -1113,7 +1113,7 @@
     "company": "Twenty",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-twenty-4413656303",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Twenty (New York, NY)."
   },
@@ -1267,7 +1267,7 @@
     "company": "Playtag",
     "location": "Seoul, Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/frontend-engineer-at-playtag-4445624811",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Playtag (Seoul, Seoul, South Korea)."
   },
@@ -1448,7 +1448,7 @@
     "company": "E-Frontiers",
     "location": "Las Rozas de Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-e-frontiers-4452573389",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Cient\u00edfico de datos opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
   },
@@ -1836,7 +1836,7 @@
     "company": "Blossom",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-blossom-4447220072",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Blossom (New York, NY)."
   },
@@ -1908,7 +1908,7 @@
     "company": "C2R Ventures",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-c2r-ventures-4458264390",
-    "date_posted": "57 minutes ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4458187466",
-    "date_posted": "14 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -1975,5 +1975,39 @@
     "date_posted": "4 hours ago",
     "skills": [],
     "description": "Data Scientist opportunity at EIZIE (Division 5, Manitoba, Canada)."
+  },
+  {
+    "id": "0fcc72987e",
+    "title": "Software Developer",
+    "company": "Voyatek",
+    "location": "Clifton Park, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-developer-at-voyatek-4448683020",
+    "date_posted": "11 hours ago",
+    "skills": [],
+    "description": "Software Developer opportunity at Voyatek (Clifton Park, NY)."
+  },
+  {
+    "id": "e852e3905a",
+    "title": "Python Developer",
+    "company": "CGI",
+    "location": "Lafayette, LA",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-cgi-4458295579",
+    "date_posted": "22 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at CGI (Lafayette, LA)."
+  },
+  {
+    "id": "930db1b40b",
+    "title": "Python/Perl Developer",
+    "company": "Matlen Silver",
+    "location": "Chandler, AZ",
+    "link": "https://www.linkedin.com/jobs/view/python-perl-developer-at-matlen-silver-4458290674",
+    "date_posted": "22 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python/Perl Developer opportunity at Matlen Silver (Chandler, AZ)."
   }
 ]
