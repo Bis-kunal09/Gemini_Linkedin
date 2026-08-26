@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "React"
     ],
@@ -1369,7 +1369,7 @@
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
     "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
   },
@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "AWS"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "AWS"
     ],
@@ -1438,7 +1438,7 @@
     "company": "Amazon",
     "location": "Vancouver, British Columbia, Canada",
     "link": "https://ca.linkedin.com/jobs/view/software-development-engineer-ii-ww-prime-tech-at-amazon-4455976963",
-    "date_posted": "4 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Development Engineer II, WW Prime Tech opportunity at Amazon (Vancouver, British Columbia, Canada)."
   },
@@ -1960,7 +1960,7 @@
     "company": "JPMorganChase",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-at-jpmorganchase-4458578224",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Java"
     ],
@@ -1972,7 +1972,7 @@
     "company": "EIZIE",
     "location": "Division 5, Manitoba, Canada",
     "link": "https://ca.linkedin.com/jobs/view/data-scientist-at-eizie-4457460620",
-    "date_posted": "17 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [],
     "description": "Data Scientist opportunity at EIZIE (Division 5, Manitoba, Canada)."
   },
@@ -2029,7 +2029,7 @@
     "company": "Pearson",
     "location": "Juneau, AK",
     "link": "https://www.linkedin.com/jobs/view/specialist-data-scientist-at-pearson-4457484723",
-    "date_posted": "11 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Specialist, Data Scientist opportunity at Pearson (Juneau, AK)."
   },
@@ -2039,8 +2039,21 @@
     "company": "Veritis Group Inc",
     "location": "Houston, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-veritis-group-inc-4457644352",
-    "date_posted": "3 hours ago",
+    "date_posted": "8 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Veritis Group Inc (Houston, TX)."
+  },
+  {
+    "id": "c2bf504ba4",
+    "title": "Python Django Developer",
+    "company": "Tata Consultancy Services",
+    "location": "San Jose, CA",
+    "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4457648341",
+    "date_posted": "7 hours ago",
+    "skills": [
+      "Python",
+      "Django"
+    ],
+    "description": "Python Django Developer opportunity at Tata Consultancy Services (San Jose, CA)."
   }
 ]
