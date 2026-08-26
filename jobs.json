@@ -341,7 +341,7 @@
     "company": "Taxbit",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436878857",
-    "date_posted": "4 days ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Seattle, WA)."
   },
@@ -351,7 +351,7 @@
     "company": "Chalk",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149",
-    "date_posted": "6 days ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Frontend Software Engineer opportunity at Chalk (San Francisco, CA)."
   },
@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python",
       "Django"
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -1053,7 +1053,7 @@
     "company": "Taxbit",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/ui-engineer-at-taxbit-4436883667",
-    "date_posted": "3 days ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "UI Engineer opportunity at Taxbit (Salt Lake City, UT)."
   },
@@ -1093,7 +1093,7 @@
     "company": "Valuetainment",
     "location": "Fort Lauderdale, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
   },
@@ -1103,7 +1103,7 @@
     "company": "Pioneer Software Solutions",
     "location": "Edison, NJ",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-pioneer-software-solutions-4449060355",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Pioneer Software Solutions (Edison, NJ)."
   },
@@ -1488,7 +1488,7 @@
     "company": "Luxury Escapes",
     "location": "Sydney, New South Wales, Australia",
     "link": "https://au.linkedin.com/jobs/view/frontend-engineer-at-luxury-escapes-4452229371",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Luxury Escapes (Sydney, New South Wales, Australia)."
   },
@@ -1646,7 +1646,7 @@
     "company": "Alterman, Inc.",
     "location": "Live Oak, TX",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-alterman-inc-4453467013",
-    "date_posted": "15 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Data Scientist opportunity at Alterman, Inc. (Live Oak, TX)."
   },
@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4454930804",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -1960,7 +1960,7 @@
     "company": "JPMorganChase",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-at-jpmorganchase-4458578224",
-    "date_posted": "9 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [
       "Java"
     ],
@@ -1972,7 +1972,7 @@
     "company": "EIZIE",
     "location": "Division 5, Manitoba, Canada",
     "link": "https://ca.linkedin.com/jobs/view/data-scientist-at-eizie-4457460620",
-    "date_posted": "4 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Data Scientist opportunity at EIZIE (Division 5, Manitoba, Canada)."
   },
@@ -2009,5 +2009,38 @@
       "Python"
     ],
     "description": "Python/Perl Developer opportunity at Matlen Silver (Chandler, AZ)."
+  },
+  {
+    "id": "b98651bc97",
+    "title": "Software Engineer III - Java/AWS - Payments Technology",
+    "company": "JPMorganChase",
+    "location": "Mumbai, Maharashtra, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-payments-technology-at-jpmorganchase-4459022875",
+    "date_posted": "4 hours ago",
+    "skills": [
+      "Java",
+      "AWS"
+    ],
+    "description": "Software Engineer III - Java/AWS - Payments Technology opportunity at JPMorganChase (Mumbai, Maharashtra, India)."
+  },
+  {
+    "id": "82f402814a",
+    "title": "Specialist, Data Scientist",
+    "company": "Pearson",
+    "location": "Juneau, AK",
+    "link": "https://www.linkedin.com/jobs/view/specialist-data-scientist-at-pearson-4457484723",
+    "date_posted": "11 hours ago",
+    "skills": [],
+    "description": "Specialist, Data Scientist opportunity at Pearson (Juneau, AK)."
+  },
+  {
+    "id": "0e16cbfedb",
+    "title": "DevOps Engineer",
+    "company": "Veritis Group Inc",
+    "location": "Houston, TX",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-veritis-group-inc-4457644352",
+    "date_posted": "3 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Veritis Group Inc (Houston, TX)."
   }
 ]
