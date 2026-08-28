@@ -572,7 +572,7 @@
     "company": "Deloitte",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/senior-python-developer-at-deloitte-4438552087",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -584,7 +584,7 @@
     "company": "Deloitte",
     "location": "Jersey City, NJ",
     "link": "https://www.linkedin.com/jobs/view/senior-python-developer-at-deloitte-4438540519",
-    "date_posted": "5 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -1003,7 +1003,7 @@
     "company": "Yum! Brands",
     "location": "Louisville, KY",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-modeling-forecasting-and-algorithms-at-yum%21-brands-4406742420",
-    "date_posted": "2 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms) opportunity at Yum! Brands (Louisville, KY)."
   },
@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Go"
     ],
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "3 weeks ago",
+    "date_posted": "1 hour ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1960,7 +1960,7 @@
     "company": "JPMorganChase",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-at-jpmorganchase-4458578224",
-    "date_posted": "1 day ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Java"
     ],
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "11 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
@@ -2140,10 +2140,44 @@
     "company": "Cegedim",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4458383371",
-    "date_posted": "11 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
     "description": "D\u00e9veloppeur front-end react H/F opportunity at Cegedim (Nantes, Pays de la Loire, France)."
+  },
+  {
+    "id": "de2c25050e",
+    "title": "Python Developer (US)",
+    "company": "AVP VIGILANT TECHNOLOGY PVT LTD",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-us-at-avp-vigilant-technology-pvt-ltd-4458936876",
+    "date_posted": "3 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer (US) opportunity at AVP VIGILANT TECHNOLOGY PVT LTD (New York, NY)."
+  },
+  {
+    "id": "6a319321ca",
+    "title": "Python Developer (US)",
+    "company": "AVP VIGILANT TECHNOLOGY PVT LTD",
+    "location": "Austin, TX",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-us-at-avp-vigilant-technology-pvt-ltd-4458952044",
+    "date_posted": "3 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer (US) opportunity at AVP VIGILANT TECHNOLOGY PVT LTD (Austin, TX)."
+  },
+  {
+    "id": "4b44483021",
+    "title": "Principal / Sr. Principal DevOps Engineer (AHT)",
+    "company": "Northrop Grumman",
+    "location": "Morrisville, NC",
+    "link": "https://www.linkedin.com/jobs/view/principal-sr-principal-devops-engineer-aht-at-northrop-grumman-4460117684",
+    "date_posted": "12 hours ago",
+    "skills": [],
+    "description": "Principal / Sr. Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Morrisville, NC)."
   }
 ]
