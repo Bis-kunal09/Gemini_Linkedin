@@ -5,7 +5,7 @@
     "company": "Nuvo",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nuvo-4378357766",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer opportunity at Nuvo (New York, NY)."
   },
@@ -816,7 +816,7 @@
     "company": "Habber Tec Portugal",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4460825231",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
   },
@@ -1255,7 +1255,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Boulogne-Billancourt, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4436310649",
-    "date_posted": "1 month ago",
+    "date_posted": "2 months ago",
     "skills": [
       "React"
     ],
@@ -1315,7 +1315,7 @@
     "company": "Cegedim",
     "location": "Boulogne-Billancourt, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4435054548",
-    "date_posted": "1 month ago",
+    "date_posted": "2 months ago",
     "skills": [
       "React"
     ],
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4447741932",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4458187466",
-    "date_posted": "6 days ago",
+    "date_posted": "8 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -1982,7 +1982,7 @@
     "company": "Voyatek",
     "location": "Clifton Park, NY",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-voyatek-4448683020",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Developer opportunity at Voyatek (Clifton Park, NY)."
   },
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
@@ -2140,7 +2140,7 @@
     "company": "Cegedim",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4458383371",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
@@ -2176,7 +2176,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-sr-principal-devops-engineer-aht-at-northrop-grumman-4460117684",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Principal / Sr. Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -2234,5 +2234,15 @@
     "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
+  },
+  {
+    "id": "54d76a9800",
+    "title": "Whiteshield Data Scientist - AI Economics Unit",
+    "company": "Whiteshield",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
+    "date_posted": "7 hours ago",
+    "skills": [],
+    "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   }
 ]
