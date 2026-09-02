@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "3 weeks ago",
+    "date_posted": "8 hours ago",
     "skills": [
       "Python",
       "Django"
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "11 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -702,7 +702,7 @@
     "company": "SATYA SOFT SOLUTIONS",
     "location": "Greater Jefferson City Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-satya-soft-solutions-4453073902",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at SATYA SOFT SOLUTIONS (Greater Jefferson City Area)."
   },
@@ -816,7 +816,7 @@
     "company": "Habber Tec Portugal",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4460825231",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
   },
@@ -826,7 +826,7 @@
     "company": "Serasa Experian",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-iii-home-at-serasa-experian-4462042626",
-    "date_posted": "8 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Cientista de dados III - Home opportunity at Serasa Experian (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "3 weeks ago",
+    "date_posted": "7 hours ago",
     "skills": [
       "React"
     ],
@@ -1389,7 +1389,7 @@
     "company": "JPMorganChase",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4453092421",
-    "date_posted": "6 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [
       "Java"
     ],
@@ -1401,7 +1401,7 @@
     "company": "Jamf",
     "location": "London, England, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-software-engineer-java-python-at-jamf-4443519515",
-    "date_posted": "3 weeks ago",
+    "date_posted": "3 hours ago",
     "skills": [
       "Python",
       "Java"
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4458187466",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2211,7 +2211,7 @@
     "company": "Pan Dimensional",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-pan-dimensional-4458940733",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Pan Dimensional (Salt Lake City Metropolitan Area)."
   },
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2301,7 +2301,7 @@
     "company": "Securin Inc.",
     "location": "Albuquerque, NM",
     "link": "https://www.linkedin.com/jobs/view/devops-automation-engineer-at-securin-inc-4460691427",
-    "date_posted": "3 hours ago",
+    "date_posted": "20 hours ago",
     "skills": [],
     "description": "DevOps Automation Engineer opportunity at Securin Inc. (Albuquerque, NM)."
   },
@@ -2311,7 +2311,7 @@
     "company": "UST",
     "location": "Trivandrum, Kerala, India",
     "link": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-at-ust-4459926348",
-    "date_posted": "7 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "Developer III - Software Engineering opportunity at UST (Trivandrum, Kerala, India)."
   },
@@ -2348,5 +2348,15 @@
     "date_posted": "15 hours ago",
     "skills": [],
     "description": "Data Scientist opportunity at NRG Energy (Calgary, Alberta, Canada)."
+  },
+  {
+    "id": "f2a0a64bee",
+    "title": "Data Scientist",
+    "company": "Optima Partners",
+    "location": "Edinburgh, Scotland, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078",
+    "date_posted": "52 minutes ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Optima Partners (Edinburgh, Scotland, United Kingdom)."
   }
 ]
