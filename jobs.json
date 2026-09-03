@@ -194,7 +194,7 @@
     "title": "Python Developer",
     "company": "Leidos",
     "location": "San Antonio, TX",
-    "link": "https://www.linkedin.com/jobs/view/python-developer-at-leidos-4459214948",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-leidos-4459226160",
     "date_posted": "3 days ago",
     "skills": [
       "Python"
@@ -948,7 +948,7 @@
     "company": "CGI",
     "location": "Lafayette, LA",
     "link": "https://www.linkedin.com/jobs/view/python-aws-developer-at-cgi-4441416495",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python",
       "AWS"
@@ -983,7 +983,7 @@
     "company": "mthree",
     "location": "Sheffield, England, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-mthree-4448080067",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at mthree (Sheffield, England, United Kingdom)."
   },
@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "3 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1401,7 +1401,7 @@
     "company": "Jamf",
     "location": "London, England, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-software-engineer-java-python-at-jamf-4443519515",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python",
       "Java"
@@ -1908,7 +1908,7 @@
     "company": "C2R Ventures",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-c2r-ventures-4458264390",
-    "date_posted": "2 hours ago",
+    "date_posted": "6 hours ago",
     "skills": [
       "Python"
     ],
@@ -2118,7 +2118,7 @@
     "company": "The Home Depot",
     "location": "Atlanta, GA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-the-home-depot-4459483785",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at The Home Depot (Atlanta, GA)."
   },
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "5 hours ago",
+    "date_posted": "10 hours ago",
     "skills": [
       "React"
     ],
@@ -2370,5 +2370,17 @@
       "React"
     ],
     "description": "Front-end Engineer (React) @ Fetch opportunity at Hatch (Sydney, New South Wales, Australia)."
+  },
+  {
+    "id": "49ad2d9c71",
+    "title": "Python Developer",
+    "company": "Virtusa",
+    "location": "Northbrook, IL",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-virtusa-4460703463",
+    "date_posted": "9 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at Virtusa (Northbrook, IL)."
   }
 ]
