@@ -331,7 +331,7 @@
     "company": "Adobe",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-adobe-4452928888",
-    "date_posted": "3 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "Front end Engineer opportunity at Adobe (San Jose, CA)."
   },
@@ -441,7 +441,7 @@
     "company": "Harmony Healthcare IT",
     "location": "South Bend, IN",
     "link": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-harmony-healthcare-it-4457077965",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "AWS"
     ],
@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "15 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python",
       "Django"
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -846,7 +846,7 @@
     "company": "QuantumBlack, AI by McKinsey",
     "location": "Seoul, Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4398044103",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Data Scientist - QuantumBlack, AI by McKinsey opportunity at QuantumBlack, AI by McKinsey (Seoul, Seoul, South Korea)."
   },
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4458187466",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2211,7 +2211,7 @@
     "company": "Pan Dimensional",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-pan-dimensional-4458940733",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Pan Dimensional (Salt Lake City Metropolitan Area)."
   },
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2389,7 +2389,7 @@
     "company": "NWArkansas",
     "location": "Bentonville, AR",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-nwarkansas-4460735479",
-    "date_posted": "12 hours ago",
+    "date_posted": "19 hours ago",
     "skills": [],
     "description": "Software Engineer III opportunity at NWArkansas (Bentonville, AR)."
   },
@@ -2409,8 +2409,20 @@
     "company": "Stancer",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-senior-paris-h-f-at-stancer-4460724440",
-    "date_posted": "13 hours ago",
+    "date_posted": "19 hours ago",
     "skills": [],
     "description": "Data Scientist Senior- Paris - H/F opportunity at Stancer (Paris, \u00cele-de-France, France)."
+  },
+  {
+    "id": "007cf45630",
+    "title": "Python Developer (US)",
+    "company": "EdgeQ Technologies Private Limited",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-us-at-edgeq-technologies-private-limited-4461958186",
+    "date_posted": "21 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer (US) opportunity at EdgeQ Technologies Private Limited (New York, NY)."
   }
 ]
