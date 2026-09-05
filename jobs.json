@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "1 day ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python",
       "Django"
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -1135,7 +1135,7 @@
     "company": "Kommerce Hub",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-python-software-engineer-at-kommerce-hub-4312949783",
-    "date_posted": "10 months ago",
+    "date_posted": "11 months ago",
     "skills": [
       "Python"
     ],
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "React"
     ],
@@ -1720,7 +1720,7 @@
     "company": "FullStack",
     "location": "Baton Rouge, LA",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430484776",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "AWS"
     ],
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React"
     ],
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2419,7 +2419,7 @@
     "company": "EdgeQ Technologies Private Limited",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/python-developer-us-at-edgeq-technologies-private-limited-4461958186",
-    "date_posted": "21 hours ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -2434,5 +2434,17 @@
     "date_posted": "1 day ago",
     "skills": [],
     "description": "data scientist opportunity at Randstad Digital New Zealand (Christchurch, Canterbury, New Zealand)."
+  },
+  {
+    "id": "28547f2b78",
+    "title": "Python/Software Developer",
+    "company": "ADVATIX - Advanced Supply Chain and Logistics",
+    "location": "Bronx, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-software-developer-at-advatix-advanced-supply-chain-and-logistics-4462602685",
+    "date_posted": "11 minutes ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python/Software Developer opportunity at ADVATIX - Advanced Supply Chain and Logistics (Bronx, NY)."
   }
 ]
