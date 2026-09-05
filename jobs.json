@@ -430,8 +430,8 @@
     "title": "DevOps Engineer",
     "company": "WalkMe",
     "location": "Detroit, MI",
-    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4427575841",
-    "date_posted": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461441247",
+    "date_posted": "16 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
   },
@@ -548,7 +548,7 @@
     "company": "LTM",
     "location": "Irving, TX",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-ltm-4438331320",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python"
     ],
@@ -983,7 +983,7 @@
     "company": "mthree",
     "location": "Sheffield, England, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-mthree-4448080067",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at mthree (Sheffield, England, United Kingdom)."
   },
@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -2118,7 +2118,7 @@
     "company": "The Home Depot",
     "location": "Atlanta, GA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-the-home-depot-4459483785",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at The Home Depot (Atlanta, GA)."
   },
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "1 week ago",
+    "date_posted": "4 hours ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2446,5 +2446,27 @@
       "Python"
     ],
     "description": "Python/Software Developer opportunity at ADVATIX - Advanced Supply Chain and Logistics (Bronx, NY)."
+  },
+  {
+    "id": "6aab2dcf6c",
+    "title": "Python/Software Developer",
+    "company": "Advatix LATAM",
+    "location": "Bronx, NY",
+    "link": "https://www.linkedin.com/jobs/view/python-software-developer-at-advatix-latam-4462361684",
+    "date_posted": "13 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python/Software Developer opportunity at Advatix LATAM (Bronx, NY)."
+  },
+  {
+    "id": "0619e696b9",
+    "title": "DevOps Engineer",
+    "company": "WalkMe",
+    "location": "Boston, KY",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461448156",
+    "date_posted": "16 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at WalkMe (Boston, KY)."
   }
 ]
