@@ -806,7 +806,7 @@
     "company": "SSENSE",
     "location": "Montreal, Quebec, Canada",
     "link": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Scientifique principal.e en donn\u00e9es // Senior Data Scientist opportunity at SSENSE (Montreal, Quebec, Canada)."
   },
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -1960,7 +1960,7 @@
     "company": "JPMorganChase",
     "location": "Glasgow, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-at-jpmorganchase-4458578224",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Java"
     ],
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2291,7 +2291,7 @@
     "company": "Nio",
     "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-pleno-at-nio-4459251630",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Cientista de dados Pleno opportunity at Nio (S\u00e3o Paulo, S\u00e3o Paulo, Brazil)."
   },
@@ -2485,8 +2485,30 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125",
-    "date_posted": "15 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
+  },
+  {
+    "id": "168380dc0f",
+    "title": "Software Engineer III, Global Portfolio Holdings Technology",
+    "company": "JPMorganChase",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-global-portfolio-holdings-technology-at-jpmorganchase-4464427407",
+    "date_posted": "43 minutes ago",
+    "skills": [],
+    "description": "Software Engineer III, Global Portfolio Holdings Technology opportunity at JPMorganChase (Singapore, Singapore)."
+  },
+  {
+    "id": "19d292d4bc",
+    "title": "Senior Software Engineer - Python",
+    "company": "Admiral Money",
+    "location": "Cardiff, Wales, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/senior-software-engineer-python-at-admiral-money-4459422275",
+    "date_posted": "1 week ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior Software Engineer - Python opportunity at Admiral Money (Cardiff, Wales, United Kingdom)."
   }
 ]
