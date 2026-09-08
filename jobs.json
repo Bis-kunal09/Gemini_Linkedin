@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Python",
       "Django"
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "React"
     ],
@@ -1303,7 +1303,7 @@
     "company": "NEXTON",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-frontend-react-next-js-senior-h-f-at-nexton-4451696653",
-    "date_posted": "4 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "React"
     ],
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "15 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2453,7 +2453,7 @@
     "company": "Advatix LATAM",
     "location": "Bronx, NY",
     "link": "https://www.linkedin.com/jobs/view/python-software-developer-at-advatix-latam-4462361684",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -2495,7 +2495,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-global-portfolio-holdings-technology-at-jpmorganchase-4464427407",
-    "date_posted": "43 minutes ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "Software Engineer III, Global Portfolio Holdings Technology opportunity at JPMorganChase (Singapore, Singapore)."
   },
@@ -2510,5 +2510,15 @@
       "Python"
     ],
     "description": "Senior Software Engineer - Python opportunity at Admiral Money (Cardiff, Wales, United Kingdom)."
+  },
+  {
+    "id": "848ce37bca",
+    "title": "Data Scientist",
+    "company": "Plume",
+    "location": "Ljubljana, Ljubljana, Slovenia",
+    "link": "https://si.linkedin.com/jobs/view/data-scientist-at-plume-4464617240",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Plume (Ljubljana, Ljubljana, Slovenia)."
   }
 ]
