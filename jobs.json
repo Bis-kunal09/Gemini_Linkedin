@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1369,7 +1369,7 @@
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
     "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
-    "date_posted": "4 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
   },
@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376",
-    "date_posted": "3 hours ago",
+    "date_posted": "10 hours ago",
     "skills": [
       "AWS"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "2 hours ago",
+    "date_posted": "9 hours ago",
     "skills": [
       "AWS"
     ],
@@ -1438,7 +1438,7 @@
     "company": "Amazon",
     "location": "Vancouver, British Columbia, Canada",
     "link": "https://ca.linkedin.com/jobs/view/software-development-engineer-ii-ww-prime-tech-at-amazon-4455976963",
-    "date_posted": "9 hours ago",
+    "date_posted": "16 hours ago",
     "skills": [],
     "description": "Software Development Engineer II, WW Prime Tech opportunity at Amazon (Vancouver, British Columbia, Canada)."
   },
@@ -2108,7 +2108,7 @@
     "company": "J&M Group",
     "location": "Toronto, Ontario, Canada",
     "link": "https://ca.linkedin.com/jobs/view/data-scientist-at-j-m-group-4459605552",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Data Scientist opportunity at J&M Group (Toronto, Ontario, Canada)."
   },
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "5 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [
       "React"
     ],
@@ -2431,7 +2431,7 @@
     "company": "Randstad Digital New Zealand",
     "location": "Christchurch, Canterbury, New Zealand",
     "link": "https://nz.linkedin.com/jobs/view/data-scientist-at-randstad-digital-new-zealand-4460753968",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "data scientist opportunity at Randstad Digital New Zealand (Christchurch, Canterbury, New Zealand)."
   },
@@ -2495,7 +2495,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-global-portfolio-holdings-technology-at-jpmorganchase-4464427407",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer III, Global Portfolio Holdings Technology opportunity at JPMorganChase (Singapore, Singapore)."
   },
@@ -2542,5 +2542,29 @@
       "React"
     ],
     "description": "React JS Developer 1+yr Experience opportunity at Keywordio (Pune/Pimpri-Chinchwad Area)."
+  },
+  {
+    "id": "b7e877a6f7",
+    "title": "Senior Software Engineer - Python",
+    "company": "Venmo",
+    "location": "San Jose, CA",
+    "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
+    "date_posted": "8 minutes ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior Software Engineer - Python opportunity at Venmo (San Jose, CA)."
+  },
+  {
+    "id": "4d49c2be1f",
+    "title": "Senior Software Engineer - Python",
+    "company": "Venmo",
+    "location": "Austin, TX",
+    "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
+    "date_posted": "8 minutes ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior Software Engineer - Python opportunity at Venmo (Austin, TX)."
   }
 ]
