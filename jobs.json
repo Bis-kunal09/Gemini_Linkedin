@@ -1369,7 +1369,7 @@
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
     "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
   },
@@ -1438,7 +1438,7 @@
     "company": "Amazon",
     "location": "Vancouver, British Columbia, Canada",
     "link": "https://ca.linkedin.com/jobs/view/software-development-engineer-ii-ww-prime-tech-at-amazon-4455976963",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Development Engineer II, WW Prime Tech opportunity at Amazon (Vancouver, British Columbia, Canada)."
   },
@@ -2231,7 +2231,7 @@
     "company": "CACI International Inc",
     "location": "Fort Liberty, NC",
     "link": "https://www.linkedin.com/jobs/view/software-developer-at-caci-international-inc-4458097855",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Developer opportunity at CACI International Inc (Fort Liberty, NC)."
   },
@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125",
-    "date_posted": "3 hours ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 hour ago",
     "skills": [
       "Java"
     ],
@@ -2619,7 +2619,7 @@
     "company": "DSTA",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/data-scientist-senior-data-scientist-at-dsta-4465802247",
-    "date_posted": "18 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [],
     "description": "Data Scientist / Senior Data Scientist opportunity at DSTA (Singapore, Singapore)."
   },
@@ -2629,8 +2629,20 @@
     "company": "Binance",
     "location": "Hanoi, Hanoi, Vietnam",
     "link": "https://vn.linkedin.com/jobs/view/senior-frontend-engineer-web3-wallet-at-binance-4464591914",
-    "date_posted": "10 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Senior Frontend Engineer - Web3 Wallet opportunity at Binance (Hanoi, Hanoi, Vietnam)."
+  },
+  {
+    "id": "ff1f684c36",
+    "title": "Python Engineer and Developer - Associate",
+    "company": "iCapital",
+    "location": "Stamford, CT",
+    "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Engineer and Developer - Associate opportunity at iCapital (Stamford, CT)."
   }
 ]
