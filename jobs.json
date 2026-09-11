@@ -371,7 +371,7 @@
     "company": "Candid Health",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-candid-health-4429106316",
-    "date_posted": "1 month ago",
+    "date_posted": "3 hours ago",
     "skills": [],
     "description": "Front End Software Engineer opportunity at Candid Health (New York, NY)."
   },
@@ -431,7 +431,7 @@
     "company": "WalkMe",
     "location": "Detroit, MI",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461441247",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Detroit, MI)."
   },
@@ -806,7 +806,7 @@
     "company": "SSENSE",
     "location": "Montreal, Quebec, Canada",
     "link": "https://ca.linkedin.com/jobs/view/scientifique-principal-e-en-donn%C3%A9es-senior-data-scientist-at-ssense-4452129928",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Scientifique principal.e en donn\u00e9es // Senior Data Scientist opportunity at SSENSE (Montreal, Quebec, Canada)."
   },
@@ -1093,7 +1093,7 @@
     "company": "Valuetainment",
     "location": "Fort Lauderdale, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-valuetainment-4443175084",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Valuetainment (Fort Lauderdale, FL)."
   },
@@ -2355,7 +2355,7 @@
     "company": "Optima Partners",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-optima-partners-4436120078",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist opportunity at Optima Partners (Edinburgh, Scotland, United Kingdom)."
   },
@@ -2409,7 +2409,7 @@
     "company": "Stancer",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-senior-paris-h-f-at-stancer-4460724440",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist Senior- Paris - H/F opportunity at Stancer (Paris, \u00cele-de-France, France)."
   },
@@ -2465,7 +2465,7 @@
     "company": "WalkMe",
     "location": "Boston, KY",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-walkme-4461448156",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at WalkMe (Boston, KY)."
   },
@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -2527,7 +2527,7 @@
     "company": "GRVTY",
     "location": "San Antonio, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-grvty-4464914489",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at GRVTY (San Antonio, TX)."
   },
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "12 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "12 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "5 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [
       "Java"
     ],
@@ -2612,5 +2612,15 @@
       "Python"
     ],
     "description": "Python Developer opportunity at Hallmark Global Solutions Ltd (Wilmington, DE)."
+  },
+  {
+    "id": "1f05ce52b3",
+    "title": "Data Scientist / Senior Data Scientist",
+    "company": "DSTA",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/data-scientist-senior-data-scientist-at-dsta-4465802247",
+    "date_posted": "11 hours ago",
+    "skills": [],
+    "description": "Data Scientist / Senior Data Scientist opportunity at DSTA (Singapore, Singapore)."
   }
 ]
