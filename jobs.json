@@ -1438,7 +1438,7 @@
     "company": "Amazon",
     "location": "Vancouver, British Columbia, Canada",
     "link": "https://ca.linkedin.com/jobs/view/software-development-engineer-ii-ww-prime-tech-at-amazon-4455976963",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Software Development Engineer II, WW Prime Tech opportunity at Amazon (Vancouver, British Columbia, Canada)."
   },
@@ -1708,7 +1708,7 @@
     "company": "FullStack",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430488749",
-    "date_posted": "15 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [
       "AWS"
     ],
@@ -1720,7 +1720,7 @@
     "company": "FullStack",
     "location": "Baton Rouge, LA",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430484776",
-    "date_posted": "13 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [
       "AWS"
     ],
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "React"
     ],
@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2651,11 +2651,21 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Java",
       "AWS"
     ],
     "description": "Software Engineer II - Java / Spring / AWS opportunity at JPMorganChase (Singapore, Singapore)."
+  },
+  {
+    "id": "6a18059ec9",
+    "title": "Data Scientist - Las Rozas (H\u00edbrido)",
+    "company": "E-Frontiers",
+    "location": "Las Rozas de Madrid, Community of Madrid, Spain",
+    "link": "https://es.linkedin.com/jobs/view/data-scientist-las-rozas-h%C3%ADbrido-at-e-frontiers-4467054572",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
   }
 ]
