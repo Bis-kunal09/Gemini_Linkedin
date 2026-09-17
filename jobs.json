@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -2674,10 +2674,22 @@
     "company": "SRS Consulting Inc",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-lead-python-developer-at-srs-consulting-inc-4468673021",
-    "date_posted": "39 minutes ago",
+    "date_posted": "5 hours ago",
     "skills": [
       "Python"
     ],
     "description": "Senior / Lead Python Developer opportunity at SRS Consulting Inc (San Jose, CA)."
+  },
+  {
+    "id": "99ecb0548e",
+    "title": "Python Developer",
+    "company": "HiredBuddy",
+    "location": "New York, United States",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-hiredbuddy-4467567711",
+    "date_posted": "3 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at HiredBuddy (New York, United States)."
   }
 ]
