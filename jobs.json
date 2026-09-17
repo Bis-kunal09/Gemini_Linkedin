@@ -816,7 +816,7 @@
     "company": "Habber Tec Portugal",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-habber-tec-portugal-4468232121",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Habber Tec Portugal (Lisbon, Lisbon, Portugal)."
   },
@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Go"
     ],
@@ -1708,7 +1708,7 @@
     "company": "FullStack",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430488749",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -1720,7 +1720,7 @@
     "company": "FullStack",
     "location": "Baton Rouge, LA",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-devops-engineer-remote-usa-at-fullstack-4430484776",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -2453,7 +2453,7 @@
     "company": "Advatix LATAM",
     "location": "Bronx, NY",
     "link": "https://www.linkedin.com/jobs/view/python-software-developer-at-advatix-latam-4462361684",
-    "date_posted": "4 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Java"
     ],
@@ -2619,7 +2619,7 @@
     "company": "DSTA",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/data-scientist-senior-data-scientist-at-dsta-4465802247",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist / Senior Data Scientist opportunity at DSTA (Singapore, Singapore)."
   },
@@ -2667,5 +2667,17 @@
     "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
+  },
+  {
+    "id": "b3c91607b4",
+    "title": "Senior / Lead Python Developer",
+    "company": "SRS Consulting Inc",
+    "location": "San Jose, CA",
+    "link": "https://www.linkedin.com/jobs/view/senior-lead-python-developer-at-srs-consulting-inc-4468673021",
+    "date_posted": "39 minutes ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior / Lead Python Developer opportunity at SRS Consulting Inc (San Jose, CA)."
   }
 ]
