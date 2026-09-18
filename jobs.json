@@ -2505,7 +2505,7 @@
     "company": "Admiral Money",
     "location": "Cardiff, Wales, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-software-engineer-python-at-admiral-money-4459422275",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2698,7 +2698,7 @@
     "company": "Apple",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-development-engineer-apps-enterprise-technology-services-at-apple-4456890136",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Development Engineer - Apps, Enterprise Technology Services opportunity at Apple (Singapore, Singapore)."
   },
@@ -2741,7 +2741,7 @@
     "company": "Registers of Scotland",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-data-scientist-natural-language-processing-at-registers-of-scotland-4467845204",
-    "date_posted": "7 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "Senior Data Scientist (Natural Language Processing) opportunity at Registers of Scotland (Edinburgh, Scotland, United Kingdom)."
   },
@@ -2756,5 +2756,15 @@
       "React"
     ],
     "description": "Senior Frontend Engineer (React) - Remote friendly opportunity at Qonto (Milan, Lombardy, Italy)."
+  },
+  {
+    "id": "f86c5d67e4",
+    "title": "Senior DevOps Engineer",
+    "company": "Haystack",
+    "location": "Cleveland, OH",
+    "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-haystack-4469210890",
+    "date_posted": "1 hour ago",
+    "skills": [],
+    "description": "Senior DevOps Engineer opportunity at Haystack (Cleveland, OH)."
   }
 ]
