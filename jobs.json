@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4464088125",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -2741,7 +2741,7 @@
     "company": "Registers of Scotland",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-data-scientist-natural-language-processing-at-registers-of-scotland-4467845204",
-    "date_posted": "11 hours ago",
+    "date_posted": "19 hours ago",
     "skills": [],
     "description": "Senior Data Scientist (Natural Language Processing) opportunity at Registers of Scotland (Edinburgh, Scotland, United Kingdom)."
   },
@@ -2763,8 +2763,18 @@
     "company": "Haystack",
     "location": "Cleveland, OH",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-haystack-4469210890",
-    "date_posted": "1 hour ago",
+    "date_posted": "9 hours ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Haystack (Cleveland, OH)."
+  },
+  {
+    "id": "c3a32d34f7",
+    "title": "Senior Software Engineer C# / .NET",
+    "company": "Hexagon Manufacturing Intelligence",
+    "location": "Telford, England, United Kingdom",
+    "link": "https://uk.linkedin.com/jobs/view/senior-software-engineer-c%23-net-at-hexagon-manufacturing-intelligence-4463032314",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Senior Software Engineer C# / .NET opportunity at Hexagon Manufacturing Intelligence (Telford, England, United Kingdom)."
   }
 ]
