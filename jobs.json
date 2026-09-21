@@ -1448,7 +1448,7 @@
     "company": "E-Frontiers",
     "location": "Las Rozas de Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-e-frontiers-4452573389",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Cient\u00edfico de datos opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2741,7 +2741,7 @@
     "company": "Registers of Scotland",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-data-scientist-natural-language-processing-at-registers-of-scotland-4467845204",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Senior Data Scientist (Natural Language Processing) opportunity at Registers of Scotland (Edinburgh, Scotland, United Kingdom)."
   },
@@ -2776,5 +2776,25 @@
     "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Software Engineer C# / .NET opportunity at Hexagon Manufacturing Intelligence (Telford, England, United Kingdom)."
+  },
+  {
+    "id": "dec3555424",
+    "title": "Data Scientist",
+    "company": "act digital",
+    "location": "Greater Madrid Metropolitan Area",
+    "link": "https://es.linkedin.com/jobs/view/data-scientist-at-act-digital-4467861177",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at act digital (Greater Madrid Metropolitan Area)."
+  },
+  {
+    "id": "e0731a5a18",
+    "title": "Data Scientist - Las Rozas (H\u00edbrido)",
+    "company": "E-Frontiers",
+    "location": "Madrid, Community of Madrid, Spain",
+    "link": "https://es.linkedin.com/jobs/view/data-scientist-las-rozas-h%C3%ADbrido-at-e-frontiers-4469845919",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Madrid, Community of Madrid, Spain)."
   }
 ]
