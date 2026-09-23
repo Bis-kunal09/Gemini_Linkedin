@@ -2674,7 +2674,7 @@
     "company": "SRS Consulting Inc",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-lead-python-developer-at-srs-consulting-inc-4468673021",
-    "date_posted": "7 hours ago",
+    "date_posted": "14 hours ago",
     "skills": [
       "Python"
     ],
@@ -2813,8 +2813,28 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4469025501",
-    "date_posted": "4 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
+  },
+  {
+    "id": "70bf6ce2cf",
+    "title": "Senior Data Scientist",
+    "company": "Grupo Rumos",
+    "location": "Porto, Porto, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-grupo-rumos-4469062830",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Grupo Rumos (Porto, Porto, Portugal)."
+  },
+  {
+    "id": "242bf6a41a",
+    "title": "Principal Engineer, DevOps,",
+    "company": "Baxter International Inc.",
+    "location": "Raleigh, NC",
+    "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4470658747",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   }
 ]
