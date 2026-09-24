@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "3 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2140,7 +2140,7 @@
     "company": "Cegedim",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4458383371",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [
       "React"
     ],
@@ -2741,7 +2741,7 @@
     "company": "Registers of Scotland",
     "location": "Edinburgh, Scotland, United Kingdom",
     "link": "https://uk.linkedin.com/jobs/view/senior-data-scientist-natural-language-processing-at-registers-of-scotland-4467845204",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior Data Scientist (Natural Language Processing) opportunity at Registers of Scotland (Edinburgh, Scotland, United Kingdom)."
   },
@@ -2783,7 +2783,7 @@
     "company": "act digital",
     "location": "Greater Madrid Metropolitan Area",
     "link": "https://es.linkedin.com/jobs/view/data-scientist-at-act-digital-4467861177",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at act digital (Greater Madrid Metropolitan Area)."
   },
@@ -2843,8 +2843,18 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4469309777",
-    "date_posted": "15 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [],
     "description": "Principal Engineer, DevOps opportunity at Baxter International Inc. (Raleigh, NC)."
+  },
+  {
+    "id": "6b336adec0",
+    "title": "Senior Data Scientist",
+    "company": "Rumos",
+    "location": "Porto Metropolitan Area",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4469709982",
+    "date_posted": "1 hour ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
   }
 ]
