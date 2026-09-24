@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "4 hours ago",
+    "date_posted": "8 hours ago",
     "skills": [
       "Python",
       "Django"
@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "4 hours ago",
+    "date_posted": "8 hours ago",
     "skills": [
       "React"
     ],
@@ -1368,7 +1368,7 @@
     "title": "Software Dev Engineer II, Alexa Connections",
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
-    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455902670",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455793886",
     "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "7 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2674,7 +2674,7 @@
     "company": "SRS Consulting Inc",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-lead-python-developer-at-srs-consulting-inc-4468673021",
-    "date_posted": "2 hours ago",
+    "date_posted": "6 hours ago",
     "skills": [
       "Python"
     ],
@@ -2833,7 +2833,7 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4471487305",
-    "date_posted": "3 hours ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -2853,8 +2853,28 @@
     "company": "Rumos",
     "location": "Porto Metropolitan Area",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4469709982",
-    "date_posted": "7 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
+  },
+  {
+    "id": "0d136c31d3",
+    "title": "Software Engineer II, Backend (Identity Decisioning)",
+    "company": "Affirm",
+    "location": "Salt Lake City, UT",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-identity-decisioning-at-affirm-4470016722",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Software Engineer II, Backend (Identity Decisioning) opportunity at Affirm (Salt Lake City, UT)."
+  },
+  {
+    "id": "6d7d1002c8",
+    "title": "Software Engineer II, Backend (Identity Decisioning)",
+    "company": "Affirm",
+    "location": "Atlanta, GA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-identity-decisioning-at-affirm-4470015756",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Software Engineer II, Backend (Identity Decisioning) opportunity at Affirm (Atlanta, GA)."
   }
 ]
