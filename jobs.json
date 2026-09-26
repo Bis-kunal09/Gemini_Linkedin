@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python",
       "Django"
@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "18 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React"
     ],
@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Go"
     ],
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "7 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2843,7 +2843,7 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4469309777",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Principal Engineer, DevOps opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -2906,5 +2906,17 @@
     "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Development Engineer II, Amazon Smart Vehicles opportunity at Amazon (Bengaluru, Karnataka, India)."
+  },
+  {
+    "id": "26e358c3b0",
+    "title": "DEVELOPPEUR FRONT END ANGULAR CONFIRME H/F",
+    "company": "Inetum",
+    "location": "Nantes, Pays de la Loire, France",
+    "link": "https://fr.linkedin.com/jobs/view/developpeur-front-end-angular-confirme-h-f-at-inetum-4470935226",
+    "date_posted": "3 days ago",
+    "skills": [
+      "Angular"
+    ],
+    "description": "DEVELOPPEUR FRONT END ANGULAR CONFIRME H/F opportunity at Inetum (Nantes, Pays de la Loire, France)."
   }
 ]
