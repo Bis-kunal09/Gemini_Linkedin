@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "12 hours ago",
+    "date_posted": "18 hours ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1687,8 +1687,8 @@
     "title": "DevOps Engineer/Principal DevOps Engineer (AHT)",
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
-    "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4447741932",
-    "date_posted": "1 month ago",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2140,7 +2140,7 @@
     "company": "Cegedim",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-4458383371",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [
       "React"
     ],
@@ -2453,7 +2453,7 @@
     "company": "Advatix LATAM",
     "location": "Bronx, NY",
     "link": "https://www.linkedin.com/jobs/view/python-software-developer-at-advatix-latam-4462361684",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Java",
       "AWS"
@@ -2832,8 +2832,8 @@
     "title": "Principal Engineer, DevOps,",
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
-    "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4472234474",
-    "date_posted": "2 hours ago",
+    "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4472272006",
+    "date_posted": "3 hours ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -2853,7 +2853,7 @@
     "company": "Rumos",
     "location": "Porto Metropolitan Area",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4469709982",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
   },
@@ -2883,7 +2883,7 @@
     "company": "CLEAR",
     "location": "New York, NY",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-iii-at-clear-4471641260",
-    "date_posted": "17 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Development Engineer III opportunity at CLEAR (New York, NY)."
   },
@@ -2896,5 +2896,15 @@
     "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
+  },
+  {
+    "id": "c0fab7006e",
+    "title": "Software Development Engineer II, Amazon Smart Vehicles",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-smart-vehicles-at-amazon-4455795087",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Development Engineer II, Amazon Smart Vehicles opportunity at Amazon (Bengaluru, Karnataka, India)."
   }
 ]
