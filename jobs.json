@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "23 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "12 hours ago",
+    "date_posted": "16 hours ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -2793,7 +2793,7 @@
     "company": "E-Frontiers",
     "location": "Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/data-scientist-las-rozas-h%C3%ADbrido-at-e-frontiers-4469845919",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Madrid, Community of Madrid, Spain)."
   },
@@ -2832,8 +2832,8 @@
     "title": "Principal Engineer, DevOps,",
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
-    "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4472272006",
-    "date_posted": "3 hours ago",
+    "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4472407371",
+    "date_posted": "1 hour ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -2863,7 +2863,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-identity-decisioning-at-affirm-4470016722",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer II, Backend (Identity Decisioning) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -2873,7 +2873,7 @@
     "company": "Affirm",
     "location": "Atlanta, GA",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-identity-decisioning-at-affirm-4470015756",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer II, Backend (Identity Decisioning) opportunity at Affirm (Atlanta, GA)."
   },
@@ -2918,5 +2918,27 @@
       "Angular"
     ],
     "description": "DEVELOPPEUR FRONT END ANGULAR CONFIRME H/F opportunity at Inetum (Nantes, Pays de la Loire, France)."
+  },
+  {
+    "id": "73b7ab4daf",
+    "title": "Python Developer",
+    "company": "HiredBuddy",
+    "location": "Dallas, TX",
+    "link": "https://www.linkedin.com/jobs/view/python-developer-at-hiredbuddy-4471045536",
+    "date_posted": "4 hours ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Developer opportunity at HiredBuddy (Dallas, TX)."
+  },
+  {
+    "id": "de7fe7d4c1",
+    "title": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x)",
+    "company": "Sii Poland",
+    "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
+    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4466942355",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland)."
   }
 ]
