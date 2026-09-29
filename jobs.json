@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
@@ -1655,8 +1655,8 @@
     "title": "Software Engineer",
     "company": "Hopae",
     "location": "Seoul, South Korea",
-    "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4454930804",
-    "date_posted": "4 weeks ago",
+    "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4471598033",
+    "date_posted": "3 hours ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -2833,7 +2833,7 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4472783922",
-    "date_posted": "3 hours ago",
+    "date_posted": "9 hours ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -2853,7 +2853,7 @@
     "company": "Rumos",
     "location": "Porto Metropolitan Area",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4469709982",
-    "date_posted": "4 hours ago",
+    "date_posted": "10 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
   },
@@ -2893,7 +2893,7 @@
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471208453",
-    "date_posted": "3 hours ago",
+    "date_posted": "9 hours ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -2947,7 +2947,7 @@
     "company": "hiberus",
     "location": "Zaragoza, Aragon, Spain",
     "link": "https://es.linkedin.com/jobs/view/desarrollador-a-frontend-react-angular-at-hiberus-4472712629",
-    "date_posted": "11 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [
       "React",
       "Angular"
@@ -2960,7 +2960,7 @@
     "company": "Wolt",
     "location": "Helsinki, Uusimaa, Finland",
     "link": "https://fi.linkedin.com/jobs/view/software-engineer-growth-platform-backend-at-wolt-4471394976",
-    "date_posted": "7 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [],
     "description": "Software Engineer, Growth Platform - Backend opportunity at Wolt (Helsinki, Uusimaa, Finland)."
   },
@@ -2970,8 +2970,18 @@
     "company": "HP",
     "location": "Fort Collins, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-hp-4473028359",
-    "date_posted": "56 minutes ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at HP (Fort Collins, CO)."
+  },
+  {
+    "id": "0e58e4036e",
+    "title": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x)",
+    "company": "Sii Poland",
+    "location": "Toru\u0144, Kujawsko-pomorskie, Poland",
+    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471209417",
+    "date_posted": "9 hours ago",
+    "skills": [],
+    "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Toru\u0144, Kujawsko-pomorskie, Poland)."
   }
 ]
