@@ -846,7 +846,7 @@
     "company": "QuantumBlack, AI by McKinsey",
     "location": "Seoul, Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4398044103",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Data Scientist - QuantumBlack, AI by McKinsey opportunity at QuantumBlack, AI by McKinsey (Seoul, Seoul, South Korea)."
   },
@@ -1448,7 +1448,7 @@
     "company": "E-Frontiers",
     "location": "Las Rozas de Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-e-frontiers-4452573389",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Cient\u00edfico de datos opportunity at E-Frontiers (Las Rozas de Madrid, Community of Madrid, Spain)."
   },
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2049,7 +2049,7 @@
     "company": "Tata Consultancy Services",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4457648341",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python",
       "Django"
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "React"
     ],
@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2793,7 +2793,7 @@
     "company": "E-Frontiers",
     "location": "Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/data-scientist-las-rozas-h%C3%ADbrido-at-e-frontiers-4472487594",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Madrid, Community of Madrid, Spain)."
   },
@@ -2947,7 +2947,7 @@
     "company": "hiberus",
     "location": "Zaragoza, Aragon, Spain",
     "link": "https://es.linkedin.com/jobs/view/desarrollador-a-frontend-react-angular-at-hiberus-4472712629",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React",
       "Angular"
@@ -2983,5 +2983,17 @@
     "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Toru\u0144, Kujawsko-pomorskie, Poland)."
+  },
+  {
+    "id": "39912eda6d",
+    "title": "D\u00e9veloppeur Front React/Next JS confirm\u00e9 (F/H)",
+    "company": "Aubay",
+    "location": "\u00cele-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
+    "date_posted": "2 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur Front React/Next JS confirm\u00e9 (F/H) opportunity at Aubay (\u00cele-de-France, France)."
   }
 ]
