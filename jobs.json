@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4471598033",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "3 weeks ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2893,7 +2893,7 @@
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471208453",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -2913,7 +2913,7 @@
     "company": "Inetum",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/developpeur-front-end-angular-confirme-h-f-at-inetum-4470935226",
-    "date_posted": "4 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Angular"
     ],
@@ -2980,7 +2980,7 @@
     "company": "Sii Poland",
     "location": "Toru\u0144, Kujawsko-pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471209417",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Toru\u0144, Kujawsko-pomorskie, Poland)."
   },
@@ -2995,5 +2995,47 @@
       "React"
     ],
     "description": "D\u00e9veloppeur Front React/Next JS confirm\u00e9 (F/H) opportunity at Aubay (\u00cele-de-France, France)."
+  },
+  {
+    "id": "88cedc7f96",
+    "title": "Python Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Phoenix, AZ",
+    "link": "https://www.linkedin.com/jobs/view/python-engineer-at-tata-consultancy-services-4466871951",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Engineer opportunity at Tata Consultancy Services (Phoenix, AZ)."
+  },
+  {
+    "id": "105e0a2f13",
+    "title": "Rect-Web Developer",
+    "company": "Traker",
+    "location": "Mumbai, Maharashtra, India",
+    "link": "https://in.linkedin.com/jobs/view/rect-web-developer-at-traker-4447650774",
+    "date_posted": "1 month ago",
+    "skills": [],
+    "description": "Rect-Web Developer opportunity at Traker (Mumbai, Maharashtra, India)."
+  },
+  {
+    "id": "5e6d4c7850",
+    "title": "Software Engineer - UI Developer",
+    "company": "Alkira, Inc.",
+    "location": "San Jose, CA",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ui-developer-at-alkira-inc-4466027647",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Software Engineer - UI Developer opportunity at Alkira, Inc. (San Jose, CA)."
+  },
+  {
+    "id": "c9ba7af89f",
+    "title": "Senior Specialist, Federal DevOps Engineer",
+    "company": "KPMG US",
+    "location": "McLean, VA",
+    "link": "https://www.linkedin.com/jobs/view/senior-specialist-federal-devops-engineer-at-kpmg-us-4468085286",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Senior Specialist, Federal DevOps Engineer opportunity at KPMG US (McLean, VA)."
   }
 ]
