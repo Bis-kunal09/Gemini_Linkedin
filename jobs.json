@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Go"
     ],
@@ -1369,7 +1369,7 @@
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
     "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455793886",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
   },
@@ -2409,7 +2409,7 @@
     "company": "Stancer",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-senior-paris-h-f-at-stancer-4460724440",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Data Scientist Senior- Paris - H/F opportunity at Stancer (Paris, \u00cele-de-France, France)."
   },
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "2 hours ago",
+    "date_posted": "6 hours ago",
     "skills": [
       "Java"
     ],
@@ -2629,7 +2629,7 @@
     "company": "Binance",
     "location": "Hanoi, Hanoi, Vietnam",
     "link": "https://vn.linkedin.com/jobs/view/senior-frontend-engineer-web3-wallet-at-binance-4464591914",
-    "date_posted": "21 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Frontend Engineer - Web3 Wallet opportunity at Binance (Hanoi, Hanoi, Vietnam)."
   },
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "2 hours ago",
+    "date_posted": "6 hours ago",
     "skills": [
       "Java",
       "AWS"
@@ -2947,7 +2947,7 @@
     "company": "hiberus",
     "location": "Zaragoza, Aragon, Spain",
     "link": "https://es.linkedin.com/jobs/view/desarrollador-a-frontend-react-angular-at-hiberus-4472712629",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "React",
       "Angular"
@@ -3064,8 +3064,18 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4474337084",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at Booz Allen Hamilton (McLean, VA)."
+  },
+  {
+    "id": "3b2d4d1ef1",
+    "title": "Senior DevOps Engineer",
+    "company": "Redwood Materials",
+    "location": "Reno, NV",
+    "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
+    "date_posted": "39 minutes ago",
+    "skills": [],
+    "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   }
 ]
