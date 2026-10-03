@@ -866,7 +866,7 @@
     "company": "Miniclip",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-miniclip-4369942470",
-    "date_posted": "6 months ago",
+    "date_posted": "7 months ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Miniclip (Lisbon, Lisbon, Portugal)."
   },
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "3 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [
       "Java"
     ],
@@ -2629,7 +2629,7 @@
     "company": "Binance",
     "location": "Hanoi, Hanoi, Vietnam",
     "link": "https://vn.linkedin.com/jobs/view/senior-frontend-engineer-web3-wallet-at-binance-4464591914",
-    "date_posted": "15 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [],
     "description": "Senior Frontend Engineer - Web3 Wallet opportunity at Binance (Hanoi, Hanoi, Vietnam)."
   },
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "2 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [
       "Java",
       "AWS"
@@ -2793,7 +2793,7 @@
     "company": "E-Frontiers",
     "location": "Madrid, Community of Madrid, Spain",
     "link": "https://es.linkedin.com/jobs/view/data-scientist-las-rozas-h%C3%ADbrido-at-e-frontiers-4472487594",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Data Scientist - Las Rozas (H\u00edbrido) opportunity at E-Frontiers (Madrid, Community of Madrid, Spain)."
   },
@@ -3054,8 +3054,18 @@
     "company": "FieldAI",
     "location": "Irvine, CA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-web-platform-at-fieldai-4400267681",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer, Web Platform opportunity at FieldAI (Irvine, CA)."
+  },
+  {
+    "id": "61a69c6f05",
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "location": "McLean, VA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4474337084",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Booz Allen Hamilton (McLean, VA)."
   }
 ]
