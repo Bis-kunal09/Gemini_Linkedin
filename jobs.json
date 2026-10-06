@@ -1369,7 +1369,7 @@
     "company": "Amazon",
     "location": "Chennai, Tamil Nadu, India",
     "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-alexa-connections-at-amazon-4455793886",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Dev Engineer II, Alexa Connections opportunity at Amazon (Chennai, Tamil Nadu, India)."
   },
@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4471598033",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4475555846",
-    "date_posted": "3 hours ago",
+    "date_posted": "18 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2936,7 +2936,7 @@
     "title": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x)",
     "company": "Sii Poland",
     "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
-    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4466942355",
+    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4470898731",
     "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland)."
@@ -3034,7 +3034,7 @@
     "company": "KPMG US",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/senior-specialist-federal-devops-engineer-at-kpmg-us-4468085286",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior Specialist, Federal DevOps Engineer opportunity at KPMG US (McLean, VA)."
   },
@@ -3044,7 +3044,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Charleston, SC",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Charleston, SC)."
   },
@@ -3064,7 +3064,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4474337084",
-    "date_posted": "2 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -3074,8 +3074,30 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
+  },
+  {
+    "id": "bdd7321dd2",
+    "title": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x)",
+    "company": "Sii Poland",
+    "location": "\u0141\u00f3d\u017a, \u0141\u00f3dzkie, Poland",
+    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471202647",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (\u0141\u00f3d\u017a, \u0141\u00f3dzkie, Poland)."
+  },
+  {
+    "id": "9cfa175251",
+    "title": "Desenvolvedor React Frontend - Trabalho Remoto",
+    "company": "BairesDev",
+    "location": "Greater Salvador",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-react-frontend-trabalho-remoto-at-bairesdev-4472551617",
+    "date_posted": "4 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "Desenvolvedor React Frontend - Trabalho Remoto opportunity at BairesDev (Greater Salvador)."
   }
 ]
