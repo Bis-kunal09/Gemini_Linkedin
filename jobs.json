@@ -722,7 +722,7 @@
     "company": "CACI International Inc",
     "location": "Chantilly, VA",
     "link": "https://www.linkedin.com/jobs/view/python-developer-at-caci-international-inc-4431992044",
-    "date_posted": "2 months ago",
+    "date_posted": "3 months ago",
     "skills": [
       "Python"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "AWS"
     ],
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4475555846",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2893,7 +2893,7 @@
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4471208453",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -3034,7 +3034,7 @@
     "company": "KPMG US",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/senior-specialist-federal-devops-engineer-at-kpmg-us-4468085286",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Specialist, Federal DevOps Engineer opportunity at KPMG US (McLean, VA)."
   },
@@ -3044,7 +3044,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Charleston, SC",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Charleston, SC)."
   },
@@ -3099,5 +3099,55 @@
       "React"
     ],
     "description": "Desenvolvedor React Frontend - Trabalho Remoto opportunity at BairesDev (Greater Salvador)."
+  },
+  {
+    "id": "a964dda3d5",
+    "title": "Data Scientist (Databricks) - Digital & IT, Powai HO",
+    "company": "Larsen & Toubro",
+    "location": "Mumbai Metropolitan Region",
+    "link": "https://in.linkedin.com/jobs/view/data-scientist-databricks-digital-it-powai-ho-at-larsen-toubro-4476182585",
+    "date_posted": "10 hours ago",
+    "skills": [],
+    "description": "Data Scientist (Databricks) - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
+  },
+  {
+    "id": "7f352f0144",
+    "title": "Senior Data Scientist",
+    "company": "knowmad mood",
+    "location": "Barcelona, Catalonia, Spain",
+    "link": "https://es.linkedin.com/jobs/view/senior-data-scientist-at-knowmad-mood-4467893897",
+    "date_posted": "2 weeks ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at knowmad mood (Barcelona, Catalonia, Spain)."
+  },
+  {
+    "id": "20b6c0be07",
+    "title": "Data Scientist - Digital & IT, Powai HO",
+    "company": "Larsen & Toubro",
+    "location": "Mumbai Metropolitan Region",
+    "link": "https://in.linkedin.com/jobs/view/data-scientist-digital-it-powai-ho-at-larsen-toubro-4476179834",
+    "date_posted": "10 hours ago",
+    "skills": [],
+    "description": "Data Scientist - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
+  },
+  {
+    "id": "665b6cf9ab",
+    "title": "Data Scientist, Junior",
+    "company": "Booz Allen Hamilton",
+    "location": "San Diego, CA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-junior-at-booz-allen-hamilton-4476363805",
+    "date_posted": "9 hours ago",
+    "skills": [],
+    "description": "Data Scientist, Junior opportunity at Booz Allen Hamilton (San Diego, CA)."
+  },
+  {
+    "id": "af4e3fe78c",
+    "title": "Senior Data Scientist",
+    "company": "Komodo Consulting",
+    "location": "Lisbon, Lisbon, Portugal",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4474972086",
+    "date_posted": "15 hours ago",
+    "skills": [],
+    "description": "Senior Data Scientist opportunity at Komodo Consulting (Lisbon, Lisbon, Portugal)."
   }
 ]
