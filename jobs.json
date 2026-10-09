@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python"
     ],
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3106,7 +3106,7 @@
     "company": "Larsen & Toubro",
     "location": "Mumbai Metropolitan Region",
     "link": "https://in.linkedin.com/jobs/view/data-scientist-databricks-digital-it-powai-ho-at-larsen-toubro-4476182585",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist (Databricks) - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
   },
@@ -3116,7 +3116,7 @@
     "company": "knowmad mood",
     "location": "Barcelona, Catalonia, Spain",
     "link": "https://es.linkedin.com/jobs/view/senior-data-scientist-at-knowmad-mood-4467893897",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at knowmad mood (Barcelona, Catalonia, Spain)."
   },
@@ -3126,7 +3126,7 @@
     "company": "Larsen & Toubro",
     "location": "Mumbai Metropolitan Region",
     "link": "https://in.linkedin.com/jobs/view/data-scientist-digital-it-powai-ho-at-larsen-toubro-4476179834",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
   },
@@ -3136,7 +3136,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Diego, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-junior-at-booz-allen-hamilton-4476363805",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist, Junior opportunity at Booz Allen Hamilton (San Diego, CA)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "16 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -3180,8 +3180,18 @@
     "company": "BNP Paribas",
     "location": "Hong Kong, Hong Kong SAR",
     "link": "https://hk.linkedin.com/jobs/view/gm-data-scientist-at-bnp-paribas-4476259526",
-    "date_posted": "6 hours ago",
+    "date_posted": "16 hours ago",
     "skills": [],
     "description": "GM Data Scientist opportunity at BNP Paribas (Hong Kong, Hong Kong SAR)."
+  },
+  {
+    "id": "518d404e76",
+    "title": "Data Scientist Confirm\u00e9  (H/F)",
+    "company": "MERITIS",
+    "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
+    "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4475235208",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
   }
 ]
