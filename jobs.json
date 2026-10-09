@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Go"
     ],
@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4475555846",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2128,7 +2128,7 @@
     "company": "Cegedim Sant\u00e9",
     "location": "Nantes, Pays de la Loire, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-cegedim-sant%C3%A9-4459686329",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [
       "React"
     ],
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Java"
     ],
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "9 hours ago",
+    "date_posted": "16 hours ago",
     "skills": [
       "Python"
     ],
@@ -3168,10 +3168,20 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4475568202",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
     "description": "D\u00e9veloppeur Front-End (React) H/F opportunity at Kicklox (Toulouse, Occitanie, France)."
+  },
+  {
+    "id": "0dedf1c42c",
+    "title": "GM Data Scientist",
+    "company": "BNP Paribas",
+    "location": "Hong Kong, Hong Kong SAR",
+    "link": "https://hk.linkedin.com/jobs/view/gm-data-scientist-at-bnp-paribas-4476259526",
+    "date_posted": "6 hours ago",
+    "skills": [],
+    "description": "GM Data Scientist opportunity at BNP Paribas (Hong Kong, Hong Kong SAR)."
   }
 ]
