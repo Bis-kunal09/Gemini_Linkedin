@@ -3156,10 +3156,22 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "2 hours ago",
+    "date_posted": "9 hours ago",
     "skills": [
       "Python"
     ],
     "description": "Senior Python Backend Developer - Onsite opportunity at Cognizant (Washington, DC)."
+  },
+  {
+    "id": "d585a9a07d",
+    "title": "D\u00e9veloppeur Front-End (React) H/F",
+    "company": "Kicklox",
+    "location": "Toulouse, Occitanie, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4475568202",
+    "date_posted": "3 days ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur Front-End (React) H/F opportunity at Kicklox (Toulouse, Occitanie, France)."
   }
 ]
