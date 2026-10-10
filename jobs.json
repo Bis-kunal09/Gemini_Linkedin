@@ -1135,7 +1135,7 @@
     "company": "Kommerce Hub",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-python-software-engineer-at-kommerce-hub-4312949783",
-    "date_posted": "12 months ago",
+    "date_posted": "1 year ago",
     "skills": [
       "Python"
     ],
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -3180,7 +3180,7 @@
     "company": "BNP Paribas",
     "location": "Hong Kong, Hong Kong SAR",
     "link": "https://hk.linkedin.com/jobs/view/gm-data-scientist-at-bnp-paribas-4476259526",
-    "date_posted": "16 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [],
     "description": "GM Data Scientist opportunity at BNP Paribas (Hong Kong, Hong Kong SAR)."
   },
@@ -3190,8 +3190,18 @@
     "company": "MERITIS",
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4475235208",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
+  },
+  {
+    "id": "1b32d017a0",
+    "title": "Software Engineer II, Fullstack (Ads Platform)",
+    "company": "Affirm",
+    "location": "Salt Lake City, UT",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-ads-platform-at-affirm-4476882191",
+    "date_posted": "4 hours ago",
+    "skills": [],
+    "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Salt Lake City, UT)."
   }
 ]
