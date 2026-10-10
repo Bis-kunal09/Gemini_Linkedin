@@ -1359,7 +1359,7 @@
     "company": "Apple",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-apple-online-store-early-careers-at-apple-4414165431",
-    "date_posted": "4 months ago",
+    "date_posted": "5 months ago",
     "skills": [],
     "description": "Software Engineer, Apple Online Store (Early Careers) opportunity at Apple (Singapore, Singapore)."
   },
@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "3 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Python"
     ],
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -3200,7 +3200,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-ads-platform-at-affirm-4476882191",
-    "date_posted": "11 hours ago",
+    "date_posted": "20 hours ago",
     "skills": [],
     "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3213,5 +3213,15 @@
     "date_posted": "1 month ago",
     "skills": [],
     "description": "Frontend Engineer opportunity at Bobyard (San Francisco, CA)."
+  },
+  {
+    "id": "5dd1c93155",
+    "title": "Software Engineer II, Fullstack (Ads Platform)",
+    "company": "Affirm",
+    "location": "Boise, ID",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-ads-platform-at-affirm-4476881201",
+    "date_posted": "20 hours ago",
+    "skills": [],
+    "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Boise, ID)."
   }
 ]
