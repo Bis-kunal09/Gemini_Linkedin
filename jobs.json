@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4475568202",
-    "date_posted": "6 days ago",
+    "date_posted": "15 minutes ago",
     "skills": [
       "React"
     ],
@@ -3200,7 +3200,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-ads-platform-at-affirm-4476882191",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3223,5 +3223,15 @@
     "date_posted": "20 hours ago",
     "skills": [],
     "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Boise, ID)."
+  },
+  {
+    "id": "e4d3fe570b",
+    "title": "Software Engineer I",
+    "company": "Midcontinent Independent System Operator (MISO)",
+    "location": "Greater Indianapolis",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-i-at-midcontinent-independent-system-operator-miso-4475278264",
+    "date_posted": "2 days ago",
+    "skills": [],
+    "description": "Software Engineer I opportunity at Midcontinent Independent System Operator (MISO) (Greater Indianapolis)."
   }
 ]
