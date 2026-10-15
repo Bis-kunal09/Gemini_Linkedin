@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4452323200",
-    "date_posted": "2 weeks ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python"
     ],
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4475568202",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "React"
     ],
@@ -3180,7 +3180,7 @@
     "company": "BNP Paribas",
     "location": "Hong Kong, Hong Kong SAR",
     "link": "https://hk.linkedin.com/jobs/view/gm-data-scientist-at-bnp-paribas-4476259526",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "GM Data Scientist opportunity at BNP Paribas (Hong Kong, Hong Kong SAR)."
   },
@@ -3200,7 +3200,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-ads-platform-at-affirm-4476882191",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Software Engineer II, Fullstack (Ads Platform) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3230,7 +3230,7 @@
     "company": "Midcontinent Independent System Operator (MISO)",
     "location": "Greater Indianapolis",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-at-midcontinent-independent-system-operator-miso-4475278264",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Software Engineer I opportunity at Midcontinent Independent System Operator (MISO) (Greater Indianapolis)."
   },
@@ -3240,8 +3240,38 @@
     "company": "HP",
     "location": "Vancouver, WA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hp-4479707781",
-    "date_posted": "6 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at HP (Vancouver, WA)."
+  },
+  {
+    "id": "9f703bed7a",
+    "title": "Software Engineer, Backend",
+    "company": "Robinhood",
+    "location": "New York, NY",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-robinhood-4476692726",
+    "date_posted": "15 hours ago",
+    "skills": [],
+    "description": "Software Engineer, Backend opportunity at Robinhood (New York, NY)."
+  },
+  {
+    "id": "648ef4fe4d",
+    "title": "Software Engineer II ( GRAND )",
+    "company": "tiket.com",
+    "location": "Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/software-engineer-ii-grand-at-tiket-com-4478870465",
+    "date_posted": "41 minutes ago",
+    "skills": [],
+    "description": "Software Engineer II ( GRAND ) opportunity at tiket.com (Jakarta, Indonesia)."
+  },
+  {
+    "id": "de848db686",
+    "title": "Cientista de dados",
+    "company": "FOURSYS",
+    "location": "Barueri, S\u00e3o Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4479519241",
+    "date_posted": "22 hours ago",
+    "skills": [],
+    "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   }
 ]
