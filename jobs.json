@@ -2853,7 +2853,7 @@
     "company": "Rumos",
     "location": "Porto Metropolitan Area",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4476420608",
-    "date_posted": "11 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
   },
@@ -3233,5 +3233,15 @@
     "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer I opportunity at Midcontinent Independent System Operator (MISO) (Greater Indianapolis)."
+  },
+  {
+    "id": "397073d0f1",
+    "title": "DevOps Engineer",
+    "company": "HP",
+    "location": "Vancouver, WA",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-hp-4479707781",
+    "date_posted": "6 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at HP (Vancouver, WA)."
   }
 ]
