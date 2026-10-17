@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "2 hours ago",
+    "date_posted": "9 hours ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -3116,7 +3116,7 @@
     "company": "knowmad mood",
     "location": "Barcelona, Catalonia, Spain",
     "link": "https://es.linkedin.com/jobs/view/senior-data-scientist-at-knowmad-mood-4467893897",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at knowmad mood (Barcelona, Catalonia, Spain)."
   },
@@ -3230,7 +3230,7 @@
     "company": "Midcontinent Independent System Operator (MISO)",
     "location": "Greater Indianapolis",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-at-midcontinent-independent-system-operator-miso-4475278264",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer I opportunity at Midcontinent Independent System Operator (MISO) (Greater Indianapolis)."
   },
@@ -3290,7 +3290,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479305237",
-    "date_posted": "19 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3300,7 +3300,7 @@
     "company": "Affirm",
     "location": "Boise, ID",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479190948",
-    "date_posted": "19 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Boise, ID)."
   },
@@ -3310,8 +3310,18 @@
     "company": "MANTECH",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mantech-4477338152",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at MANTECH (Miami, FL)."
+  },
+  {
+    "id": "c688e7a910",
+    "title": "DevOps Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Tampa, FL",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4480563129",
+    "date_posted": "6 hours ago",
+    "skills": [],
+    "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Tampa, FL)."
   }
 ]
