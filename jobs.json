@@ -3290,7 +3290,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479305237",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3300,7 +3300,7 @@
     "company": "Affirm",
     "location": "Boise, ID",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479190948",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Boise, ID)."
   },
@@ -3310,7 +3310,7 @@
     "company": "MANTECH",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mantech-4477338152",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at MANTECH (Miami, FL)."
   },
@@ -3320,8 +3320,18 @@
     "company": "Booz Allen Hamilton",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4480563129",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Tampa, FL)."
+  },
+  {
+    "id": "54e8f5c2d7",
+    "title": "Cient\u00edfico/a de datos",
+    "company": "LISDATA",
+    "location": "Santa Cruz de Bezana, Cantabria, Spain",
+    "link": "https://es.linkedin.com/jobs/view/cient%C3%ADfico-a-de-datos-at-lisdata-4478775349",
+    "date_posted": "4 days ago",
+    "skills": [],
+    "description": "Cient\u00edfico/a de datos opportunity at LISDATA (Santa Cruz de Bezana, Cantabria, Spain)."
   }
 ]
