@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python",
       "Django"
@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -1291,7 +1291,7 @@
     "company": "Blockchain.com",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/front-end-engineer-react-at-blockchain-com-4344545229",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "AWS"
     ],
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4480948121",
-    "date_posted": "7 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -3310,7 +3310,7 @@
     "company": "MANTECH",
     "location": "Miami, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mantech-4477338152",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at MANTECH (Miami, FL)."
   },
@@ -3320,7 +3320,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4480563129",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Tampa, FL)."
   },
@@ -3333,5 +3333,15 @@
     "date_posted": "5 days ago",
     "skills": [],
     "description": "Cient\u00edfico/a de datos opportunity at LISDATA (Santa Cruz de Bezana, Cantabria, Spain)."
+  },
+  {
+    "id": "e02288a2f3",
+    "title": "Data Scientist, Senior",
+    "company": "Booz Allen Hamilton",
+    "location": "San Diego, CA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4481261404",
+    "date_posted": "2 hours ago",
+    "skills": [],
+    "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (San Diego, CA)."
   }
 ]
