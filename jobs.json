@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4471598033",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4480948121",
-    "date_posted": "17 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -3290,7 +3290,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479305237",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3300,7 +3300,7 @@
     "company": "Affirm",
     "location": "Boise, ID",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479190948",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Boise, ID)."
   },
@@ -3340,8 +3340,20 @@
     "company": "Booz Allen Hamilton",
     "location": "San Diego, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4481261404",
-    "date_posted": "2 hours ago",
+    "date_posted": "8 hours ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (San Diego, CA)."
+  },
+  {
+    "id": "0e34c41983",
+    "title": "Software Development Engineer, AWS WorkSpaces",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Seattle, WA",
+    "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-workspaces-at-amazon-web-services-aws-4480183431",
+    "date_posted": "4 days ago",
+    "skills": [
+      "AWS"
+    ],
+    "description": "Software Development Engineer, AWS WorkSpaces opportunity at Amazon Web Services (AWS) (Seattle, WA)."
   }
 ]
