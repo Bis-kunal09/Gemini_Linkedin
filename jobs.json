@@ -1347,7 +1347,7 @@
     "company": "General Motors",
     "location": "Warren, MI",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419969671",
-    "date_posted": "15 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [
       "Go"
     ],
@@ -1656,7 +1656,7 @@
     "company": "Hopae",
     "location": "Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/software-engineer-at-hopae-4471598033",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Software Engineer opportunity at Hopae (Seoul, South Korea)."
   },
@@ -2485,7 +2485,7 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4480948121",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   },
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python"
     ],
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "14 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [
       "Python"
     ],
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -2812,8 +2812,8 @@
     "title": "Senior Software Engineer, Backend",
     "company": "Grab",
     "location": "Singapore, Singapore",
-    "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4469025501",
-    "date_posted": "2 days ago",
+    "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
+    "date_posted": "42 minutes ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -2853,7 +2853,7 @@
     "company": "Rumos",
     "location": "Porto Metropolitan Area",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-rumos-4480031273",
-    "date_posted": "10 hours ago",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Rumos (Porto Metropolitan Area)."
   },
@@ -3044,7 +3044,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Charleston, SC",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Charleston, SC)."
   },
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "17 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3403,5 +3403,15 @@
       "React"
     ],
     "description": "Ing\u00e9nieur Front-end Senior React (F/H) opportunity at Cabinet EKINOX (Levallois-Perret, \u00cele-de-France, France)."
+  },
+  {
+    "id": "06eb8112cb",
+    "title": "Senior Backend Engineer",
+    "company": "RTX",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/senior-backend-engineer-at-rtx-4480428111",
+    "date_posted": "6 days ago",
+    "skills": [],
+    "description": "Senior Backend Engineer opportunity at RTX (Singapore, Singapore)."
   }
 ]
