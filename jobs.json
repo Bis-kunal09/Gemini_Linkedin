@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "AWS"
     ],
@@ -1426,7 +1426,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-aws-sts-at-amazon-web-services-aws-4455914852",
-    "date_posted": "2 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "AWS"
     ],
@@ -1698,7 +1698,7 @@
     "company": "Rividium Inc",
     "location": "Quantico, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-senior-at-rividium-inc-4409495383",
-    "date_posted": "5 months ago",
+    "date_posted": "6 months ago",
     "skills": [],
     "description": "DevOps Engineer- Senior opportunity at Rividium Inc (Quantico, VA)."
   },
@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -3269,8 +3269,8 @@
     "title": "Cientista de dados",
     "company": "FOURSYS",
     "location": "Barueri, S\u00e3o Paulo, Brazil",
-    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4479519241",
-    "date_posted": "15 hours ago",
+    "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4484456566",
+    "date_posted": "10 hours ago",
     "skills": [],
     "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   },
@@ -3385,7 +3385,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-database-aws-at-jpmorganchase-4483152382",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -3398,7 +3398,7 @@
     "company": "Cabinet EKINOX",
     "location": "Levallois-Perret, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-front-end-senior-react-f-h-at-cabinet-ekinox-4482088919",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "React"
     ],
@@ -3420,7 +3420,7 @@
     "company": "BairesDev",
     "location": "Salvador, Bahia, Brazil",
     "link": "https://br.linkedin.com/jobs/view/desenvolvedor-react-frontend-trabalho-remoto-at-bairesdev-4483664530",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
@@ -3432,8 +3432,28 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
-    "date_posted": "13 hours ago",
+    "date_posted": "23 hours ago",
     "skills": [],
     "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
+  },
+  {
+    "id": "1363922c3a",
+    "title": "Software Engineer I, Fullstack (Search)",
+    "company": "Affirm",
+    "location": "Calgary, Alberta, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479189926",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Calgary, Alberta, Canada)."
+  },
+  {
+    "id": "b5cd2d3a69",
+    "title": "Senior Frontend Engineer ID93613",
+    "company": "AgileEngine",
+    "location": "Pune Division, Maharashtra, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-id93613-at-agileengine-4484740511",
+    "date_posted": "13 minutes ago",
+    "skills": [],
+    "description": "Senior Frontend Engineer ID93613 opportunity at AgileEngine (Pune Division, Maharashtra, India)."
   }
 ]
