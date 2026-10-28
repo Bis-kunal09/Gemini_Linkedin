@@ -2176,7 +2176,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-sr-principal-devops-engineer-aht-at-northrop-grumman-4482418665",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Principal / Sr. Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -3190,7 +3190,7 @@
     "company": "MERITIS",
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4481874381",
-    "date_posted": "12 hours ago",
+    "date_posted": "19 hours ago",
     "skills": [],
     "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -3270,7 +3270,7 @@
     "company": "FOURSYS",
     "location": "Barueri, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4479519241",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [],
     "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   },
@@ -3385,7 +3385,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-database-aws-at-jpmorganchase-4483152382",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -3420,10 +3420,20 @@
     "company": "BairesDev",
     "location": "Salvador, Bahia, Brazil",
     "link": "https://br.linkedin.com/jobs/view/desenvolvedor-react-frontend-trabalho-remoto-at-bairesdev-4483664530",
-    "date_posted": "5 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [
       "React"
     ],
     "description": "Desenvolvedor React Frontend - Trabalho Remoto opportunity at BairesDev (Salvador, Bahia, Brazil)."
+  },
+  {
+    "id": "3568cd5832",
+    "title": "Staff DevOps Engineer",
+    "company": "Northrop Grumman",
+    "location": "Morrisville, NC",
+    "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
+    "date_posted": "5 hours ago",
+    "skills": [],
+    "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
   }
 ]
