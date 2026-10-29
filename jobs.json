@@ -2176,7 +2176,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-sr-principal-devops-engineer-aht-at-northrop-grumman-4482418665",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Principal / Sr. Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -2698,7 +2698,7 @@
     "company": "Apple",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-development-engineer-apps-enterprise-technology-services-at-apple-4456890136",
-    "date_posted": "1 week ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Software Development Engineer - Apps, Enterprise Technology Services opportunity at Apple (Singapore, Singapore)."
   },
@@ -3410,7 +3410,7 @@
     "company": "RTX",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-backend-engineer-at-rtx-4480428111",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Backend Engineer opportunity at RTX (Singapore, Singapore)."
   },
@@ -3432,7 +3432,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
-    "date_posted": "23 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -3455,5 +3455,17 @@
     "date_posted": "13 minutes ago",
     "skills": [],
     "description": "Senior Frontend Engineer ID93613 opportunity at AgileEngine (Pune Division, Maharashtra, India)."
+  },
+  {
+    "id": "758f2fe115",
+    "title": "Ingeniero/a Frontend Senior / Expert \u2013 Angular",
+    "company": "Babel",
+    "location": "Madrid, Community of Madrid, Spain",
+    "link": "https://es.linkedin.com/jobs/view/ingeniero-a-frontend-senior-expert-%E2%80%93-angular-at-babel-4483223386",
+    "date_posted": "2 days ago",
+    "skills": [
+      "Angular"
+    ],
+    "description": "Ingeniero/a Frontend Senior / Expert \u2013 Angular opportunity at Babel (Madrid, Community of Madrid, Spain)."
   }
 ]
