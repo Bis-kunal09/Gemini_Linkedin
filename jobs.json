@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python",
       "Django"
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -3044,7 +3044,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Charleston, SC",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Charleston, SC)."
   },
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3190,7 +3190,7 @@
     "company": "MERITIS",
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4481874381",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -3270,7 +3270,7 @@
     "company": "FOURSYS",
     "location": "Barueri, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4484456566",
-    "date_posted": "10 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   },
@@ -3362,7 +3362,7 @@
     "company": "tiket.com",
     "location": "Jakarta, Indonesia",
     "link": "https://id.linkedin.com/jobs/view/software-engineer-ii-growth-analytics-discovery-at-tiket-com-4478870465",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer II (Growth, Analytics & Discovery) opportunity at tiket.com (Jakarta, Indonesia)."
   },
@@ -3467,5 +3467,15 @@
       "Angular"
     ],
     "description": "Ingeniero/a Frontend Senior / Expert \u2013 Angular opportunity at Babel (Madrid, Community of Madrid, Spain)."
+  },
+  {
+    "id": "ec03b3017e",
+    "title": "D\u00e9veloppeur Front-End (H/F)",
+    "company": "Groupe SII",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-h-f-at-groupe-sii-4417700123",
+    "date_posted": "5 months ago",
+    "skills": [],
+    "description": "D\u00e9veloppeur Front-End (H/F) opportunity at Groupe SII (Bordeaux, Nouvelle-Aquitaine, France)."
   }
 ]
