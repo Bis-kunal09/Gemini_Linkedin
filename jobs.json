@@ -2241,7 +2241,7 @@
     "company": "Whiteshield",
     "location": "Dubai, Dubai, United Arab Emirates",
     "link": "https://ae.linkedin.com/jobs/view/whiteshield-data-scientist-ai-economics-unit-at-whiteshield-4461038872",
-    "date_posted": "1 month ago",
+    "date_posted": "2 months ago",
     "skills": [],
     "description": "Whiteshield Data Scientist - AI Economics Unit opportunity at Whiteshield (Dubai, Dubai, United Arab Emirates)."
   },
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -2892,8 +2892,8 @@
     "title": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x)",
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
-    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4482276384",
-    "date_posted": "8 hours ago",
+    "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4483444014",
+    "date_posted": "2 hours ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "15 hours ago",
+    "date_posted": "22 hours ago",
     "skills": [
       "React"
     ],
@@ -3044,7 +3044,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Charleston, SC",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Charleston, SC)."
   },
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3190,7 +3190,7 @@
     "company": "MERITIS",
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4481874381",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -3270,7 +3270,7 @@
     "company": "FOURSYS",
     "location": "Barueri, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4484456566",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   },
@@ -3442,7 +3442,7 @@
     "company": "Affirm",
     "location": "Calgary, Alberta, Canada",
     "link": "https://ca.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479189926",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Calgary, Alberta, Canada)."
   },
@@ -3499,5 +3499,18 @@
     "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist (Real-Time Forecasting) opportunity at L4 Studio - Software Development Company (Hanoi Capital Region)."
+  },
+  {
+    "id": "00decb64e9",
+    "title": "D\u00e9veloppeur front-end Next.js / React TypeScript",
+    "company": "Webnet",
+    "location": "Lille, Hauts-de-France, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-next-js-react-typescript-at-webnet-4484820836",
+    "date_posted": "3 hours ago",
+    "skills": [
+      "TypeScript",
+      "React"
+    ],
+    "description": "D\u00e9veloppeur front-end Next.js / React TypeScript opportunity at Webnet (Lille, Hauts-de-France, France)."
   }
 ]
