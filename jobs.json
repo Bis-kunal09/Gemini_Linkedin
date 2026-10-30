@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "8 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [
       "React"
     ],
@@ -3290,7 +3290,7 @@
     "company": "Affirm",
     "location": "Salt Lake City, UT",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479305237",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Salt Lake City, UT)."
   },
@@ -3300,7 +3300,7 @@
     "company": "Affirm",
     "location": "Boise, ID",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-search-at-affirm-4479190948",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Search) opportunity at Affirm (Boise, ID)."
   },
@@ -3432,7 +3432,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -3477,5 +3477,27 @@
     "date_posted": "5 months ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End (H/F) opportunity at Groupe SII (Bordeaux, Nouvelle-Aquitaine, France)."
+  },
+  {
+    "id": "f6475761a4",
+    "title": "Senior Python Engineer",
+    "company": "Virtusa",
+    "location": "Jersey City, NJ",
+    "link": "https://www.linkedin.com/jobs/view/senior-python-engineer-at-virtusa-4475288337",
+    "date_posted": "2 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Senior Python Engineer opportunity at Virtusa (Jersey City, NJ)."
+  },
+  {
+    "id": "28d7d90ce6",
+    "title": "Senior Data Scientist (Real-Time Forecasting)",
+    "company": "L4 Studio - Software Development Company",
+    "location": "Hanoi Capital Region",
+    "link": "https://vn.linkedin.com/jobs/view/senior-data-scientist-real-time-forecasting-at-l4-studio-software-development-company-4483839927",
+    "date_posted": "1 day ago",
+    "skills": [],
+    "description": "Senior Data Scientist (Real-Time Forecasting) opportunity at L4 Studio - Software Development Company (Hanoi Capital Region)."
   }
 ]
