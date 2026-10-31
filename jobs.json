@@ -1762,7 +1762,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Patrick AFB, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4432430699",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Patrick AFB, FL)."
   },
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Java",
       "AWS"
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -3054,7 +3054,7 @@
     "company": "FieldAI",
     "location": "Irvine, CA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-web-platform-at-fieldai-4400267681",
-    "date_posted": "2 weeks ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer, Web Platform opportunity at FieldAI (Irvine, CA)."
   },
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "10 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [
       "Python"
     ],
@@ -3190,7 +3190,7 @@
     "company": "MERITIS",
     "location": "Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-confirm%C3%A9-h-f-at-meritis-4481874381",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Data Scientist Confirm\u00e9  (H/F) opportunity at MERITIS (Sophia Antipolis, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -3496,7 +3496,7 @@
     "company": "L4 Studio - Software Development Company",
     "location": "Hanoi Capital Region",
     "link": "https://vn.linkedin.com/jobs/view/senior-data-scientist-real-time-forecasting-at-l4-studio-software-development-company-4483839927",
-    "date_posted": "1 day ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Senior Data Scientist (Real-Time Forecasting) opportunity at L4 Studio - Software Development Company (Hanoi Capital Region)."
   },
@@ -3506,11 +3506,33 @@
     "company": "Webnet",
     "location": "Lille, Hauts-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-next-js-react-typescript-at-webnet-4484820836",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "TypeScript",
       "React"
     ],
     "description": "D\u00e9veloppeur front-end Next.js / React TypeScript opportunity at Webnet (Lille, Hauts-de-France, France)."
+  },
+  {
+    "id": "4ed517fec8",
+    "title": "Python AIML Developer",
+    "company": "Virtusa",
+    "location": "Jersey City, NJ",
+    "link": "https://www.linkedin.com/jobs/view/python-aiml-developer-at-virtusa-4475285396",
+    "date_posted": "3 weeks ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python AIML Developer opportunity at Virtusa (Jersey City, NJ)."
+  },
+  {
+    "id": "659d103abc",
+    "title": "DevOps Engineers",
+    "company": "Red Drum",
+    "location": "Annapolis Junction, MD",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineers-at-red-drum-4449424670",
+    "date_posted": "2 months ago",
+    "skills": [],
+    "description": "DevOps Engineers opportunity at Red Drum (Annapolis Junction, MD)."
   }
 ]
