@@ -3106,7 +3106,7 @@
     "company": "Larsen & Toubro",
     "location": "Mumbai Metropolitan Region",
     "link": "https://in.linkedin.com/jobs/view/data-scientist-databricks-digital-it-powai-ho-at-larsen-toubro-4476182585",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Data Scientist (Databricks) - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
   },
@@ -3126,7 +3126,7 @@
     "company": "Larsen & Toubro",
     "location": "Mumbai Metropolitan Region",
     "link": "https://in.linkedin.com/jobs/view/data-scientist-digital-it-powai-ho-at-larsen-toubro-4476179834",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Data Scientist - Digital & IT, Powai HO opportunity at Larsen & Toubro (Mumbai Metropolitan Region)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "Python"
     ],
@@ -3544,5 +3544,17 @@
     "date_posted": "6 days ago",
     "skills": [],
     "description": "Software Engineer C# .Net - FinTech opportunity at Client Server (Columbus, OH)."
+  },
+  {
+    "id": "a59c3a4444",
+    "title": "React Frontend Developer - Remote Work | REF#307242",
+    "company": "BairesDev",
+    "location": "Greater Natal",
+    "link": "https://br.linkedin.com/jobs/view/react-frontend-developer-remote-work-ref%23307242-at-bairesdev-4487006955",
+    "date_posted": "5 hours ago",
+    "skills": [
+      "React"
+    ],
+    "description": "React Frontend Developer - Remote Work | REF#307242 opportunity at BairesDev (Greater Natal)."
   }
 ]
