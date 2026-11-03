@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -2893,7 +2893,7 @@
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4484344125",
-    "date_posted": "4 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "React"
     ],
@@ -3146,7 +3146,7 @@
     "company": "Komodo Consulting",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-komodo-consulting-4485477055",
-    "date_posted": "4 hours ago",
+    "date_posted": "14 hours ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Komodo Consulting (Lisbon, Lisbon, Portugal)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -3340,7 +3340,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Diego, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4481261404",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (San Diego, CA)."
   },
@@ -3432,7 +3432,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -3496,7 +3496,7 @@
     "company": "L4 Studio - Software Development Company",
     "location": "Hanoi Capital Region",
     "link": "https://vn.linkedin.com/jobs/view/senior-data-scientist-real-time-forecasting-at-l4-studio-software-development-company-4483839927",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Senior Data Scientist (Real-Time Forecasting) opportunity at L4 Studio - Software Development Company (Hanoi Capital Region)."
   },
@@ -3506,7 +3506,7 @@
     "company": "Webnet",
     "location": "Lille, Hauts-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-next-js-react-typescript-at-webnet-4484820836",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "TypeScript",
       "React"
@@ -3534,5 +3534,15 @@
     "date_posted": "2 months ago",
     "skills": [],
     "description": "DevOps Engineers opportunity at Red Drum (Annapolis Junction, MD)."
+  },
+  {
+    "id": "ec6b8c3099",
+    "title": "Software Engineer C# .Net - FinTech",
+    "company": "Client Server",
+    "location": "Columbus, OH",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-c%23-net-fintech-at-client-server-4484477255",
+    "date_posted": "5 days ago",
+    "skills": [],
+    "description": "Software Engineer C# .Net - FinTech opportunity at Client Server (Columbus, OH)."
   }
 ]
