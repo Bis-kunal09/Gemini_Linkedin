@@ -1742,7 +1742,7 @@
     "company": "Blue Origin",
     "location": "Greater Seattle Area",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406419576",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Greater Seattle Area)."
   },
@@ -1772,7 +1772,7 @@
     "company": "Blue Origin",
     "location": "Denver, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-lunar-permanence-at-blue-origin-4406421524",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Senior DevOps Engineer - Lunar Permanence opportunity at Blue Origin (Denver, CO)."
   },
@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "1 hour ago",
+    "date_posted": "10 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "8 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -3156,7 +3156,7 @@
     "company": "Cognizant",
     "location": "Washington, DC",
     "link": "https://www.linkedin.com/jobs/view/senior-python-backend-developer-onsite-at-cognizant-4475996626",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python"
     ],
@@ -3398,7 +3398,7 @@
     "company": "Cabinet EKINOX",
     "location": "Levallois-Perret, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-front-end-senior-react-f-h-at-cabinet-ekinox-4482088919",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "React"
     ],
@@ -3541,7 +3541,7 @@
     "company": "Client Server",
     "location": "Columbus, OH",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-c%23-net-fintech-at-client-server-4484477255",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Software Engineer C# .Net - FinTech opportunity at Client Server (Columbus, OH)."
   },
@@ -3551,7 +3551,7 @@
     "company": "BairesDev",
     "location": "Greater Natal",
     "link": "https://br.linkedin.com/jobs/view/react-frontend-developer-remote-work-ref%23307242-at-bairesdev-4487006955",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
@@ -3576,5 +3576,15 @@
     "date_posted": "1 week ago",
     "skills": [],
     "description": "Senior Data Scientist (AI Product) opportunity at Hukumonline.com (Pasar Minggu, Jakarta, Indonesia)."
+  },
+  {
+    "id": "b6a6c6251b",
+    "title": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech",
+    "company": "Hopper",
+    "location": "Montreal, Quebec, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/scientifique-de-donn%C3%A9es-principal-e-senior-data-scientist-travel-tech-at-hopper-4486549251",
+    "date_posted": "41 minutes ago",
+    "skills": [],
+    "description": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech opportunity at Hopper (Montreal, Quebec, Canada)."
   }
 ]
