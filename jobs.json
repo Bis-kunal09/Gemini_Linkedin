@@ -846,7 +846,7 @@
     "company": "QuantumBlack, AI by McKinsey",
     "location": "Seoul, Seoul, South Korea",
     "link": "https://kr.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4398044103",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Data Scientist - QuantumBlack, AI by McKinsey opportunity at QuantumBlack, AI by McKinsey (Seoul, Seoul, South Korea)."
   },
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "1 week ago",
+    "date_posted": "1 minute ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -3432,7 +3432,7 @@
     "company": "Northrop Grumman",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-at-northrop-grumman-4484277319",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Staff DevOps Engineer opportunity at Northrop Grumman (Morrisville, NC)."
   },
@@ -3551,10 +3551,30 @@
     "company": "BairesDev",
     "location": "Greater Natal",
     "link": "https://br.linkedin.com/jobs/view/react-frontend-developer-remote-work-ref%23307242-at-bairesdev-4487006955",
-    "date_posted": "5 hours ago",
+    "date_posted": "12 hours ago",
     "skills": [
       "React"
     ],
     "description": "React Frontend Developer - Remote Work | REF#307242 opportunity at BairesDev (Greater Natal)."
+  },
+  {
+    "id": "c6ae0a732c",
+    "title": "Software Engineer II, Fullstack (Capital Orchestration)",
+    "company": "Affirm",
+    "location": "Boise, ID",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-capital-orchestration-at-affirm-4486070215",
+    "date_posted": "13 hours ago",
+    "skills": [],
+    "description": "Software Engineer II, Fullstack (Capital Orchestration) opportunity at Affirm (Boise, ID)."
+  },
+  {
+    "id": "2c5617d521",
+    "title": "Senior Data Scientist (AI Product)",
+    "company": "Hukumonline.com",
+    "location": "Pasar Minggu, Jakarta, Indonesia",
+    "link": "https://id.linkedin.com/jobs/view/senior-data-scientist-ai-product-at-hukumonline-com-4483348091",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Senior Data Scientist (AI Product) opportunity at Hukumonline.com (Pasar Minggu, Jakarta, Indonesia)."
   }
 ]
