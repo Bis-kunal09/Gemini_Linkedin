@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "10 hours ago",
+    "date_posted": "17 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "17 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -3583,8 +3583,18 @@
     "company": "Hopper",
     "location": "Montreal, Quebec, Canada",
     "link": "https://ca.linkedin.com/jobs/view/scientifique-de-donn%C3%A9es-principal-e-senior-data-scientist-travel-tech-at-hopper-4486549251",
-    "date_posted": "41 minutes ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech opportunity at Hopper (Montreal, Quebec, Canada)."
+  },
+  {
+    "id": "a7918c051f",
+    "title": "Software Engineer Full Stack / Backend I (Full Time) - United States",
+    "company": "Cisco",
+    "location": "Boise, ID",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-i-full-time-united-states-at-cisco-4487715416",
+    "date_posted": "30 minutes ago",
+    "skills": [],
+    "description": "Software Engineer Full Stack / Backend I (Full Time) - United States opportunity at Cisco (Boise, ID)."
   }
 ]
