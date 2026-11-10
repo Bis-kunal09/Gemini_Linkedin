@@ -1211,7 +1211,7 @@
     "company": "Groupe SII",
     "location": "Valbonne, Provence-Alpes-C\u00f4te d'Azur, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-reactjs-f-h-at-groupe-sii-4417493332",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "D\u00e9veloppeur Front-End - ReactJS (F/H) opportunity at Groupe SII (Valbonne, Provence-Alpes-C\u00f4te d'Azur, France)."
   },
@@ -2893,7 +2893,7 @@
     "company": "Sii Poland",
     "location": "Gda\u0144sk, Pomorskie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4487180119",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Gda\u0144sk, Pomorskie, Poland)."
   },
@@ -2937,7 +2937,7 @@
     "company": "Sii Poland",
     "location": "Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland",
     "link": "https://pl.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-adtech-healthcare-f-m-x-at-sii-poland-4487181141",
-    "date_posted": "22 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior Data Scientist \u2013 AdTech & Healthcare (f/m/x) opportunity at Sii Poland (Wroc\u0142aw, Dolno\u015bl\u0105skie, Poland)."
   },
@@ -3054,7 +3054,7 @@
     "company": "FieldAI",
     "location": "Irvine, CA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-web-platform-at-fieldai-4400267681",
-    "date_posted": "3 hours ago",
+    "date_posted": "11 hours ago",
     "skills": [],
     "description": "DevOps Engineer, Web Platform opportunity at FieldAI (Irvine, CA)."
   },
@@ -3320,7 +3320,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4487775659",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Tampa, FL)."
   },
@@ -3551,7 +3551,7 @@
     "company": "BairesDev",
     "location": "Greater Natal",
     "link": "https://br.linkedin.com/jobs/view/react-frontend-developer-remote-work-ref%23307242-at-bairesdev-4487006955",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "React"
     ],
@@ -3583,7 +3583,7 @@
     "company": "Hopper",
     "location": "Montreal, Quebec, Canada",
     "link": "https://ca.linkedin.com/jobs/view/scientifique-de-donn%C3%A9es-principal-e-senior-data-scientist-travel-tech-at-hopper-4486549251",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech opportunity at Hopper (Montreal, Quebec, Canada)."
   },
@@ -3616,5 +3616,15 @@
     "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Backend Engineer opportunity at Scribe (San Francisco, CA)."
+  },
+  {
+    "id": "f69aa258d7",
+    "title": "Data Scientist, Senior",
+    "company": "Booz Allen Hamilton",
+    "location": "Camp Pendleton South, CA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4488641159",
+    "date_posted": "25 minutes ago",
+    "skills": [],
+    "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Camp Pendleton South, CA)."
   }
 ]
