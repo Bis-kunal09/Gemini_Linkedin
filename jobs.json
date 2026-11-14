@@ -1413,8 +1413,8 @@
     "title": "Software Development Engineer, AWS IAM Distributed Database System",
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
-    "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455931376",
-    "date_posted": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455904267",
+    "date_posted": "17 hours ago",
     "skills": [
       "AWS"
     ],
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "9 hours ago",
+    "date_posted": "20 hours ago",
     "skills": [
       "Python"
     ],
@@ -3385,7 +3385,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-database-aws-at-jpmorganchase-4483152382",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Java",
       "AWS"
@@ -3603,7 +3603,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/platform-devops-engineer-principal-platform-devops-engineer-aht-at-northrop-grumman-4479711528",
-    "date_posted": "4 weeks ago",
+    "date_posted": "1 month ago",
     "skills": [],
     "description": "Platform DevOps Engineer / Principal Platform DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -3623,7 +3623,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Camp Pendleton South, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4488641159",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Camp Pendleton South, CA)."
   },
@@ -3633,7 +3633,7 @@
     "company": "CGI",
     "location": "Arlington, VA",
     "link": "https://www.linkedin.com/jobs/view/sr-python-developer-ts-sci-with-poly-required-at-cgi-4489901476",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -3645,7 +3645,7 @@
     "company": "BairesDev",
     "location": "Salvador, Bahia, Brazil",
     "link": "https://br.linkedin.com/jobs/view/desenvolvedor-frontend-react-trabalho-remoto-ref%23309273-at-bairesdev-4489659771",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "React"
     ],
@@ -3660,5 +3660,15 @@
     "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (San Antonio, TX)."
+  },
+  {
+    "id": "56093d61bb",
+    "title": "DevOps & Platform Engineer",
+    "company": "Liberty Energy",
+    "location": "Houston, TX",
+    "link": "https://www.linkedin.com/jobs/view/devops-platform-engineer-at-liberty-energy-4489827372",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "DevOps & Platform Engineer opportunity at Liberty Energy (Houston, TX)."
   }
 ]
