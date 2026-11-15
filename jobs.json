@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python",
       "Django"
@@ -866,7 +866,7 @@
     "company": "Miniclip",
     "location": "Lisbon, Lisbon, Portugal",
     "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-miniclip-4369942470",
-    "date_posted": "7 months ago",
+    "date_posted": "8 months ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Miniclip (Lisbon, Lisbon, Portugal)."
   },
@@ -1134,8 +1134,8 @@
     "title": "Senior Python Software Engineer",
     "company": "Kommerce Hub",
     "location": "Tampa, FL",
-    "link": "https://www.linkedin.com/jobs/view/senior-python-software-engineer-at-kommerce-hub-4312949783",
-    "date_posted": "1 year ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-python-software-engineer-at-kommerce-hub-4491249478",
+    "date_posted": "2 hours ago",
     "skills": [
       "Python"
     ],
@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455904267",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "AWS"
     ],
@@ -2549,7 +2549,7 @@
     "company": "Venmo",
     "location": "San Jose, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -2561,7 +2561,7 @@
     "company": "Venmo",
     "location": "Austin, TX",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Python"
     ],
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [
       "Python"
     ],
@@ -2651,7 +2651,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-ii-java-spring-aws-at-jpmorganchase-4466468725",
-    "date_posted": "3 weeks ago",
+    "date_posted": "8 hours ago",
     "skills": [
       "Java",
       "AWS"
@@ -3054,7 +3054,7 @@
     "company": "FieldAI",
     "location": "Irvine, CA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-web-platform-at-fieldai-4400267681",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps Engineer, Web Platform opportunity at FieldAI (Irvine, CA)."
   },
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "2 weeks ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3385,7 +3385,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-database-aws-at-jpmorganchase-4483152382",
-    "date_posted": "20 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Java",
       "AWS"
@@ -3398,7 +3398,7 @@
     "company": "Cabinet EKINOX",
     "location": "Levallois-Perret, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-front-end-senior-react-f-h-at-cabinet-ekinox-4482088919",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "React"
     ],
@@ -3613,7 +3613,7 @@
     "company": "Scribe",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/backend-engineer-at-scribe-4472384142",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Backend Engineer opportunity at Scribe (San Francisco, CA)."
   },
@@ -3670,5 +3670,15 @@
     "date_posted": "1 day ago",
     "skills": [],
     "description": "DevOps & Platform Engineer opportunity at Liberty Energy (Houston, TX)."
+  },
+  {
+    "id": "7ce9b2d474",
+    "title": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech",
+    "company": "Hopper",
+    "location": "Qu\u00e9bec, Quebec, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/scientifique-de-donn%C3%A9es-principal-e-senior-data-scientist-travel-tech-at-hopper-4486551073",
+    "date_posted": "1 week ago",
+    "skills": [],
+    "description": "Scientifique de donn\u00e9es principal(e)// Senior Data Scientist- Travel Tech opportunity at Hopper (Qu\u00e9bec, Quebec, Canada)."
   }
 ]
