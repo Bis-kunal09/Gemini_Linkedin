@@ -535,7 +535,7 @@
     "company": "Tata Consultancy Services",
     "location": "Morrisville, NC",
     "link": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python",
       "Django"
@@ -1135,7 +1135,7 @@
     "company": "Kommerce Hub",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-python-software-engineer-at-kommerce-hub-4491249478",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Python"
     ],
@@ -1414,7 +1414,7 @@
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
     "link": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-iam-distributed-database-system-at-amazon-web-services-aws-4455904267",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [
       "AWS"
     ],
@@ -1782,7 +1782,7 @@
     "company": "Booz Allen Hamilton",
     "location": "McLean, VA",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4487783430",
-    "date_posted": "2 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (McLean, VA)."
   },
@@ -2573,7 +2573,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4465811104",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "Java"
     ],
@@ -2639,7 +2639,7 @@
     "company": "iCapital",
     "location": "Stamford, CT",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-and-developer-associate-at-icapital-4457571716",
-    "date_posted": "8 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "Python"
     ],
@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "2 weeks ago",
+    "date_posted": "11 hours ago",
     "skills": [
       "React"
     ],
@@ -3002,7 +3002,7 @@
     "company": "Tata Consultancy Services",
     "location": "Phoenix, AZ",
     "link": "https://www.linkedin.com/jobs/view/python-engineer-at-tata-consultancy-services-4466871951",
-    "date_posted": "2 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "Python"
     ],
@@ -3074,7 +3074,7 @@
     "company": "Redwood Materials",
     "location": "Reno, NV",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-redwood-materials-4475323848",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at Redwood Materials (Reno, NV)."
   },
@@ -3385,7 +3385,7 @@
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/software-engineer-iii-java-database-aws-at-jpmorganchase-4483152382",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "Java",
       "AWS"
@@ -3398,7 +3398,7 @@
     "company": "Cabinet EKINOX",
     "location": "Levallois-Perret, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-front-end-senior-react-f-h-at-cabinet-ekinox-4482088919",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [
       "React"
     ],
@@ -3613,7 +3613,7 @@
     "company": "Scribe",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/backend-engineer-at-scribe-4472384142",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "Backend Engineer opportunity at Scribe (San Francisco, CA)."
   },
@@ -3633,7 +3633,7 @@
     "company": "CGI",
     "location": "Arlington, VA",
     "link": "https://www.linkedin.com/jobs/view/sr-python-developer-ts-sci-with-poly-required-at-cgi-4489901476",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Python"
     ],
@@ -3700,5 +3700,29 @@
     "date_posted": "3 days ago",
     "skills": [],
     "description": "DevOps & Platform Engineer opportunity at Tech Ladies\u00ae (Houston, TX)."
+  },
+  {
+    "id": "2d2acad967",
+    "title": "Python Backend Developer",
+    "company": "Bright Vision Technologies",
+    "location": "Frisco, TX",
+    "link": "https://www.linkedin.com/jobs/view/python-backend-developer-at-bright-vision-technologies-4490677837",
+    "date_posted": "1 day ago",
+    "skills": [
+      "Python"
+    ],
+    "description": "Python Backend Developer opportunity at Bright Vision Technologies (Frisco, TX)."
+  },
+  {
+    "id": "ae98aada9f",
+    "title": "Desarrollador FrontEnd Senior (React) - Ingl\u00e9s Avanzado",
+    "company": "Ditech Group",
+    "location": "M\u00e1laga, Andalusia, Spain",
+    "link": "https://es.linkedin.com/jobs/view/desarrollador-frontend-senior-react-ingl%C3%A9s-avanzado-at-ditech-group-4491422551",
+    "date_posted": "23 minutes ago",
+    "skills": [
+      "React"
+    ],
+    "description": "Desarrollador FrontEnd Senior (React) - Ingl\u00e9s Avanzado opportunity at Ditech Group (M\u00e1laga, Andalusia, Spain)."
   }
 ]
