@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4491299145",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2717,8 +2717,8 @@
     "title": "Senior DevOps Engineer",
     "company": "EliseAI",
     "location": "San Francisco, CA",
-    "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-eliseai-4361632948",
-    "date_posted": "10 months ago",
+    "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-eliseai-4491783968",
+    "date_posted": "4 hours ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at EliseAI (San Francisco, CA)."
   },
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "11 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [
       "React"
     ],
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4491297198",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React"
     ],
@@ -3623,7 +3623,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Camp Pendleton South, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4488641159",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Camp Pendleton South, CA)."
   },
@@ -3633,7 +3633,7 @@
     "company": "CGI",
     "location": "Arlington, VA",
     "link": "https://www.linkedin.com/jobs/view/sr-python-developer-ts-sci-with-poly-required-at-cgi-4489901476",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -3667,7 +3667,7 @@
     "company": "Liberty Energy",
     "location": "Houston, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-platform-engineer-at-liberty-energy-4489827372",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "DevOps & Platform Engineer opportunity at Liberty Energy (Houston, TX)."
   },
@@ -3719,10 +3719,20 @@
     "company": "Ditech Group",
     "location": "M\u00e1laga, Andalusia, Spain",
     "link": "https://es.linkedin.com/jobs/view/desarrollador-frontend-senior-react-ingl%C3%A9s-avanzado-at-ditech-group-4491422551",
-    "date_posted": "23 minutes ago",
+    "date_posted": "10 hours ago",
     "skills": [
       "React"
     ],
     "description": "Desarrollador FrontEnd Senior (React) - Ingl\u00e9s Avanzado opportunity at Ditech Group (M\u00e1laga, Andalusia, Spain)."
+  },
+  {
+    "id": "968c6564ab",
+    "title": "DevOps Engineer- 1",
+    "company": "Platform9",
+    "location": "Pune Division, Maharashtra, India",
+    "link": "https://in.linkedin.com/jobs/view/devops-engineer-1-at-platform9-4490599746",
+    "date_posted": "4 days ago",
+    "skills": [],
+    "description": "DevOps Engineer- 1 opportunity at Platform9 (Pune Division, Maharashtra, India)."
   }
 ]
