@@ -1920,7 +1920,7 @@
     "company": "Kicklox",
     "location": "Paris, \u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-at-kicklox-4491299145",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Data scientist H/F opportunity at Kicklox (Paris, \u00cele-de-France, France)."
   },
@@ -2718,7 +2718,7 @@
     "company": "EliseAI",
     "location": "San Francisco, CA",
     "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-eliseai-4491783968",
-    "date_posted": "18 hours ago",
+    "date_posted": "1 day ago",
     "skills": [],
     "description": "Senior DevOps Engineer opportunity at EliseAI (San Francisco, CA)."
   },
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4491297198",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [
       "React"
     ],
@@ -3656,8 +3656,8 @@
     "title": "DevOps Engineer",
     "company": "Booz Allen Hamilton",
     "location": "San Antonio, TX",
-    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4487777584",
-    "date_posted": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4492222129",
+    "date_posted": "8 hours ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (San Antonio, TX)."
   },
@@ -3667,7 +3667,7 @@
     "company": "Liberty Energy",
     "location": "Houston, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-platform-engineer-at-liberty-energy-4489827372",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps & Platform Engineer opportunity at Liberty Energy (Houston, TX)."
   },
@@ -3697,7 +3697,7 @@
     "company": "Tech Ladies\u00ae",
     "location": "Houston, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-platform-engineer-at-tech-ladies%C2%AE-4489894495",
-    "date_posted": "3 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "DevOps & Platform Engineer opportunity at Tech Ladies\u00ae (Houston, TX)."
   },
@@ -3719,7 +3719,7 @@
     "company": "Ditech Group",
     "location": "M\u00e1laga, Andalusia, Spain",
     "link": "https://es.linkedin.com/jobs/view/desarrollador-frontend-senior-react-ingl%C3%A9s-avanzado-at-ditech-group-4491422551",
-    "date_posted": "23 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
@@ -3741,7 +3741,7 @@
     "company": "Raytheon",
     "location": "Aurora, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-python-software-developer-onsite-at-raytheon-4492061521",
-    "date_posted": "2 hours ago",
+    "date_posted": "13 hours ago",
     "skills": [
       "Python"
     ],
@@ -3770,5 +3770,27 @@
       "Python"
     ],
     "description": "Senior Data Scientist with Prophet, Python opportunity at EPAM Systems (Uzbekistan)."
+  },
+  {
+    "id": "0b161b6937",
+    "title": "Software Engineer (Backend, Java)",
+    "company": "EPAM Systems",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/software-engineer-backend-java-at-epam-systems-4489534403",
+    "date_posted": "6 days ago",
+    "skills": [
+      "Java"
+    ],
+    "description": "Software Engineer (Backend, Java) opportunity at EPAM Systems (Singapore, Singapore)."
+  },
+  {
+    "id": "b274a086d4",
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "location": "San Diego, CA",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4492223118",
+    "date_posted": "8 hours ago",
+    "skills": [],
+    "description": "Data Scientist opportunity at Booz Allen Hamilton (San Diego, CA)."
   }
 ]
