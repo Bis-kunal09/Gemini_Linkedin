@@ -2833,7 +2833,7 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4493281769",
-    "date_posted": "2 days ago",
+    "date_posted": "3 days ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -3811,7 +3811,7 @@
     "company": "Deloitte",
     "location": "Lake Mary, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493988774",
-    "date_posted": "2 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [
       "AWS"
     ],
@@ -3823,10 +3823,30 @@
     "company": "Deloitte",
     "location": "Gilbert, AZ",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493994564",
-    "date_posted": "2 hours ago",
+    "date_posted": "15 hours ago",
     "skills": [
       "AWS"
     ],
     "description": "Senior AWS Infrastructure/DevOps Engineer opportunity at Deloitte (Gilbert, AZ)."
+  },
+  {
+    "id": "2c024c8dd8",
+    "title": "Software Engineer I, Fullstack (Disputes Platform)",
+    "company": "Affirm",
+    "location": "Calgary, Alberta, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/software-engineer-i-fullstack-disputes-platform-at-affirm-4492861802",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Software Engineer I, Fullstack (Disputes Platform) opportunity at Affirm (Calgary, Alberta, Canada)."
+  },
+  {
+    "id": "f52c176fe8",
+    "title": "Software Engineer I, Fullstack (Disputes Platform)",
+    "company": "Affirm",
+    "location": "Edmonton, Alberta, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/software-engineer-i-fullstack-disputes-platform-at-affirm-4492877015",
+    "date_posted": "3 days ago",
+    "skills": [],
+    "description": "Software Engineer I, Fullstack (Disputes Platform) opportunity at Affirm (Edmonton, Alberta, Canada)."
   }
 ]
