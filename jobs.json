@@ -2990,7 +2990,7 @@
     "company": "Aubay",
     "location": "\u00cele-de-France, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-react-next-js-confirm%C3%A9-f-h-at-aubay-4433939277",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "React"
     ],
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4491297198",
-    "date_posted": "11 hours ago",
+    "date_posted": "21 hours ago",
     "skills": [
       "React"
     ],
@@ -3804,5 +3804,29 @@
       "Python"
     ],
     "description": "Software Engineer II - Python & Cloud Services (Onsite) opportunity at Raytheon (Aurora, CO)."
+  },
+  {
+    "id": "c4485b3de5",
+    "title": "Senior AWS Infrastructure/DevOps Engineer",
+    "company": "Deloitte",
+    "location": "Lake Mary, FL",
+    "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493988774",
+    "date_posted": "2 hours ago",
+    "skills": [
+      "AWS"
+    ],
+    "description": "Senior AWS Infrastructure/DevOps Engineer opportunity at Deloitte (Lake Mary, FL)."
+  },
+  {
+    "id": "0801e9967d",
+    "title": "Senior AWS Infrastructure/DevOps Engineer",
+    "company": "Deloitte",
+    "location": "Gilbert, AZ",
+    "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493994564",
+    "date_posted": "2 hours ago",
+    "skills": [
+      "AWS"
+    ],
+    "description": "Senior AWS Infrastructure/DevOps Engineer opportunity at Deloitte (Gilbert, AZ)."
   }
 ]
