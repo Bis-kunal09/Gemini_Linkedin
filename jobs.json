@@ -1233,7 +1233,7 @@
     "company": "Traveloka",
     "location": "Shanghai, Shanghai, China",
     "link": "https://cn.linkedin.com/jobs/view/%E4%B8%8A%E6%B5%B7-%E8%B5%84%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-web-engineer-at-traveloka-4492921040",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "\u4e0a\u6d77-\u8d44\u6df1\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08/Web Engineer opportunity at Traveloka (Shanghai, Shanghai, China)."
   },
@@ -1688,7 +1688,7 @@
     "company": "Northrop Grumman",
     "location": "Dayton, OH",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-principal-devops-engineer-aht-at-northrop-grumman-4472246576",
-    "date_posted": "1 month ago",
+    "date_posted": "2 months ago",
     "skills": [],
     "description": "DevOps Engineer/Principal DevOps Engineer (AHT) opportunity at Northrop Grumman (Dayton, OH)."
   },
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4491297198",
-    "date_posted": "21 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "React"
     ],
@@ -3320,7 +3320,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Tampa, FL",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4487775659",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (Tampa, FL)."
   },
@@ -3623,7 +3623,7 @@
     "company": "Booz Allen Hamilton",
     "location": "Camp Pendleton South, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4488641159",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [],
     "description": "Data Scientist, Senior opportunity at Booz Allen Hamilton (Camp Pendleton South, CA)."
   },
@@ -3657,7 +3657,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Antonio, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4492222129",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (San Antonio, TX)."
   },
@@ -3789,7 +3789,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Diego, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4492223118",
-    "date_posted": "5 days ago",
+    "date_posted": "6 days ago",
     "skills": [],
     "description": "Data Scientist opportunity at Booz Allen Hamilton (San Diego, CA)."
   },
@@ -3811,7 +3811,7 @@
     "company": "Deloitte",
     "location": "Lake Mary, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493988774",
-    "date_posted": "15 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "AWS"
     ],
@@ -3823,7 +3823,7 @@
     "company": "Deloitte",
     "location": "Gilbert, AZ",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493994564",
-    "date_posted": "15 hours ago",
+    "date_posted": "1 day ago",
     "skills": [
       "AWS"
     ],
@@ -3848,5 +3848,17 @@
     "date_posted": "3 days ago",
     "skills": [],
     "description": "Software Engineer I, Fullstack (Disputes Platform) opportunity at Affirm (Edmonton, Alberta, Canada)."
+  },
+  {
+    "id": "e6aabe80ce",
+    "title": "D\u00e9veloppeur Front-End (React) H/F",
+    "company": "Kicklox",
+    "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
+    "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4493632907",
+    "date_posted": "1 day ago",
+    "skills": [
+      "React"
+    ],
+    "description": "D\u00e9veloppeur Front-End (React) H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
   }
 ]
