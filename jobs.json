@@ -1233,7 +1233,7 @@
     "company": "Traveloka",
     "location": "Shanghai, Shanghai, China",
     "link": "https://cn.linkedin.com/jobs/view/%E4%B8%8A%E6%B5%B7-%E8%B5%84%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-web-engineer-at-traveloka-4492921040",
-    "date_posted": "4 days ago",
+    "date_posted": "5 days ago",
     "skills": [],
     "description": "\u4e0a\u6d77-\u8d44\u6df1\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08/Web Engineer opportunity at Traveloka (Shanghai, Shanghai, China)."
   },
@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "2 weeks ago",
+    "date_posted": "7 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2833,7 +2833,7 @@
     "company": "Baxter International Inc.",
     "location": "Raleigh, NC",
     "link": "https://www.linkedin.com/jobs/view/principal-engineer-devops-at-baxter-international-inc-4493281769",
-    "date_posted": "3 days ago",
+    "date_posted": "4 days ago",
     "skills": [],
     "description": "Principal Engineer, DevOps, opportunity at Baxter International Inc. (Raleigh, NC)."
   },
@@ -3168,7 +3168,7 @@
     "company": "Kicklox",
     "location": "Toulouse, Occitanie, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4491297198",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React"
     ],
@@ -3270,7 +3270,7 @@
     "company": "FOURSYS",
     "location": "Barueri, S\u00e3o Paulo, Brazil",
     "link": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-foursys-4484456566",
-    "date_posted": "3 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Cientista de dados opportunity at FOURSYS (Barueri, S\u00e3o Paulo, Brazil)."
   },
@@ -3855,10 +3855,20 @@
     "company": "Kicklox",
     "location": "Lyon, Auvergne-Rh\u00f4ne-Alpes, France",
     "link": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-front-end-react-h-f-at-kicklox-4493632907",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "React"
     ],
     "description": "D\u00e9veloppeur Front-End (React) H/F opportunity at Kicklox (Lyon, Auvergne-Rh\u00f4ne-Alpes, France)."
+  },
+  {
+    "id": "564456e8e0",
+    "title": "Sr Staff Data Scientist",
+    "company": "PayPal",
+    "location": "Singapore, Singapore",
+    "link": "https://sg.linkedin.com/jobs/view/sr-staff-data-scientist-at-paypal-4494620312",
+    "date_posted": "10 hours ago",
+    "skills": [],
+    "description": "Sr Staff Data Scientist opportunity at PayPal (Singapore, Singapore)."
   }
 ]
