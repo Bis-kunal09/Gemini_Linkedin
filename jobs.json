@@ -2585,7 +2585,7 @@
     "company": "Circle",
     "location": "Salt Lake City Metropolitan Area",
     "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-circle-4459277902",
-    "date_posted": "7 hours ago",
+    "date_posted": "18 hours ago",
     "skills": [],
     "description": "Senior Software Engineer, Frontend opportunity at Circle (Salt Lake City Metropolitan Area)."
   },
@@ -2813,7 +2813,7 @@
     "company": "Grab",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/senior-software-engineer-backend-at-grab-4482947573",
-    "date_posted": "2 weeks ago",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Senior Software Engineer, Backend opportunity at Grab (Singapore, Singapore)."
   },
@@ -2822,8 +2822,8 @@
     "title": "Senior Data Scientist",
     "company": "Grupo Rumos",
     "location": "Porto, Porto, Portugal",
-    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-grupo-rumos-4479984438",
-    "date_posted": "4 weeks ago",
+    "link": "https://pt.linkedin.com/jobs/view/senior-data-scientist-at-grupo-rumos-4494976025",
+    "date_posted": "3 weeks ago",
     "skills": [],
     "description": "Senior Data Scientist opportunity at Grupo Rumos (Porto, Porto, Portugal)."
   },
@@ -3541,7 +3541,7 @@
     "company": "Client Server",
     "location": "Columbus, OH",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-c%23-net-fintech-at-client-server-4484477255",
-    "date_posted": "2 weeks ago",
+    "date_posted": "4 weeks ago",
     "skills": [],
     "description": "Software Engineer C# .Net - FinTech opportunity at Client Server (Columbus, OH)."
   },
@@ -3633,7 +3633,7 @@
     "company": "CGI",
     "location": "Arlington, VA",
     "link": "https://www.linkedin.com/jobs/view/sr-python-developer-ts-sci-with-poly-required-at-cgi-4489901476",
-    "date_posted": "1 week ago",
+    "date_posted": "2 weeks ago",
     "skills": [
       "Python"
     ],
@@ -3657,7 +3657,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Antonio, TX",
     "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-booz-allen-hamilton-4492222129",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "DevOps Engineer opportunity at Booz Allen Hamilton (San Antonio, TX)."
   },
@@ -3741,7 +3741,7 @@
     "company": "Raytheon",
     "location": "Aurora, CO",
     "link": "https://www.linkedin.com/jobs/view/senior-python-software-developer-onsite-at-raytheon-4492061521",
-    "date_posted": "5 days ago",
+    "date_posted": "1 week ago",
     "skills": [
       "Python"
     ],
@@ -3789,7 +3789,7 @@
     "company": "Booz Allen Hamilton",
     "location": "San Diego, CA",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4492223118",
-    "date_posted": "6 days ago",
+    "date_posted": "1 week ago",
     "skills": [],
     "description": "Data Scientist opportunity at Booz Allen Hamilton (San Diego, CA)."
   },
@@ -3799,7 +3799,7 @@
     "company": "Raytheon",
     "location": "Aurora, CO",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-python-cloud-services-onsite-at-raytheon-4492789178",
-    "date_posted": "3 days ago",
+    "date_posted": "6 days ago",
     "skills": [
       "Python"
     ],
@@ -3811,7 +3811,7 @@
     "company": "Deloitte",
     "location": "Lake Mary, FL",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493988774",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "AWS"
     ],
@@ -3823,7 +3823,7 @@
     "company": "Deloitte",
     "location": "Gilbert, AZ",
     "link": "https://www.linkedin.com/jobs/view/senior-aws-infrastructure-devops-engineer-at-deloitte-4493994564",
-    "date_posted": "1 day ago",
+    "date_posted": "2 days ago",
     "skills": [
       "AWS"
     ],
@@ -3867,8 +3867,18 @@
     "company": "PayPal",
     "location": "Singapore, Singapore",
     "link": "https://sg.linkedin.com/jobs/view/sr-staff-data-scientist-at-paypal-4494620312",
-    "date_posted": "10 hours ago",
+    "date_posted": "20 hours ago",
     "skills": [],
     "description": "Sr Staff Data Scientist opportunity at PayPal (Singapore, Singapore)."
+  },
+  {
+    "id": "b03c0925c4",
+    "title": "Software Engineer / Senior Software Engineer \u2013 Portfolio Analysis",
+    "company": "SimCorp",
+    "location": "Copenhagen, Capital Region of Denmark, Denmark",
+    "link": "https://dk.linkedin.com/jobs/view/software-engineer-senior-software-engineer-%E2%80%93-portfolio-analysis-at-simcorp-4494662613",
+    "date_posted": "14 hours ago",
+    "skills": [],
+    "description": "Software Engineer / Senior Software Engineer \u2013 Portfolio Analysis opportunity at SimCorp (Copenhagen, Capital Region of Denmark, Denmark)."
   }
 ]
